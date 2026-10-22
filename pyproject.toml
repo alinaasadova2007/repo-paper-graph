@@ -1,0 +1,24 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "repo-paper-graph"
+version = "0.1.0"
+description = "Граф репозиторий - статья - автор для open source организации: GitHub + OpenAlex -> MongoDB -> Neo4j"
+readme = "README.md"
+requires-python = ">=3.10"
+license = { text = "MIT" }
+authors = [{ name = "Alina Asadova" }]
+dependencies = ["requests>=2.31", "rapidfuzz>=3.0", "pyyaml>=6.0", "python-dotenv>=1.0"]
+
+[project.optional-dependencies]
+mongo = ["pymongo>=4.6"]
+neo4j = ["neo4j>=5.20"]
+dev = ["pytest>=8", "mongomock>=4.1"]
+
+[project.scripts]
+paperlink = "paperlink.cli:main"
+
+[tool.setuptools.packages.find]
+include = ["paperlink*"]

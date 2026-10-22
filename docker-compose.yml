@@ -1,0 +1,37 @@
+services:
+  mongo:
+    image: mongo:7
+    ports: ["27017:27017"]
+    volumes: [mongo-data:/data/db]
+
+  neo4j:
+    image: neo4j:5-community
+    ports: ["7474:7474", "7687:7687"]
+    environment:
+      NEO4J_AUTH: neo4j/paperlink-dev
+    volumes: [neo4j-data:/data]
+    healthcheck:
+      test: ["CMD-SHELL", "cypher-shell -u neo4j -p paperlink-dev 'RETURN 1' || exit 1"]
+      interval: 10s
+      retries: 12
+
+  paperlink:
+    build: .
+    depends_on:
+      mongo:
+        condition: service_started
+      neo4j:
+        condition: service_healthy
+    environment:
+      MONGO_URI: mongodb://mongo:27017
+      NEO4J_URI: bolt://neo4j:7687
+      NEO4J_USER: neo4j
+      NEO4J_PASSWORD: paperlink-dev
+      GITHUB_TOKEN: ${GITHUB_TOKEN:-}
+      OPENALEX_API_KEY: ${OPENALEX_API_KEY:-}
+    volumes: ["./results:/app/results"]
+    command: ["run", "--org", "aimclub"]
+
+volumes:
+  mongo-data:
+  neo4j-data:

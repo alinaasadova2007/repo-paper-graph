@@ -1,0 +1,23 @@
+## Число узлов по меткам
+   {'label': 'Person', 'n': 211}
+   {'label': 'Repository', 'n': 141}
+   {'label': 'Publication', 'n': 37}
+   {'label': 'GitHubProfile', 'n': 36}
+## Какие репозитории реализуют статьи с авторами из ИТМО
+   {'repo': 'aimclub/FEDOT.Web', 'year': 2021, 'itmo_authors': 9}
+   {'repo': 'aimclub/FEDOT', 'year': 2021, 'itmo_authors': 9}
+   {'repo': 'ITMO-NSS-team/pytsbe', 'year': 2021, 'itmo_authors': 9}
+   {'repo': 'aimclub/BAMT', 'year': 2021, 'itmo_authors': 7}
+   {'repo': 'ITMO-NSS-team/composite-flood-forecast', 'year': 2021, 'itmo_authors': 6}
+   {'repo': 'ITMO-NSS-team/sea_ice_transformers', 'year': 2026, 'itmo_authors': 5}
+   {'repo': 'ITMO-NSS-team/FEDOT.MAS', 'year': 2026, 'itmo_authors': 5}
+   {'repo': 'aimclub/blocksnet', 'year': 2024, 'itmo_authors': 5}
+## Самые «связующие» авторы ИТМО (статьи с кодом)
+   {'author': 'Nikolay O. Nikitin', 'repos': 8, 'examples': ['FEDOT.MAS', 'composite-flood-forecast', 'pytsbe', 'FEDOT.Web']}
+   {'author': 'Ilia Revin', 'repos': 6, 'examples': ['FEDOT.MAS', 'composite-flood-forecast', 'pytsbe', 'FEDOT.Web']}
+   {'author': 'Anna V. Kalyuzhnaya', 'repos': 4, 'examples': ['pytsbe', 'FEDOT.Web', 'FEDOT', 'BAMT']}
+   {'author': 'Mikhail Sarafanov', 'repos': 4, 'examples': ['composite-flood-forecast', 'pytsbe', 'FEDOT.Web', 'FEDOT']}
+   {'author': 'Gleb Maximov', 'repos': 4, 'examples': ['composite-flood-forecast', 'pytsbe', 'FEDOT.Web', 'FEDOT']}
+   {'author': 'Alexander V. Boukhanovsky', 'repos': 4, 'examples': ['pytsbe', 'FEDOT.Web', 'FEDOT', 'BAMT']}
+## Одна статья - несколько репозиториев
+   {'paper': 'Automated evolutionary approach for the design of composite machine learning pipelines', 'repos': ['ITMO-NSS-team/pytsbe', 'aimclub/FEDOT.Web', 'aimclub/FEDOT']}

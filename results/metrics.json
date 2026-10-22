@@ -1,0 +1,28 @@
+{
+  "repositories": 141,
+  "repos_with_any_paper_link": 22,
+  "repos_with_implements": 16,
+  "coverage_any_link": 0.156,
+  "coverage_implements": 0.113,
+  "publications": 37,
+  "publications_with_itmo_author": 21,
+  "unresolved_links": 0,
+  "own_links_without_evidence": 0,
+  "foreign_mentions_not_implements": 15,
+  "possible_same_as": 13,
+  "possible_person_duplicates": 1,
+  "nodes": {
+    "Repository": 141,
+    "GitHubProfile": 36,
+    "Publication": 37,
+    "Person": 211
+  },
+  "edges": {
+    "OWNED_BY": 141,
+    "CONTRIBUTED_TO": 44,
+    "MENTIONS_PAPER": 39,
+    "AUTHORED": 248,
+    "POSSIBLY_SAME_AS": 13,
+    "IMPLEMENTS": 21
+  }
+}

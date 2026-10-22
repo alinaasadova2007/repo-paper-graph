@@ -1,0 +1,9854 @@
+{
+ "nodes": [
+  {
+   "label": "Repository",
+   "id": "ITMO-NSS-team/.github",
+   "name": ".github",
+   "url": "https://github.com/ITMO-NSS-team/.github",
+   "stars": 0,
+   "created_at": "2023-09-25T13:39:30Z",
+   "pushed_at": "2024-05-15T20:05:39Z"
+  },
+  {
+   "label": "GitHubProfile",
+   "id": "ITMO-NSS-team",
+   "login": "ITMO-NSS-team",
+   "type": "Organization"
+  },
+  {
+   "label": "Repository",
+   "id": "ITMO-NSS-team/AIRI-hack",
+   "name": "AIRI-hack",
+   "url": "https://github.com/ITMO-NSS-team/AIRI-hack",
+   "description": "The repository contains the data of the NSS lab team for the hackathon \"AIRI Molhack 2022\". The task was to predict molecular energy using various molecular data.",
+   "stars": 3,
+   "language": "Jupyter Notebook",
+   "created_at": "2022-07-12T20:51:52Z",
+   "pushed_at": "2022-07-18T18:52:12Z"
+  },
+  {
+   "label": "Repository",
+   "id": "ITMO-NSS-team/AgroCode-Hack-2022",
+   "name": "AgroCode-Hack-2022",
+   "url": "https://github.com/ITMO-NSS-team/AgroCode-Hack-2022",
+   "description": "The repository contains the data of the NSS lab team for the hackathon \"AgroCode Hack 2022\". The task was to analyze cow treatment data and to find the most ineffective treatment protocols.",
+   "stars": 11,
+   "language": "Jupyter Notebook",
+   "created_at": "2022-09-19T17:33:31Z",
+   "pushed_at": "2022-09-19T17:51:19Z"
+  },
+  {
+   "label": "Repository",
+   "id": "ITMO-NSS-team/Aiice",
+   "name": "Aiice",
+   "url": "https://github.com/ITMO-NSS-team/Aiice",
+   "description": "A standardized benchmark for spatio-temporal forecasting of Arctic sea ice concentration",
+   "stars": 9,
+   "language": "Jupyter Notebook",
+   "license": "BSD-3-Clause",
+   "created_at": "2025-05-21T14:32:40Z",
+   "pushed_at": "2026-09-22T09:28:47Z"
+  },
+  {
+   "label": "Repository",
+   "id": "ITMO-NSS-team/Air-quality-AutoMLs",
+   "name": "Air-quality-AutoMLs",
+   "url": "https://github.com/ITMO-NSS-team/Air-quality-AutoMLs",
+   "description": "Automates PM10 air quality forecasting in urban environments using different AutoML pipelines for improved accuracy",
+   "stars": 2,
+   "language": "Jupyter Notebook",
+   "license": "MIT",
+   "created_at": "2025-05-01T14:33:20Z",
+   "pushed_at": "2025-07-30T16:38:01Z"
+  },
+  {
+   "label": "Repository",
+   "id": "ITMO-NSS-team/AutoJudge",
+   "name": "AutoJudge",
+   "url": "https://github.com/ITMO-NSS-team/AutoJudge",
+   "description": "Framework for Evaluating LLM-based Agentic Systems",
+   "stars": 16,
+   "language": "Python",
+   "created_at": "2026-02-03T07:50:28Z",
+   "pushed_at": "2026-09-22T13:42:59Z"
+  },
+  {
+   "label": "Repository",
+   "id": "ITMO-NSS-team/AutoSWAN",
+   "name": "AutoSWAN",
+   "url": "https://github.com/ITMO-NSS-team/AutoSWAN",
+   "description": "The toolbox for the automated creation of the SWAN wind wave model configurations",
+   "stars": 12,
+   "language": "Python",
+   "license": "BSD-3-Clause",
+   "created_at": "2021-08-19T13:37:59Z",
+   "pushed_at": "2023-09-20T23:49:53Z"
+  },
+  {
+   "label": "Repository",
+   "id": "ITMO-NSS-team/CEC_2023_knowledge",
+   "name": "CEC_2023_knowledge",
+   "url": "https://github.com/ITMO-NSS-team/CEC_2023_knowledge",
+   "description": "Repo for paper \"Directed differential equation discovery using modified mutation and cross-over operators\" accepted for IEEECEC 2023 conference presentation",
+   "stars": 3,
+   "language": "Python",
+   "created_at": "2023-04-21T10:12:24Z",
+   "pushed_at": "2023-04-25T09:52:03Z"
+  },
+  {
+   "label": "Repository",
+   "id": "ITMO-NSS-team/CatRepBench",
+   "name": "CatRepBench",
+   "url": "https://github.com/ITMO-NSS-team/CatRepBench",
+   "description": "A study of how different representations of categorical features influence the training dynamics and generation quality of tabular generative models.",
+   "stars": 4,
+   "language": "Python",
+   "created_at": "2026-02-05T08:13:21Z",
+   "pushed_at": "2026-06-15T01:54:06Z"
+  },
+  {
+   "label": "Repository",
+   "id": "ITMO-NSS-team/DAN_Mathematics2023_paper",
+   "name": "DAN_Mathematics2023_paper",
+   "url": "https://github.com/ITMO-NSS-team/DAN_Mathematics2023_paper",
+   "description": "Репозиторий научной статьи \"О задаче устойчивого поиска дифференциальных уравнений\" в рамках трека «AI Journey Science» 2023.",
+   "stars": 1,
+   "language": "Jupyter Notebook",
+   "created_at": "2023-09-01T13:53:08Z",
+   "pushed_at": "2023-09-18T11:10:43Z"
+  },
+  {
+   "label": "Repository",
+   "id": "ITMO-NSS-team/DS2024_Active_Matter",
+   "name": "DS2024_Active_Matter",
+   "url": "https://github.com/ITMO-NSS-team/DS2024_Active_Matter",
+   "description": "Repository of the research article \"Differential equation discovery of robotic swarm as active matter\" in the 27th International Conference on Discovery Science 2024 (http://ds2024.isti.cnr.it/)",
+   "stars": 2,
+   "language": "HTML",
+   "created_at": "2024-06-25T07:56:04Z",
+   "pushed_at": "2024-09-11T11:39:19Z"
+  },
+  {
+   "label": "Repository",
+   "id": "ITMO-NSS-team/DS2025_Ensembles",
+   "name": "DS2025_Ensembles",
+   "url": "https://github.com/ITMO-NSS-team/DS2025_Ensembles",
+   "description": "Code for paper On an impact of conditional distribution in discovered differential equation ensembles submitted to Discovery Science 2025 conference",
+   "stars": 0,
+   "language": "Jupyter Notebook",
+   "license": "BSD-3-Clause",
+   "created_at": "2025-05-31T08:42:49Z",
+   "pushed_at": "2025-06-11T16:34:56Z"
+  },
+  {
+   "label": "Repository",
+   "id": "ITMO-NSS-team/DS2025_diff",
+   "name": "DS2025_diff",
+   "url": "https://github.com/ITMO-NSS-team/DS2025_diff",
+   "description": "Benchmarks robust equation discovery from noisy data via synthetic ODE/PDE datasets and automated method comparison",
+   "stars": 3,
+   "language": "Jupyter Notebook",
+   "license": "MIT",
+   "created_at": "2025-02-11T11:15:02Z",
+   "pushed_at": "2025-08-10T13:20:20Z"
+  },
+  {
+   "label": "Repository",
+   "id": "ITMO-NSS-team/DynamicMCPBench",
+   "name": "DynamicMCPBench",
+   "url": "https://github.com/ITMO-NSS-team/DynamicMCPBench",
+   "stars": 9,
+   "language": "Python",
+   "license": "Apache-2.0",
+   "created_at": "2026-05-28T11:29:03Z",
+   "pushed_at": "2026-10-20T09:11:28Z"
+  },
+  {
+   "label": "Repository",
+   "id": "ITMO-NSS-team/DynamicModelDesign",
+   "name": "DynamicModelDesign",
+   "url": "https://github.com/ITMO-NSS-team/DynamicModelDesign",
+   "description": "Library for dynamic data-driven identification for supercomputer implementation of composite models under uncertainty",
+   "stars": 2,
+   "language": "Python",
+   "license": "BSD-3-Clause",
+   "created_at": "2022-11-22T16:33:34Z",
+   "pushed_at": "2022-12-01T15:19:26Z"
+  },
+  {
+   "label": "Repository",
+   "id": "ITMO-NSS-team/EPDE",
+   "name": "EPDE",
+   "url": "https://github.com/ITMO-NSS-team/EPDE",
+   "description": "EPDE - partial differential equations discovery framework",
+   "stars": 66,
+   "language": "Python",
+   "license": "NOASSERTION",
+   "created_at": "2020-11-20T14:34:11Z",
+   "pushed_at": "2026-10-16T09:11:53Z"
+  },
+  {
+   "label": "Repository",
+   "id": "ITMO-NSS-team/EPDE_CTRL",
+   "name": "EPDE_CTRL",
+   "url": "https://github.com/ITMO-NSS-team/EPDE_CTRL",
+   "description": "Framework for PINN-based reinforcement learning, where the environment is substituted with equation-based model.",
+   "stars": 3,
+   "language": "Python",
+   "license": "MIT",
+   "created_at": "2024-08-30T14:15:59Z",
+   "pushed_at": "2024-09-02T12:37:02Z"
+  },
+  {
+   "label": "Repository",
+   "id": "ITMO-NSS-team/EPDE_GECCO_experiments",
+   "name": "EPDE_GECCO_experiments",
+   "url": "https://github.com/ITMO-NSS-team/EPDE_GECCO_experiments",
+   "description": "Repository for storage of experiments with EPDE for GECCO-2023 paper \"Comparison of Single- and Multi- Objective Optimization Quality for Evolutionary Equation Discover\" in form of data and scripts.",
+   "stars": 3,
+   "language": "Python",
+   "created_at": "2023-04-20T17:22:27Z",
+   "pushed_at": "2023-04-24T10:36:02Z"
+  },
+  {
+   "label": "GitHubProfile",
+   "id": "Maslyaev",
+   "login": "Maslyaev",
+   "name": "Mikhail Maslyaev",
+   "type": "User",
+   "url": "https://github.com/Maslyaev"
+  },
+  {
+   "label": "Publication",
+   "id": "W4385190075",
+   "title": "Comparison of Single- and Multi- Objective Optimization Quality for Evolutionary Equation Discovery",
+   "year": 2023,
+   "doi": "10.1145/3583133.3590601",
+   "cited_by_count": 3,
+   "has_itmo_author": true
+  },
+  {
+   "label": "Person",
+   "id": "A5019841109",
+   "name": "Mikhail Maslyaev",
+   "orcid": "https://orcid.org/0000-0001-5595-0802",
+   "is_itmo": true
+  },
+  {
+   "label": "Person",
+   "id": "A5004239401",
+   "name": "Alexander Hvatov",
+   "orcid": "https://orcid.org/0000-0002-5222-583X",
+   "is_itmo": true
+  },
+  {
+   "label": "Repository",
+   "id": "ITMO-NSS-team/EPDE_LLM_NeurIPS2026",
+   "name": "EPDE_LLM_NeurIPS2026",
+   "url": "https://github.com/ITMO-NSS-team/EPDE_LLM_NeurIPS2026",
+   "stars": 0,
+   "language": "Python",
+   "license": "MIT",
+   "created_at": "2025-11-06T10:46:10Z",
+   "pushed_at": "2026-01-07T08:18:43Z"
+  },
+  {
+   "label": "Repository",
+   "id": "ITMO-NSS-team/EPDE_automated_knowledge",
+   "name": "EPDE_automated_knowledge",
+   "url": "https://github.com/ITMO-NSS-team/EPDE_automated_knowledge",
+   "description": "Repo for paper \"Knowledge-awared equation discovery with automated knowledge extraction\"",
+   "stars": 2,
+   "language": "Python",
+   "created_at": "2023-12-08T15:13:11Z",
+   "pushed_at": "2024-06-20T11:29:03Z"
+  },
+  {
+   "label": "Repository",
+   "id": "ITMO-NSS-team/EPDE_paper_experiments",
+   "name": "EPDE_paper_experiments",
+   "url": "https://github.com/ITMO-NSS-team/EPDE_paper_experiments",
+   "description": "Experiments and code examples on the comparison between EPDE and SINDy frameworks.",
+   "stars": 3,
+   "language": "Python",
+   "created_at": "2023-08-29T10:46:16Z",
+   "pushed_at": "2023-08-29T12:41:46Z"
+  },
+  {
+   "label": "Repository",
+   "id": "ITMO-NSS-team/Epidemic_AutoML",
+   "name": "Epidemic_AutoML",
+   "url": "https://github.com/ITMO-NSS-team/Epidemic_AutoML",
+   "stars": 3,
+   "language": "Jupyter Notebook",
+   "created_at": "2021-09-16T16:45:27Z",
+   "pushed_at": "2022-09-15T16:53:51Z"
+  },
+  {
+   "label": "Repository",
+   "id": "ITMO-NSS-team/FEDOT-benchmarks",
+   "name": "FEDOT-benchmarks",
+   "url": "https://github.com/ITMO-NSS-team/FEDOT-benchmarks",
+   "description": "Comparison tool for the state-of-the-art AutoML frameworks",
+   "stars": 4,
+   "language": "Python",
+   "created_at": "2020-09-24T09:57:15Z",
+   "pushed_at": "2022-07-12T13:29:39Z"
+  },
+  {
+   "label": "Repository",
+   "id": "ITMO-NSS-team/FEDOT.Algs",
+   "name": "FEDOT.Algs",
+   "url": "https://github.com/ITMO-NSS-team/FEDOT.Algs",
+   "description": "The realisations and examples of algorithms from FEDOT framework",
+   "stars": 12,
+   "language": "Jupyter Notebook",
+   "license": "BSD-3-Clause",
+   "created_at": "2020-02-27T12:57:22Z",
+   "pushed_at": "2021-05-27T10:16:41Z"
+  },
+  {
+   "label": "Repository",
+   "id": "ITMO-NSS-team/FEDOT.MAS-Demo",
+   "name": "FEDOT.MAS-Demo",
+   "url": "https://github.com/ITMO-NSS-team/FEDOT.MAS-Demo",
+   "stars": 4,
+   "language": "Python",
+   "license": "BSD-3-Clause",
+   "created_at": "2025-06-17T20:38:47Z",
+   "pushed_at": "2026-05-26T14:35:23Z"
+  },
+  {
+   "label": "Repository",
+   "id": "ITMO-NSS-team/FEDOT.MAS",
+   "name": "FEDOT.MAS",
+   "url": "https://github.com/ITMO-NSS-team/FEDOT.MAS",
+   "description": "Automated creation of multi-agent systems",
+   "stars": 10,
+   "language": "Python",
+   "license": "MIT",
+   "created_at": "2026-02-16T16:09:09Z",
+   "pushed_at": "2026-10-15T11:17:28Z"
+  },
+  {
+   "label": "GitHubProfile",
+   "id": "dmitryglhf",
+   "login": "dmitryglhf",
+   "name": "Dmitry Gilemkhanov",
+   "type": "User",
+   "url": "https://github.com/dmitryglhf"
+  },
+  {
+   "label": "GitHubProfile",
+   "id": "VadimsAhmers",
+   "login": "VadimsAhmers",
+   "name": "Vadim Akhmerov",
+   "type": "User",
+   "url": "https://github.com/VadimsAhmers"
+  },
+  {
+   "label": "GitHubProfile",
+   "id": "down-shift",
+   "login": "down-shift",
+   "name": "Daniel Fedorov",
+   "type": "User",
+   "url": "https://github.com/down-shift"
+  },
+  {
+   "label": "Publication",
+   "id": "W4416411532",
+   "title": "GEPA: Reflective Prompt Evolution Can Outperform Reinforcement Learning",
+   "year": 2025,
+   "doi": "10.48550/arxiv.2507.19457",
+   "venue": "arXiv (Cornell University)",
+   "cited_by_count": 7,
+   "has_itmo_author": false
+  },
+  {
+   "label": "Person",
+   "id": "A5088639037",
+   "name": "Dilara Soylu",
+   "orcid": "https://orcid.org/0009-0006-1586-6511"
+  },
+  {
+   "label": "Person",
+   "id": "A5032058128",
+   "name": "Noah Ziems",
+   "orcid": "https://orcid.org/0009-0002-1002-1959"
+  },
+  {
+   "label": "Person",
+   "id": "A5099230650",
+   "name": "Krista Opsahl-Ong"
+  },
+  {
+   "label": "Person",
+   "id": "A5104180027",
+   "name": "Arnav Singhvi"
+  },
+  {
+   "label": "Person",
+   "id": "A5090912879",
+   "name": "Herumb Shandilya"
+  },
+  {
+   "label": "Person",
+   "id": "A5058109700",
+   "name": "Michael James Ryan",
+   "orcid": "https://orcid.org/0000-0002-5679-6031"
+  },
+  {
+   "label": "Person",
+   "id": "A5074821819",
+   "name": "Meng Jiang",
+   "orcid": "https://orcid.org/0000-0002-3009-519X"
+  },
+  {
+   "label": "Person",
+   "id": "A5042601761",
+   "name": "Christopher Potts",
+   "orcid": "https://orcid.org/0000-0002-7978-6055"
+  },
+  {
+   "label": "Person",
+   "id": "A5014141359",
+   "name": "Alexandros G. Dimakis",
+   "orcid": "https://orcid.org/0000-0002-4244-7033"
+  },
+  {
+   "label": "Person",
+   "id": "A5041920173",
+   "name": "Ion Gabriel Stoica",
+   "orcid": "https://orcid.org/0000-0002-5373-0088"
+  },
+  {
+   "label": "Person",
+   "id": "A5004921249",
+   "name": "Dan Klein",
+   "orcid": "https://orcid.org/0000-0002-8881-1902"
+  },
+  {
+   "label": "Person",
+   "id": "A5005554337",
+   "name": "Matei Zaharia",
+   "orcid": "https://orcid.org/0000-0002-7547-7204"
+  },
+  {
+   "label": "Person",
+   "id": "A5015201177",
+   "name": "Omar Khattab",
+   "orcid": "https://orcid.org/0000-0002-9836-4413"
+  },
+  {
+   "label": "Publication",
+   "id": "W7162247012",
+   "title": "FEDOT.MAS: Generating Multi-Agent Systems for Complex Tasks with Multi-Stage Validation",
+   "year": 2026,
+   "doi": "10.65109/ooig5670",
+   "cited_by_count": 0,
+   "has_itmo_author": true
+  },
+  {
+   "label": "Person",
+   "id": "A5120308655",
+   "name": "Dmitry Gilemkhanov",
+   "orcid": "https://orcid.org/0009-0009-0975-059X",
+   "is_itmo": true
+  },
+  {
+   "label": "Person",
+   "id": "A5136864787",
+   "name": "Maria Zaitseva",
+   "orcid": "https://orcid.org/0009-0008-3063-3331",
+   "is_itmo": true
+  },
+  {
+   "label": "Person",
+   "id": "A5063535629",
+   "name": "Ilia Revin",
+   "orcid": "https://orcid.org/0000-0002-4459-8724",
+   "is_itmo": true
+  },
+  {
+   "label": "Person",
+   "id": "A5136887584",
+   "name": "Anna Kalyuzhnaya",
+   "orcid": "https://orcid.org/0000-0002-9612-8601",
+   "is_itmo": true
+  },
+  {
+   "label": "Person",
+   "id": "A5014299140",
+   "name": "Nikolay O. Nikitin",
+   "orcid": "https://orcid.org/0000-0002-6839-9957",
+   "is_itmo": true
+  },
+  {
+   "label": "Repository",
+   "id": "ITMO-NSS-team/FEDOT.Miscellaneous",
+   "name": "FEDOT.Miscellaneous",
+   "url": "https://github.com/ITMO-NSS-team/FEDOT.Miscellaneous",
+   "description": "Various info about FEDOT framework",
+   "stars": 3,
+   "language": "JavaScript",
+   "created_at": "2020-06-01T09:18:44Z",
+   "pushed_at": "2021-08-24T11:19:10Z"
+  },
+  {
+   "label": "Repository",
+   "id": "ITMO-NSS-team/FEDOT.Swarm",
+   "name": "FEDOT.Swarm",
+   "url": "https://github.com/ITMO-NSS-team/FEDOT.Swarm",
+   "description": "An agent-SDK-agnostic harness for orchestrating multi-agent systems",
+   "stars": 9,
+   "language": "Python",
+   "license": "MIT",
+   "created_at": "2026-06-05T15:09:48Z",
+   "pushed_at": "2026-09-22T15:15:57Z"
+  },
+  {
+   "label": "Repository",
+   "id": "ITMO-NSS-team/Fedot-TS-Benchmark",
+   "name": "Fedot-TS-Benchmark",
+   "url": "https://github.com/ITMO-NSS-team/Fedot-TS-Benchmark",
+   "description": "Benchmarking Fedot on timeseries forecasting tasks",
+   "stars": 7,
+   "language": "Jupyter Notebook",
+   "created_at": "2021-03-12T15:23:10Z",
+   "pushed_at": "2022-07-12T15:54:11Z"
+  },
+  {
+   "label": "Repository",
+   "id": "ITMO-NSS-team/FoundNO",
+   "name": "FoundNO",
+   "url": "https://github.com/ITMO-NSS-team/FoundNO",
+   "description": "Training neural operators on multi-physics problems to acheive better generalization and faster fine-tuning on similar, yet distinct problems.",
+   "stars": 2,
+   "language": "Python",
+   "license": "MIT",
+   "created_at": "2025-09-13T13:49:10Z",
+   "pushed_at": "2026-10-21T14:14:25Z"
+  },
+  {
+   "label": "Repository",
+   "id": "ITMO-NSS-team/GAMLET",
+   "name": "GAMLET",
+   "url": "https://github.com/ITMO-NSS-team/GAMLET",
+   "description": "Framework for meta-optimisation in AutoML tasks",
+   "stars": 39,
+   "language": "Jupyter Notebook",
+   "license": "BSD-3-Clause",
+   "created_at": "2022-11-03T10:25:24Z",
+   "pushed_at": "2024-11-25T12:00:47Z"
+  },
+  {
+   "label": "Repository",
+   "id": "ITMO-NSS-team/GEFEST-paper-experiments",
+   "name": "GEFEST-paper-experiments",
+   "url": "https://github.com/ITMO-NSS-team/GEFEST-paper-experiments",
+   "description": "The experimental studies devoted to GEFEST framework",
+   "stars": 6,
+   "language": "Makefile",
+   "license": "BSD-3-Clause",
+   "created_at": "2022-07-11T21:34:20Z",
+   "pushed_at": "2022-11-03T12:40:04Z"
+  },
+  {
+   "label": "Repository",
+   "id": "ITMO-NSS-team/GEFEST_sound_detection_paper_experiments",
+   "name": "GEFEST_sound_detection_paper_experiments",
+   "url": "https://github.com/ITMO-NSS-team/GEFEST_sound_detection_paper_experiments",
+   "description": "The experimental studies devoted to GEFEST framework. ",
+   "stars": 2,
+   "created_at": "2023-08-25T14:30:21Z",
+   "pushed_at": "2024-05-06T12:51:35Z"
+  },
+  {
+   "label": "Repository",
+   "id": "ITMO-NSS-team/GRSL_masam2_downscaling",
+   "name": "GRSL_masam2_downscaling",
+   "url": "https://github.com/ITMO-NSS-team/GRSL_masam2_downscaling",
+   "description": "This repo contains code for paper \"OSISAF-to-MASAM2: Deep Learning for Sea Ice Concentration Super-Resolution Product\"",
+   "stars": 4,
+   "language": "Python",
+   "created_at": "2026-09-07T15:17:11Z",
+   "pushed_at": "2026-09-07T20:11:48Z"
+  },
+  {
+   "label": "Repository",
+   "id": "ITMO-NSS-team/IJCNN2025_periodicity",
+   "name": "IJCNN2025_periodicity",
+   "url": "https://github.com/ITMO-NSS-team/IJCNN2025_periodicity",
+   "description": "This repo contains code and supplementary materials for paper \"Towards importance of periodicity estimation in long-term spatio-temporal data prediction\" presented on IJCNN 2025",
+   "stars": 7,
+   "language": "Python",
+   "created_at": "2025-04-01T13:19:18Z",
+   "pushed_at": "2025-04-07T06:57:20Z"
+  },
+  {
+   "label": "GitHubProfile",
+   "id": "ChrisLisbon",
+   "login": "ChrisLisbon",
+   "name": "Julia Borisova",
+   "type": "User",
+   "url": "https://github.com/ChrisLisbon"
+  },
+  {
+   "label": "Publication",
+   "id": "W4318348481",
+   "title": "On the Importance of Noise Scheduling for Diffusion Models",
+   "year": 2023,
+   "doi": "10.48550/arxiv.2301.10972",
+   "venue": "arXiv (Cornell University)",
+   "cited_by_count": 40,
+   "has_itmo_author": false
+  },
+  {
+   "label": "Person",
+   "id": "A5100443173",
+   "name": "Ting Chen",
+   "orcid": "https://orcid.org/0000-0001-8414-6346"
+  },
+  {
+   "label": "Repository",
+   "id": "ITMO-NSS-team/KLR2023_paper",
+   "name": "KLR2023_paper",
+   "url": "https://github.com/ITMO-NSS-team/KLR2023_paper",
+   "stars": 3,
+   "language": "Jupyter Notebook",
+   "created_at": "2023-05-25T17:53:05Z",
+   "pushed_at": "2023-06-27T12:55:47Z"
+  },
+  {
+   "label": "Repository",
+   "id": "ITMO-NSS-team/LANE-SI-AAAI23-workshop",
+   "name": "LANE-SI-AAAI23-workshop",
+   "url": "https://github.com/ITMO-NSS-team/LANE-SI-AAAI23-workshop",
+   "description": "The repository for the workshop paper devoted to the ice concentration time-spatial fields prediction using LANE-SI (Lightweight Automated Neural Ensembling for Sea Ice) that uses ensemble of relatively simple deep learning models with different loss functions.",
+   "stars": 2,
+   "language": "Python",
+   "created_at": "2023-12-15T10:14:54Z",
+   "pushed_at": "2023-12-18T12:07:46Z"
+  },
+  {
+   "label": "Repository",
+   "id": "ITMO-NSS-team/LM-Compression",
+   "name": "LM-Compression",
+   "url": "https://github.com/ITMO-NSS-team/LM-Compression",
+   "stars": 0,
+   "language": "Python",
+   "created_at": "2026-01-14T14:08:50Z",
+   "pushed_at": "2026-01-23T18:07:27Z"
+  },
+  {
+   "label": "Repository",
+   "id": "ITMO-NSS-team/LightObjRecEnsembler",
+   "name": "LightObjRecEnsembler",
+   "url": "https://github.com/ITMO-NSS-team/LightObjRecEnsembler",
+   "description": "The prototype of NAS tool for the object recognition tasks",
+   "stars": 6,
+   "language": "Jupyter Notebook",
+   "license": "BSD-3-Clause",
+   "created_at": "2021-06-01T16:01:55Z",
+   "pushed_at": "2022-03-22T14:47:47Z"
+  },
+  {
+   "label": "Repository",
+   "id": "ITMO-NSS-team/MADD-CoScientist",
+   "name": "MADD-CoScientist",
+   "url": "https://github.com/ITMO-NSS-team/MADD-CoScientist",
+   "description": "Framework for scientific llm-based multi-agent systems",
+   "stars": 1,
+   "language": "Jupyter Notebook",
+   "created_at": "2025-08-29T11:52:33Z",
+   "pushed_at": "2025-09-17T13:00:45Z"
+  },
+  {
+   "label": "Repository",
+   "id": "ITMO-NSS-team/MAKE_robots",
+   "name": "MAKE_robots",
+   "url": "https://github.com/ITMO-NSS-team/MAKE_robots",
+   "description": "Repo for Differential Equation Ensembles Discovery for Modeling Active Matter Based on Robotic Swarm Data submitted to MAKE journal",
+   "stars": 5,
+   "language": "Python",
+   "created_at": "2026-01-20T20:33:54Z",
+   "pushed_at": "2026-05-14T14:34:37Z"
+  },
+  {
+   "label": "Repository",
+   "id": "ITMO-NSS-team/MANUL",
+   "name": "MANUL",
+   "url": "https://github.com/ITMO-NSS-team/MANUL",
+   "description": "Manifold learning with evolutionary approach framework",
+   "stars": 5,
+   "language": "Python",
+   "created_at": "2024-03-29T09:24:23Z",
+   "pushed_at": "2026-10-20T22:26:06Z"
+  },
+  {
+   "label": "Repository",
+   "id": "ITMO-NSS-team/MCPhub",
+   "name": "MCPhub",
+   "url": "https://github.com/ITMO-NSS-team/MCPhub",
+   "stars": 0,
+   "language": "Jupyter Notebook",
+   "created_at": "2026-02-09T12:50:16Z",
+   "pushed_at": "2026-07-20T12:53:54Z"
+  },
+  {
+   "label": "Repository",
+   "id": "ITMO-NSS-team/ML4RS_2026_arctic_downscale",
+   "name": "ML4RS_2026_arctic_downscale",
+   "url": "https://github.com/ITMO-NSS-team/ML4RS_2026_arctic_downscale",
+   "description": "This repo contains code for GRSL paper. This is an extended version of ICLR 2026 ML4RS Main Track paper. ",
+   "stars": 2,
+   "language": "Python",
+   "created_at": "2026-01-15T21:24:02Z",
+   "pushed_at": "2026-09-05T08:15:56Z"
+  },
+  {
+   "label": "Repository",
+   "id": "ITMO-NSS-team/MetaSelect",
+   "name": "MetaSelect",
+   "url": "https://github.com/ITMO-NSS-team/MetaSelect",
+   "stars": 7,
+   "language": "Jupyter Notebook",
+   "created_at": "2024-12-09T15:23:23Z",
+   "pushed_at": "2026-05-31T06:45:12Z"
+  },
+  {
+   "label": "Repository",
+   "id": "ITMO-NSS-team/Mosaic_develop",
+   "name": "Mosaic_develop",
+   "url": "https://github.com/ITMO-NSS-team/Mosaic_develop",
+   "description": "{Work in progress} - Mosaic genereator for datasets. Works without any cuts or losses.",
+   "stars": 2,
+   "language": "Python",
+   "created_at": "2022-03-02T11:33:20Z",
+   "pushed_at": "2022-03-17T09:50:06Z"
+  },
+  {
+   "label": "Repository",
+   "id": "ITMO-NSS-team/NEGEL2025_manifolds",
+   "name": "NEGEL2025_manifolds",
+   "url": "https://github.com/ITMO-NSS-team/NEGEL2025_manifolds",
+   "description": "Repo for \"Towards Intrinsic Topology Search: Differentiable Isomap Application\" paper submittred to the NEGEL NeurIPS 2025 workshop",
+   "stars": 4,
+   "language": "Python",
+   "license": "MIT",
+   "created_at": "2025-09-25T08:29:04Z",
+   "pushed_at": "2025-09-25T08:32:25Z"
+  },
+  {
+   "label": "Repository",
+   "id": "ITMO-NSS-team/NH3Bench",
+   "name": "NH3Bench",
+   "url": "https://github.com/ITMO-NSS-team/NH3Bench",
+   "description": "Benchmark for industrial controlling agents",
+   "stars": 9,
+   "language": "Python",
+   "license": "BSD-3-Clause",
+   "created_at": "2026-08-20T21:45:34Z",
+   "pushed_at": "2026-09-17T03:08:28Z"
+  },
+  {
+   "label": "Repository",
+   "id": "ITMO-NSS-team/OL2A_2023_gd_with_sa_paper",
+   "name": "OL2A_2023_gd_with_sa_paper",
+   "url": "https://github.com/ITMO-NSS-team/OL2A_2023_gd_with_sa_paper",
+   "description": "Repository for \"Interpretable Structural Analysis for Evolutionary Generative Design of Coastal Breakwaters\" paper",
+   "stars": 1,
+   "language": "Jupyter Notebook",
+   "license": "BSD-3-Clause",
+   "created_at": "2023-06-15T18:13:36Z",
+   "pushed_at": "2023-06-23T16:32:53Z"
+  },
+  {
+   "label": "Repository",
+   "id": "ITMO-NSS-team/OOD_Tab_Evaluation",
+   "name": "OOD_Tab_Evaluation",
+   "url": "https://github.com/ITMO-NSS-team/OOD_Tab_Evaluation",
+   "stars": 4,
+   "language": "Jupyter Notebook",
+   "created_at": "2025-07-29T14:20:52Z",
+   "pushed_at": "2026-05-13T00:22:50Z"
+  },
+  {
+   "label": "Repository",
+   "id": "ITMO-NSS-team/OSA.Edu",
+   "name": "OSA.Edu",
+   "url": "https://github.com/ITMO-NSS-team/OSA.Edu",
+   "description": "Tool for validation of theses and other educational works",
+   "stars": 12,
+   "language": "Python",
+   "license": "BSD-3-Clause",
+   "created_at": "2026-06-02T21:02:28Z",
+   "pushed_at": "2026-10-20T10:52:58Z"
+  },
+  {
+   "label": "Repository",
+   "id": "ITMO-NSS-team/OSA.Web",
+   "name": "OSA.Web",
+   "url": "https://github.com/ITMO-NSS-team/OSA.Web",
+   "description": "Web interface to enhance your open-source projects with the OSA-tool",
+   "stars": 4,
+   "language": "Python",
+   "license": "BSD-3-Clause",
+   "created_at": "2025-08-23T17:04:03Z",
+   "pushed_at": "2026-07-28T20:27:50Z"
+  },
+  {
+   "label": "Repository",
+   "id": "ITMO-NSS-team/PAUK",
+   "name": "PAUK",
+   "url": "https://github.com/ITMO-NSS-team/PAUK",
+   "description": "Knowlege graph generator for academic open-source ecosystems",
+   "stars": 15,
+   "language": "Python",
+   "license": "BSD-3-Clause",
+   "created_at": "2026-05-13T18:14:37Z",
+   "pushed_at": "2026-10-21T21:20:16Z"
+  },
+  {
+   "label": "Repository",
+   "id": "ITMO-NSS-team/RECMAN_recsys2025",
+   "name": "RECMAN_recsys2025",
+   "url": "https://github.com/ITMO-NSS-team/RECMAN_recsys2025",
+   "description": "This repository contains the source code to reproduce the experiments from the paper 'Learning Geometry-Aware Recommender Systems with Manifold Regularization' (accepted at RecSys 2025)",
+   "stars": 6,
+   "language": "Python",
+   "license": "BSD-3-Clause",
+   "created_at": "2025-08-08T11:32:06Z",
+   "pushed_at": "2025-08-11T09:33:01Z"
+  },
+  {
+   "label": "GitHubProfile",
+   "id": "SuperSashka",
+   "login": "SuperSashka",
+   "name": "Alexander Hvatov",
+   "type": "User",
+   "url": "https://github.com/SuperSashka"
+  },
+  {
+   "label": "Publication",
+   "id": "W4414035098",
+   "title": "Learning geometry-aware recommender systems with manifold regularization",
+   "year": 2025,
+   "doi": "10.1145/3705328.3759323",
+   "cited_by_count": 0,
+   "has_itmo_author": true
+  },
+  {
+   "label": "Person",
+   "id": "A5119556812",
+   "name": "Zaira Zainulabidova",
+   "orcid": "https://orcid.org/0009-0000-5130-4096",
+   "is_itmo": true
+  },
+  {
+   "label": "Person",
+   "id": "A5118827566",
+   "name": "Julia Borisova",
+   "orcid": "https://orcid.org/0009-0003-6680-0940",
+   "is_itmo": true
+  },
+  {
+   "label": "Repository",
+   "id": "ITMO-NSS-team/ROBUST_EPDE",
+   "name": "ROBUST_EPDE",
+   "url": "https://github.com/ITMO-NSS-team/ROBUST_EPDE",
+   "description": "Program complex for robust training of models in the form of differential equations.",
+   "stars": 1,
+   "language": "Python",
+   "license": "MIT",
+   "created_at": "2024-09-06T10:21:43Z",
+   "pushed_at": "2024-12-13T13:31:31Z"
+  },
+  {
+   "label": "Repository",
+   "id": "ITMO-NSS-team/RockBurst.AI",
+   "name": "RockBurst.AI",
+   "url": "https://github.com/ITMO-NSS-team/RockBurst.AI",
+   "description": "Composite models for rockburst forecasting.",
+   "stars": 5,
+   "language": "Python",
+   "license": "BSD-3-Clause",
+   "created_at": "2022-10-26T14:08:28Z",
+   "pushed_at": "2025-02-27T15:58:42Z"
+  },
+  {
+   "label": "Repository",
+   "id": "ITMO-NSS-team/Routing",
+   "name": "Routing",
+   "url": "https://github.com/ITMO-NSS-team/Routing",
+   "description": "Training-free router for LLM agent pipelines: assigns each subtask a model and a token budget by exact welfare allocation.",
+   "stars": 0,
+   "language": "Python",
+   "created_at": "2026-06-10T12:43:26Z",
+   "pushed_at": "2026-10-01T12:19:42Z"
+  },
+  {
+   "label": "Repository",
+   "id": "ITMO-NSS-team/Solver-paper-for-AI4S",
+   "name": "Solver-paper-for-AI4S",
+   "url": "https://github.com/ITMO-NSS-team/Solver-paper-for-AI4S",
+   "stars": 1,
+   "language": "Python",
+   "license": "BSD-3-Clause",
+   "created_at": "2023-12-10T19:33:19Z",
+   "pushed_at": "2023-12-10T19:33:33Z"
+  },
+  {
+   "label": "Repository",
+   "id": "ITMO-NSS-team/SynthBenchmark",
+   "name": "SynthBenchmark",
+   "url": "https://github.com/ITMO-NSS-team/SynthBenchmark",
+   "stars": 0,
+   "created_at": "2024-08-12T14:54:00Z",
+   "pushed_at": "2024-08-12T14:54:00Z"
+  },
+  {
+   "label": "Repository",
+   "id": "ITMO-NSS-team/SynthGenerator",
+   "name": "SynthGenerator",
+   "url": "https://github.com/ITMO-NSS-team/SynthGenerator",
+   "stars": 2,
+   "language": "Python",
+   "created_at": "2020-08-04T09:51:20Z",
+   "pushed_at": "2020-10-13T16:40:15Z"
+  },
+  {
+   "label": "Repository",
+   "id": "ITMO-NSS-team/TSC-paper_experiments",
+   "name": "TSC-paper_experiments",
+   "url": "https://github.com/ITMO-NSS-team/TSC-paper_experiments",
+   "description": "Experiments for \"Evolutionary automated machine learning approach for time series classification\" paper",
+   "stars": 1,
+   "language": "Python",
+   "created_at": "2022-07-15T14:43:41Z",
+   "pushed_at": "2023-02-15T19:21:31Z"
+  },
+  {
+   "label": "Repository",
+   "id": "ITMO-NSS-team/TabDomain_Extractor",
+   "name": "TabDomain_Extractor",
+   "url": "https://github.com/ITMO-NSS-team/TabDomain_Extractor",
+   "description": "An automated solution for determining the domains of tabular datasets using Large Language Models (LLM).",
+   "stars": 1,
+   "language": "Python",
+   "license": "MIT",
+   "created_at": "2025-08-21T11:38:16Z",
+   "pushed_at": "2026-08-23T13:22:40Z"
+  },
+  {
+   "label": "Repository",
+   "id": "ITMO-NSS-team/aaai24_auto_topo",
+   "name": "aaai24_auto_topo",
+   "url": "https://github.com/ITMO-NSS-team/aaai24_auto_topo",
+   "stars": 2,
+   "language": "Python",
+   "created_at": "2023-12-29T12:41:07Z",
+   "pushed_at": "2023-12-31T07:40:43Z"
+  },
+  {
+   "label": "Repository",
+   "id": "ITMO-NSS-team/algebrfun",
+   "name": "algebrfun",
+   "url": "https://github.com/ITMO-NSS-team/algebrfun",
+   "stars": 3,
+   "language": "Jupyter Notebook",
+   "created_at": "2022-03-18T11:03:14Z",
+   "pushed_at": "2023-05-26T15:25:03Z"
+  },
+  {
+   "label": "Repository",
+   "id": "ITMO-NSS-team/automl-crash-test",
+   "name": "automl-crash-test",
+   "url": "https://github.com/ITMO-NSS-team/automl-crash-test",
+   "description": "A repository with a table that not every framework can deal with",
+   "stars": 9,
+   "language": "Python",
+   "created_at": "2022-01-13T11:34:41Z",
+   "pushed_at": "2022-03-28T16:38:40Z"
+  },
+  {
+   "label": "Repository",
+   "id": "ITMO-NSS-team/breakwaters-evolutionary-optimisation",
+   "name": "breakwaters-evolutionary-optimisation",
+   "url": "https://github.com/ITMO-NSS-team/breakwaters-evolutionary-optimisation",
+   "description": "The repository of the software system for the multi-objective optimisation of breakwaters using an evolutionary approach and numerical wind wave simulation",
+   "stars": 4,
+   "language": "Python",
+   "license": "MIT",
+   "created_at": "2019-12-30T22:29:30Z",
+   "pushed_at": "2021-10-18T11:32:46Z"
+  },
+  {
+   "label": "Repository",
+   "id": "ITMO-NSS-team/cell-trap-design",
+   "name": "cell-trap-design",
+   "url": "https://github.com/ITMO-NSS-team/cell-trap-design",
+   "description": "The generative design for the structure of dissociated cell trap ",
+   "stars": 3,
+   "language": "Python",
+   "license": "BSD-3-Clause",
+   "created_at": "2021-02-02T23:54:12Z",
+   "pushed_at": "2021-10-18T11:28:01Z"
+  },
+  {
+   "label": "Repository",
+   "id": "ITMO-NSS-team/chempaperbench",
+   "name": "chempaperbench",
+   "url": "https://github.com/ITMO-NSS-team/chempaperbench",
+   "stars": 1,
+   "language": "Python",
+   "created_at": "2025-09-04T12:12:36Z",
+   "pushed_at": "2025-09-06T06:13:23Z"
+  },
+  {
+   "label": "Repository",
+   "id": "ITMO-NSS-team/chronorepo_icdm26",
+   "name": "chronorepo_icdm26",
+   "url": "https://github.com/ITMO-NSS-team/chronorepo_icdm26",
+   "stars": 0,
+   "language": "Python",
+   "license": "BSD-3-Clause",
+   "created_at": "2026-08-01T16:40:37Z",
+   "pushed_at": "2026-08-20T18:59:58Z"
+  },
+  {
+   "label": "Repository",
+   "id": "ITMO-NSS-team/composite-flood-forecast",
+   "name": "composite-flood-forecast",
+   "url": "https://github.com/ITMO-NSS-team/composite-flood-forecast",
+   "description": "Code for paper \"Short-term River Flood Forecasting using Composite Models and Automated Machine Learning: the Case Study of Lena River\"",
+   "stars": 12,
+   "language": "Python",
+   "created_at": "2021-10-30T18:24:33Z",
+   "pushed_at": "2021-12-09T20:13:01Z"
+  },
+  {
+   "label": "GitHubProfile",
+   "id": "Dreamlone",
+   "login": "Dreamlone",
+   "name": "Mikhail Sarafanov",
+   "type": "User",
+   "url": "https://github.com/Dreamlone"
+  },
+  {
+   "label": "Publication",
+   "id": "W4200328540",
+   "title": "Short-Term River Flood Forecasting Using Composite Models and Automated Machine Learning: The Case Study of Lena River",
+   "year": 2021,
+   "doi": "10.3390/w13243482",
+   "venue": "Water",
+   "cited_by_count": 22,
+   "has_itmo_author": true
+  },
+  {
+   "label": "Person",
+   "id": "A5073069796",
+   "name": "Mikhail Sarafanov",
+   "orcid": "https://orcid.org/0000-0002-2459-4486",
+   "is_itmo": true
+  },
+  {
+   "label": "Person",
+   "id": "A5007355583",
+   "name": "Yulia Borisova",
+   "is_itmo": true
+  },
+  {
+   "label": "Person",
+   "id": "A5009230585",
+   "name": "Gleb Maximov",
+   "orcid": "https://orcid.org/0000-0002-7390-7274",
+   "is_itmo": true
+  },
+  {
+   "label": "Repository",
+   "id": "ITMO-NSS-team/data-driven-Floquet",
+   "name": "data-driven-Floquet",
+   "url": "https://github.com/ITMO-NSS-team/data-driven-Floquet",
+   "description": "Code for the paper \"Data-driven approach for the Floquet propagator inverse problem solution\"",
+   "stars": 3,
+   "language": "Python",
+   "created_at": "2021-10-03T11:31:56Z",
+   "pushed_at": "2021-10-03T11:38:50Z"
+  },
+  {
+   "label": "Repository",
+   "id": "ITMO-NSS-team/emergency_datahack_nss",
+   "name": "emergency_datahack_nss",
+   "url": "https://github.com/ITMO-NSS-team/emergency_datahack_nss",
+   "description": "The repository contains the data of the NSS lab team for the hackathon \"Emergency DataHack\"",
+   "stars": 16,
+   "language": "Jupyter Notebook",
+   "created_at": "2021-05-27T10:10:47Z",
+   "pushed_at": "2021-08-14T21:43:06Z"
+  },
+  {
+   "label": "Repository",
+   "id": "ITMO-NSS-team/fedot-examples",
+   "name": "fedot-examples",
+   "url": "https://github.com/ITMO-NSS-team/fedot-examples",
+   "description": "The repository contains examples for the AutoML framework FEDOT",
+   "stars": 52,
+   "language": "Jupyter Notebook",
+   "created_at": "2021-07-12T09:58:50Z",
+   "pushed_at": "2025-09-09T22:32:26Z"
+  },
+  {
+   "label": "Repository",
+   "id": "ITMO-NSS-team/fedot-multi-modal-paper",
+   "name": "fedot-multi-modal-paper",
+   "url": "https://github.com/ITMO-NSS-team/fedot-multi-modal-paper",
+   "description": "The repository devoted to the experimens with multi-modal AutoML.",
+   "stars": 1,
+   "language": "Python",
+   "license": "BSD-3-Clause",
+   "created_at": "2022-09-20T10:29:56Z",
+   "pushed_at": "2024-06-30T10:33:03Z"
+  },
+  {
+   "label": "Repository",
+   "id": "ITMO-NSS-team/fedot-operations-integration",
+   "name": "fedot-operations-integration",
+   "url": "https://github.com/ITMO-NSS-team/fedot-operations-integration",
+   "description": "The repository contains the wrappers to launch FEDOT framework. The main goal: to compare the effectiveness of the implemented operations",
+   "stars": 3,
+   "language": "Python",
+   "created_at": "2022-03-17T08:20:46Z",
+   "pushed_at": "2022-03-29T12:55:12Z"
+  },
+  {
+   "label": "Repository",
+   "id": "ITMO-NSS-team/fedot-performance-improvement-benchmark",
+   "name": "fedot-performance-improvement-benchmark",
+   "url": "https://github.com/ITMO-NSS-team/fedot-performance-improvement-benchmark",
+   "description": "Repository for \"Improvement of Computational Performance for Evolutionary AutoML in Heterogeneous Environment\" paper",
+   "stars": 3,
+   "language": "Python",
+   "created_at": "2022-07-05T08:52:46Z",
+   "pushed_at": "2023-04-18T14:27:45Z"
+  },
+  {
+   "label": "Repository",
+   "id": "ITMO-NSS-team/fedot_electro_ts_case",
+   "name": "fedot_electro_ts_case",
+   "url": "https://github.com/ITMO-NSS-team/fedot_electro_ts_case",
+   "description": "The sources of the time-series forecasting real-world case with FEDOT.",
+   "stars": 17,
+   "language": "Jupyter Notebook",
+   "created_at": "2021-05-13T14:37:42Z",
+   "pushed_at": "2023-02-15T07:40:33Z"
+  },
+  {
+   "label": "Repository",
+   "id": "ITMO-NSS-team/gendesign-small-sample-research",
+   "name": "gendesign-small-sample-research",
+   "url": "https://github.com/ITMO-NSS-team/gendesign-small-sample-research",
+   "description": "Supplementary matherials for small sample generative design research",
+   "stars": 1,
+   "language": "Jupyter Notebook",
+   "license": "BSD-3-Clause",
+   "created_at": "2025-12-11T23:40:17Z",
+   "pushed_at": "2025-12-17T19:51:27Z"
+  },
+  {
+   "label": "Repository",
+   "id": "ITMO-NSS-team/golem-examples",
+   "name": "golem-examples",
+   "url": "https://github.com/ITMO-NSS-team/golem-examples",
+   "description": "Examples of applications of GOLEM framework",
+   "stars": 2,
+   "language": "Jupyter Notebook",
+   "license": "BSD-3-Clause",
+   "created_at": "2023-03-17T10:59:24Z",
+   "pushed_at": "2023-03-17T13:52:44Z"
+  },
+  {
+   "label": "Repository",
+   "id": "ITMO-NSS-team/harness-research",
+   "name": "harness-research",
+   "url": "https://github.com/ITMO-NSS-team/harness-research",
+   "description": "Harness for Agent Reliability",
+   "stars": 1,
+   "language": "Python",
+   "license": "MIT",
+   "created_at": "2026-06-01T03:20:46Z",
+   "pushed_at": "2026-06-04T18:40:19Z"
+  },
+  {
+   "label": "Repository",
+   "id": "ITMO-NSS-team/hybrid-modelling-paper",
+   "name": "hybrid-modelling-paper",
+   "url": "https://github.com/ITMO-NSS-team/hybrid-modelling-paper",
+   "description": "The repository for the paper devoted to the hybrid modeling of environmental processes using composite models",
+   "stars": 1,
+   "language": "Jupyter Notebook",
+   "license": "BSD-3-Clause",
+   "created_at": "2021-04-28T21:11:43Z",
+   "pushed_at": "2021-05-09T11:37:24Z"
+  },
+  {
+   "label": "Repository",
+   "id": "ITMO-NSS-team/ice-concentration-prediction-paper",
+   "name": "ice-concentration-prediction-paper",
+   "url": "https://github.com/ITMO-NSS-team/ice-concentration-prediction-paper",
+   "description": "The repository for the paper devoted to the ice concentration time-spatial fields prediction using CNN, PDE discovering and solving and Bayesian networks",
+   "stars": 3,
+   "language": "Jupyter Notebook",
+   "created_at": "2023-06-16T16:07:11Z",
+   "pushed_at": "2023-09-19T13:31:42Z"
+  },
+  {
+   "label": "Repository",
+   "id": "ITMO-NSS-team/itmo-nss-team.github.io",
+   "name": "itmo-nss-team.github.io",
+   "url": "https://github.com/ITMO-NSS-team/itmo-nss-team.github.io",
+   "description": "The informational page of the Natural Systems Simulation Lab",
+   "stars": 4,
+   "language": "HTML",
+   "license": "MIT",
+   "created_at": "2020-04-13T15:38:05Z",
+   "pushed_at": "2025-11-01T13:52:07Z"
+  },
+  {
+   "label": "Repository",
+   "id": "ITMO-NSS-team/kan-o-nas",
+   "name": "kan-o-nas",
+   "url": "https://github.com/ITMO-NSS-team/kan-o-nas",
+   "stars": 1,
+   "language": "Python",
+   "license": "MIT",
+   "created_at": "2025-06-10T12:59:03Z",
+   "pushed_at": "2025-09-10T22:03:30Z"
+  },
+  {
+   "label": "Repository",
+   "id": "ITMO-NSS-team/latent-tabular-lens",
+   "name": "latent-tabular-lens",
+   "url": "https://github.com/ITMO-NSS-team/latent-tabular-lens",
+   "stars": 0,
+   "language": "Jupyter Notebook",
+   "created_at": "2025-10-27T10:21:18Z",
+   "pushed_at": "2025-10-27T12:44:50Z"
+  },
+  {
+   "label": "Repository",
+   "id": "ITMO-NSS-team/ligands-ml-paper",
+   "name": "ligands-ml-paper",
+   "url": "https://github.com/ITMO-NSS-team/ligands-ml-paper",
+   "stars": 0,
+   "language": "Jupyter Notebook",
+   "license": "BSD-3-Clause",
+   "created_at": "2025-08-25T07:02:59Z",
+   "pushed_at": "2025-12-18T13:24:21Z"
+  },
+  {
+   "label": "Repository",
+   "id": "ITMO-NSS-team/llm-agents-for-smartcities-paper",
+   "name": "llm-agents-for-smartcities-paper",
+   "url": "https://github.com/ITMO-NSS-team/llm-agents-for-smartcities-paper",
+   "description": "Code and data for \"LLM Agents for Smart City Management: Enhancing Decision Support through Multi-Agent AI Systems\"",
+   "stars": 11,
+   "language": "Python",
+   "created_at": "2024-10-22T20:27:53Z",
+   "pushed_at": "2025-02-19T17:07:57Z"
+  },
+  {
+   "label": "Repository",
+   "id": "ITMO-NSS-team/llm-automl-architecture-study",
+   "name": "llm-automl-architecture-study",
+   "url": "https://github.com/ITMO-NSS-team/llm-automl-architecture-study",
+   "description": "  Traces and results of three LLM-agent AutoML harnesses (FEDOT.LLM, AutoDS-Tools, Terminus-2) on TabReD, MLAgentBench   and three scientific case studies",
+   "stars": 0,
+   "created_at": "2026-10-12T14:17:03Z",
+   "pushed_at": "2026-10-12T19:08:51Z"
+  },
+  {
+   "label": "GitHubProfile",
+   "id": "stas1f1",
+   "login": "stas1f1",
+   "name": "Stanislav Chumakov",
+   "type": "User",
+   "url": "https://github.com/stas1f1"
+  },
+  {
+   "label": "Publication",
+   "id": "W4315436689",
+   "title": "Yield prediction through integration of genetic, environment, and management data through deep learning",
+   "year": 2023,
+   "doi": "10.1093/g3journal/jkad006",
+   "venue": "G3 Genes Genomes Genetics",
+   "cited_by_count": 52,
+   "has_itmo_author": false
+  },
+  {
+   "label": "Person",
+   "id": "A5088533708",
+   "name": "Daniel Robert Kick",
+   "orcid": "https://orcid.org/0000-0002-9002-1862"
+  },
+  {
+   "label": "Person",
+   "id": "A5049049099",
+   "name": "Jason G. Wallace",
+   "orcid": "https://orcid.org/0000-0002-8937-6543"
+  },
+  {
+   "label": "Person",
+   "id": "A5048302859",
+   "name": "James C. Schnable",
+   "orcid": "https://orcid.org/0000-0001-6739-5527"
+  },
+  {
+   "label": "Person",
+   "id": "A5085726102",
+   "name": "Judith M. Kolkman",
+   "orcid": "https://orcid.org/0000-0001-7388-7245"
+  },
+  {
+   "label": "Person",
+   "id": "A5061173410",
+   "name": "Barış Alaca",
+   "orcid": "https://orcid.org/0000-0001-7542-6514"
+  },
+  {
+   "label": "Person",
+   "id": "A5082487928",
+   "name": "Timothy M. Beissinger",
+   "orcid": "https://orcid.org/0000-0002-2882-4074"
+  },
+  {
+   "label": "Person",
+   "id": "A5063591928",
+   "name": "Jode W. Edwards",
+   "orcid": "https://orcid.org/0000-0001-7918-476X"
+  },
+  {
+   "label": "Person",
+   "id": "A5004660378",
+   "name": "David Ertl",
+   "orcid": "https://orcid.org/0000-0003-1374-2970"
+  },
+  {
+   "label": "Person",
+   "id": "A5061885595",
+   "name": "Sherry A. Flint-Garcia",
+   "orcid": "https://orcid.org/0000-0003-4156-5318"
+  },
+  {
+   "label": "Person",
+   "id": "A5065127576",
+   "name": "Joseph L. Gage",
+   "orcid": "https://orcid.org/0000-0001-5946-4414"
+  },
+  {
+   "label": "Person",
+   "id": "A5063917020",
+   "name": "Candice N. Hirsch",
+   "orcid": "https://orcid.org/0000-0002-8833-3023"
+  },
+  {
+   "label": "Person",
+   "id": "A5078079012",
+   "name": "Joseph Edward Knoll",
+   "orcid": "https://orcid.org/0000-0002-7477-4039"
+  },
+  {
+   "label": "Person",
+   "id": "A5055080030",
+   "name": "Natalia de León",
+   "orcid": "https://orcid.org/0000-0001-7867-9058"
+  },
+  {
+   "label": "Person",
+   "id": "A5061354161",
+   "name": "Dayane Cristina Lima",
+   "orcid": "https://orcid.org/0000-0002-5327-2160"
+  },
+  {
+   "label": "Person",
+   "id": "A5086532592",
+   "name": "Danilo Moreta",
+   "orcid": "https://orcid.org/0000-0001-6866-9200"
+  },
+  {
+   "label": "Person",
+   "id": "A5102884409",
+   "name": "Maninder Pal Singh",
+   "orcid": "https://orcid.org/0000-0001-6166-2452"
+  },
+  {
+   "label": "Person",
+   "id": "A5034724625",
+   "name": "Addie Thompson",
+   "orcid": "https://orcid.org/0000-0002-4442-6578"
+  },
+  {
+   "label": "Person",
+   "id": "A5006809724",
+   "name": "Teclemariam Weldekidan",
+   "orcid": "https://orcid.org/0000-0003-4427-0099"
+  },
+  {
+   "label": "Person",
+   "id": "A5079185796",
+   "name": "Jacob D. Washburn",
+   "orcid": "https://orcid.org/0000-0003-0185-7105"
+  },
+  {
+   "label": "Publication",
+   "id": "W4412763482",
+   "title": "F-DATA: A Fugaku Workload Dataset for Job-centric Predictive Modelling in HPC Systems",
+   "year": 2025,
+   "doi": "10.1038/s41597-025-05633-1",
+   "venue": "Scientific Data",
+   "cited_by_count": 18,
+   "has_itmo_author": false
+  },
+  {
+   "label": "Person",
+   "id": "A5030560727",
+   "name": "Francesco Antici",
+   "orcid": "https://orcid.org/0000-0002-1125-0588"
+  },
+  {
+   "label": "Person",
+   "id": "A5047906923",
+   "name": "Andrea Bartolini",
+   "orcid": "https://orcid.org/0000-0002-1148-2450"
+  },
+  {
+   "label": "Person",
+   "id": "A5039069961",
+   "name": "Jens Domke",
+   "orcid": "https://orcid.org/0000-0002-5343-414X"
+  },
+  {
+   "label": "Person",
+   "id": "A5033859818",
+   "name": "Zeynep Kiziltan",
+   "orcid": "https://orcid.org/0000-0003-0412-4396"
+  },
+  {
+   "label": "Publication",
+   "id": "W7081991899",
+   "title": "OpenPoly: A Polymer Database Empowering Benchmarking and Multi-property Predictions",
+   "year": 2025,
+   "doi": "10.1007/s10118-025-3402-y",
+   "venue": "Chinese Journal of Polymer Science",
+   "cited_by_count": 13,
+   "has_itmo_author": false
+  },
+  {
+   "label": "Person",
+   "id": "A5140385063",
+   "name": "Feifan Ji"
+  },
+  {
+   "label": "Person",
+   "id": "A5136378439",
+   "name": "Yuanlin Song"
+  },
+  {
+   "label": "Person",
+   "id": "A5140444718",
+   "name": "Mengyuan Ruan"
+  },
+  {
+   "label": "Publication",
+   "id": "W4400142077",
+   "title": "TabReD: Analyzing Pitfalls and Filling the Gaps in Tabular Deep Learning Benchmarks",
+   "year": 2024,
+   "doi": "10.48550/arxiv.2406.19380",
+   "venue": "arXiv (Cornell University)",
+   "cited_by_count": 1,
+   "has_itmo_author": false
+  },
+  {
+   "label": "Person",
+   "id": "A5017890776",
+   "name": "Ivan Rubachev"
+  },
+  {
+   "label": "Person",
+   "id": "A5015222933",
+   "name": "Nikolay K. Kartashev"
+  },
+  {
+   "label": "Person",
+   "id": "A5029250164",
+   "name": "Yury Gorishniy"
+  },
+  {
+   "label": "Person",
+   "id": "A5003272002",
+   "name": "Artem Babenko",
+   "orcid": "https://orcid.org/0000-0002-1830-8252"
+  },
+  {
+   "label": "Publication",
+   "id": "W4387432648",
+   "title": "MLAgentBench: Evaluating Language Agents on Machine Learning Experimentation",
+   "year": 2023,
+   "doi": "10.48550/arxiv.2310.03302",
+   "venue": "arXiv (Cornell University)",
+   "cited_by_count": 9,
+   "has_itmo_author": false
+  },
+  {
+   "label": "Person",
+   "id": "A5101856573",
+   "name": "Qian Huang",
+   "orcid": "https://orcid.org/0000-0001-9658-4714"
+  },
+  {
+   "label": "Person",
+   "id": "A5051017353",
+   "name": "Jian Vora"
+  },
+  {
+   "label": "Person",
+   "id": "A5025255782",
+   "name": "Percy Liang",
+   "orcid": "https://orcid.org/0000-0002-0458-6139"
+  },
+  {
+   "label": "Person",
+   "id": "A5091272738",
+   "name": "Jure Leskovec",
+   "orcid": "https://orcid.org/0000-0002-5411-923X"
+  },
+  {
+   "label": "Publication",
+   "id": "W7125193990",
+   "title": "Terminal-Bench: Benchmarking Agents on Hard, Realistic Tasks in Command Line Interfaces",
+   "year": 2026,
+   "doi": "10.48550/arxiv.2601.11868",
+   "venue": "arXiv (Cornell University)",
+   "cited_by_count": 2,
+   "has_itmo_author": false
+  },
+  {
+   "label": "Person",
+   "id": "A5123487775",
+   "name": "Mike A. Merrill"
+  },
+  {
+   "label": "Person",
+   "id": "A5091221765",
+   "name": "Alexander Glenn Shaw"
+  },
+  {
+   "label": "Person",
+   "id": "A5034257647",
+   "name": "Nicholas Carlini",
+   "orcid": "https://orcid.org/0000-0002-1463-3461"
+  },
+  {
+   "label": "Person",
+   "id": "A5123492528",
+   "name": "Boxuan Li"
+  },
+  {
+   "label": "Person",
+   "id": "A5123538338",
+   "name": "Harsh Raj"
+  },
+  {
+   "label": "Person",
+   "id": "A5123523608",
+   "name": "Ivan Bercovich"
+  },
+  {
+   "label": "Person",
+   "id": "A5123464570",
+   "name": "Lin Shi"
+  },
+  {
+   "label": "Person",
+   "id": "A5123495920",
+   "name": "Jeong Yeon Shin"
+  },
+  {
+   "label": "Person",
+   "id": "A5123488498",
+   "name": "Thomas Walshe"
+  },
+  {
+   "label": "Person",
+   "id": "A5088549773",
+   "name": "E. Kelly Buchanan",
+   "orcid": "https://orcid.org/0000-0003-1448-5662"
+  },
+  {
+   "label": "Person",
+   "id": "A5036843433",
+   "name": "Jun-Hong Shen",
+   "orcid": "https://orcid.org/0000-0002-6220-096X"
+  },
+  {
+   "label": "Person",
+   "id": "A5089626644",
+   "name": "Guanghao Ye",
+   "orcid": "https://orcid.org/0000-0002-1197-0649"
+  },
+  {
+   "label": "Person",
+   "id": "A5123488013",
+   "name": "Haowei Lin"
+  },
+  {
+   "label": "Person",
+   "id": "A5123488817",
+   "name": "Jason Poulos"
+  },
+  {
+   "label": "Person",
+   "id": "A5123518231",
+   "name": "Maoyu Wang"
+  },
+  {
+   "label": "Person",
+   "id": "A5042252873",
+   "name": "Marianna Nezhurina"
+  },
+  {
+   "label": "Person",
+   "id": "A5085870953",
+   "name": "Jenia Jitsev",
+   "orcid": "https://orcid.org/0000-0002-1221-7851"
+  },
+  {
+   "label": "Person",
+   "id": "A5123458226",
+   "name": "Di Lu"
+  },
+  {
+   "label": "Person",
+   "id": "A5032386720",
+   "name": "Orfeas Menis Mastromichalakis",
+   "orcid": "https://orcid.org/0000-0001-5286-1388"
+  },
+  {
+   "label": "Person",
+   "id": "A5123461324",
+   "name": "Zhiwei Xu"
+  },
+  {
+   "label": "Person",
+   "id": "A5044974889",
+   "name": "Zizhao Chen",
+   "orcid": "https://orcid.org/0000-0002-3851-4803"
+  },
+  {
+   "label": "Person",
+   "id": "A5123475998",
+   "name": "Yue Liu"
+  },
+  {
+   "label": "Person",
+   "id": "A5123535756",
+   "name": "Robert Zhang"
+  },
+  {
+   "label": "Person",
+   "id": "A5123479695",
+   "name": "Leon Liangyu Chen"
+  },
+  {
+   "label": "Person",
+   "id": "A5123536520",
+   "name": "Anurag Kashyap"
+  },
+  {
+   "label": "Person",
+   "id": "A5092346602",
+   "name": "Jan-Lucas Uslu",
+   "orcid": "https://orcid.org/0009-0009-1069-5778"
+  },
+  {
+   "label": "Person",
+   "id": "A5123488008",
+   "name": "Jeffrey Li"
+  },
+  {
+   "label": "Person",
+   "id": "A5123462639",
+   "name": "Jianbo Wu"
+  },
+  {
+   "label": "Person",
+   "id": "A5123243094",
+   "name": "Minghao Yan"
+  },
+  {
+   "label": "Person",
+   "id": "A5059053886",
+   "name": "Song Bian"
+  },
+  {
+   "label": "Person",
+   "id": "A5028660971",
+   "name": "Vedang Sharma"
+  },
+  {
+   "label": "Person",
+   "id": "A5123457513",
+   "name": "Ke Sun"
+  },
+  {
+   "label": "Person",
+   "id": "A5123537401",
+   "name": "Steven Dillmann",
+   "orcid": "https://orcid.org/0000-0002-4773-1463"
+  },
+  {
+   "label": "Person",
+   "id": "A5123492856",
+   "name": "Akshay Anand"
+  },
+  {
+   "label": "Person",
+   "id": "A5107619491",
+   "name": "Andrew Lanpouthakoun"
+  },
+  {
+   "label": "Person",
+   "id": "A5123462376",
+   "name": "Bardia Koopah"
+  },
+  {
+   "label": "Person",
+   "id": "A5123512740",
+   "name": "Changran Hu"
+  },
+  {
+   "label": "Person",
+   "id": "A5042004933",
+   "name": "Etash Guha"
+  },
+  {
+   "label": "Person",
+   "id": "A5123475155",
+   "name": "Gabriel H. S. Dreiman"
+  },
+  {
+   "label": "Person",
+   "id": "A5123528515",
+   "name": "Jiacheng Zhu"
+  },
+  {
+   "label": "Person",
+   "id": "A5139489094",
+   "name": "Karl Krauth"
+  },
+  {
+   "label": "Person",
+   "id": "A5123505577",
+   "name": "Li Zhong"
+  },
+  {
+   "label": "Person",
+   "id": "A5000043237",
+   "name": "Niklas Muennighoff",
+   "orcid": "https://orcid.org/0009-0001-7157-770X"
+  },
+  {
+   "label": "Person",
+   "id": "A5084816439",
+   "name": "Robert K. Amanfu"
+  },
+  {
+   "label": "Person",
+   "id": "A5123480666",
+   "name": "Shangyin Tan"
+  },
+  {
+   "label": "Person",
+   "id": "A5123467205",
+   "name": "Shreyas Pimpalgaonkar"
+  },
+  {
+   "label": "Person",
+   "id": "A5039712059",
+   "name": "Tushar Aggarwal",
+   "orcid": "https://orcid.org/0009-0002-2443-7912"
+  },
+  {
+   "label": "Person",
+   "id": "A5123468622",
+   "name": "Xiangning Lin"
+  },
+  {
+   "label": "Person",
+   "id": "A5123498669",
+   "name": "Xin Lan"
+  },
+  {
+   "label": "Person",
+   "id": "A5123536157",
+   "name": "Xuandong Zhao"
+  },
+  {
+   "label": "Person",
+   "id": "A5102861281",
+   "name": "Yiqing Liang",
+   "orcid": "https://orcid.org/0009-0005-1481-2194"
+  },
+  {
+   "label": "Person",
+   "id": "A5123491782",
+   "name": "Yuanli Wang"
+  },
+  {
+   "label": "Person",
+   "id": "A5123509575",
+   "name": "Zilong Wang"
+  },
+  {
+   "label": "Person",
+   "id": "A5123463119",
+   "name": "Changzhi Zhou"
+  },
+  {
+   "label": "Person",
+   "id": "A5115024195",
+   "name": "David Heineman"
+  },
+  {
+   "label": "Person",
+   "id": "A5123504726",
+   "name": "Hange Liu"
+  },
+  {
+   "label": "Person",
+   "id": "A5120026695",
+   "name": "Harsh Trivedi"
+  },
+  {
+   "label": "Person",
+   "id": "A5123496837",
+   "name": "John Yang"
+  },
+  {
+   "label": "Person",
+   "id": "A5017897576",
+   "name": "Junhong Lin",
+   "orcid": "https://orcid.org/0000-0003-3869-1380"
+  },
+  {
+   "label": "Person",
+   "id": "A5123467651",
+   "name": "Manish Shetty"
+  },
+  {
+   "label": "Person",
+   "id": "A5123463493",
+   "name": "Michael Yang"
+  },
+  {
+   "label": "Person",
+   "id": "A5134071613",
+   "name": "Nabil Omi"
+  },
+  {
+   "label": "Person",
+   "id": "A5123510378",
+   "name": "Negin Raoof"
+  },
+  {
+   "label": "Person",
+   "id": "A5074957793",
+   "name": "Shanda Li"
+  },
+  {
+   "label": "Person",
+   "id": "A5082624117",
+   "name": "Terry Yue Zhuo",
+   "orcid": "https://orcid.org/0000-0002-5760-5188"
+  },
+  {
+   "label": "Person",
+   "id": "A5076540989",
+   "name": "Wuwei Lin",
+   "orcid": "https://orcid.org/0000-0001-8589-5453"
+  },
+  {
+   "label": "Person",
+   "id": "A5026565649",
+   "name": "Yiwei Dai"
+  },
+  {
+   "label": "Person",
+   "id": "A5134088037",
+   "name": "Yuxin Wang"
+  },
+  {
+   "label": "Person",
+   "id": "A5103021774",
+   "name": "Wenhao Chai",
+   "orcid": "https://orcid.org/0000-0003-2611-0008"
+  },
+  {
+   "label": "Person",
+   "id": "A5121802796",
+   "name": "Shang Zhou"
+  },
+  {
+   "label": "Person",
+   "id": "A5099136974",
+   "name": "Dariush Wahdany"
+  },
+  {
+   "label": "Person",
+   "id": "A5123471952",
+   "name": "Ziyu She"
+  },
+  {
+   "label": "Person",
+   "id": "A5021492309",
+   "name": "Jiaming Hu",
+   "orcid": "https://orcid.org/0009-0005-6489-7923"
+  },
+  {
+   "label": "Person",
+   "id": "A5009221862",
+   "name": "Zhikang Dong"
+  },
+  {
+   "label": "Person",
+   "id": "A5123459863",
+   "name": "Yuxuan Zhu",
+   "orcid": "https://orcid.org/0009-0001-6738-8930"
+  },
+  {
+   "label": "Person",
+   "id": "A5123518486",
+   "name": "Sasha Cui"
+  },
+  {
+   "label": "Person",
+   "id": "A5123534984",
+   "name": "Ahson Saiyed"
+  },
+  {
+   "label": "Person",
+   "id": "A5028188229",
+   "name": "Arinbjörn Kolbeinsson",
+   "orcid": "https://orcid.org/0000-0002-2444-7048"
+  },
+  {
+   "label": "Person",
+   "id": "A5123465681",
+   "name": "Jesse Hu"
+  },
+  {
+   "label": "Person",
+   "id": "A5054415680",
+   "name": "Christopher Michael Rytting",
+   "orcid": "https://orcid.org/0000-0002-7373-9741"
+  },
+  {
+   "label": "Person",
+   "id": "A5051599878",
+   "name": "Ryan Marten"
+  },
+  {
+   "label": "Person",
+   "id": "A5123507705",
+   "name": "Yixin Wang"
+  },
+  {
+   "label": "Person",
+   "id": "A5080989652",
+   "name": "Andy Konwinski"
+  },
+  {
+   "label": "Person",
+   "id": "A5110578233",
+   "name": "Ludwig Schmidt"
+  },
+  {
+   "label": "Repository",
+   "id": "ITMO-NSS-team/llm-selective-perturbations",
+   "name": "llm-selective-perturbations",
+   "url": "https://github.com/ITMO-NSS-team/llm-selective-perturbations",
+   "description": "Code and results for the paper \"Selective Perturbations as a Diagnostic for Benchmark-Based LLM Comparisons\".",
+   "stars": 0,
+   "language": "Python",
+   "created_at": "2026-06-15T13:42:09Z",
+   "pushed_at": "2026-06-15T13:42:13Z"
+  },
+  {
+   "label": "Repository",
+   "id": "ITMO-NSS-team/mas-bench",
+   "name": "mas-bench",
+   "url": "https://github.com/ITMO-NSS-team/mas-bench",
+   "stars": 0,
+   "language": "Python",
+   "created_at": "2026-07-10T13:16:11Z",
+   "pushed_at": "2026-07-15T13:40:44Z"
+  },
+  {
+   "label": "Repository",
+   "id": "ITMO-NSS-team/mas-retrieval",
+   "name": "mas-retrieval",
+   "url": "https://github.com/ITMO-NSS-team/mas-retrieval",
+   "description": "Evaluating Auto-Generated Multi-Agent Systems on QA & RAG Tasks",
+   "stars": 0,
+   "language": "Python",
+   "created_at": "2026-02-06T14:59:54Z",
+   "pushed_at": "2026-10-08T13:52:27Z"
+  },
+  {
+   "label": "Repository",
+   "id": "ITMO-NSS-team/metaopt-paper",
+   "name": "metaopt-paper",
+   "url": "https://github.com/ITMO-NSS-team/metaopt-paper",
+   "stars": 0,
+   "language": "Python",
+   "created_at": "2026-09-06T10:22:24Z",
+   "pushed_at": "2026-09-10T14:57:35Z"
+  },
+  {
+   "label": "Repository",
+   "id": "ITMO-NSS-team/meteotik",
+   "name": "meteotik",
+   "url": "https://github.com/ITMO-NSS-team/meteotik",
+   "description": "Module for processing reanalysis grids and comparative analysis of time series with meteorological parameters",
+   "stars": 21,
+   "language": "Python",
+   "created_at": "2021-01-25T18:04:08Z",
+   "pushed_at": "2021-02-13T18:27:34Z"
+  },
+  {
+   "label": "Repository",
+   "id": "ITMO-NSS-team/microalgae_conc",
+   "name": "microalgae_conc",
+   "url": "https://github.com/ITMO-NSS-team/microalgae_conc",
+   "description": "This repo contains the code and materials for article \"Low-cost Microalgae Cell Concentration Estimation in Hydrochemistry Applications Using Computer Vision\"",
+   "stars": 4,
+   "language": "Python",
+   "license": "BSD-3-Clause",
+   "created_at": "2025-07-21T15:10:59Z",
+   "pushed_at": "2026-02-21T14:24:59Z"
+  },
+  {
+   "label": "GitHubProfile",
+   "id": "fl1pcoin",
+   "login": "fl1pcoin",
+   "name": "Zakhar Popov",
+   "type": "User",
+   "url": "https://github.com/fl1pcoin"
+  },
+  {
+   "label": "Publication",
+   "id": "W4412692676",
+   "title": "Low-Cost Microalgae Cell Concentration Estimation in Hydrochemistry Applications Using Computer Vision",
+   "year": 2025,
+   "doi": "10.3390/s25154651",
+   "venue": "Sensors",
+   "cited_by_count": 2,
+   "has_itmo_author": true
+  },
+  {
+   "label": "Person",
+   "id": "A5097476086",
+   "name": "Ivan V. Morshchinin",
+   "orcid": "https://orcid.org/0009-0008-3857-3994",
+   "is_itmo": true
+  },
+  {
+   "label": "Person",
+   "id": "A5119091962",
+   "name": "Veronika I. Nazarova",
+   "is_itmo": true
+  },
+  {
+   "label": "Person",
+   "id": "A5033955581",
+   "name": "N R Molodkina",
+   "orcid": "https://orcid.org/0000-0002-6956-4547",
+   "is_itmo": true
+  },
+  {
+   "label": "Repository",
+   "id": "ITMO-NSS-team/nas-fedot",
+   "name": "nas-fedot",
+   "url": "https://github.com/ITMO-NSS-team/nas-fedot",
+   "description": "The implementation of the Neural Architecture Search based at the Fedot framework",
+   "stars": 34,
+   "language": "Jupyter Notebook",
+   "license": "BSD-3-Clause",
+   "created_at": "2020-07-13T20:31:33Z",
+   "pushed_at": "2024-08-12T15:43:49Z"
+  },
+  {
+   "label": "Repository",
+   "id": "ITMO-NSS-team/neural_ode_paper",
+   "name": "neural_ode_paper",
+   "url": "https://github.com/ITMO-NSS-team/neural_ode_paper",
+   "description": "Code for paper \"On choice of linear neural ODE representation for time-series learning\" (under construction)",
+   "stars": 5,
+   "language": "Python",
+   "created_at": "2021-11-08T18:55:06Z",
+   "pushed_at": "2022-07-13T15:34:34Z"
+  },
+  {
+   "label": "Repository",
+   "id": "ITMO-NSS-team/oil-field-modelling",
+   "name": "oil-field-modelling",
+   "url": "https://github.com/ITMO-NSS-team/oil-field-modelling",
+   "description": "The toolbox for the oil fields modelling and analysis (oil forecasting, seismic slices classification, etc)",
+   "stars": 22,
+   "language": "Jupyter Notebook",
+   "license": "BSD-3-Clause",
+   "created_at": "2020-08-27T14:30:03Z",
+   "pushed_at": "2022-06-15T10:00:06Z"
+  },
+  {
+   "label": "GitHubProfile",
+   "id": "nicl-nno",
+   "login": "nicl-nno",
+   "name": "Nikolay Nikitin",
+   "type": "User",
+   "url": "https://github.com/nicl-nno"
+  },
+  {
+   "label": "GitHubProfile",
+   "id": "v1docq",
+   "login": "v1docq",
+   "name": "Илья Ревин",
+   "type": "User",
+   "url": "https://github.com/v1docq"
+  },
+  {
+   "label": "Publication",
+   "id": "W6944375412",
+   "title": "volvo oil forecasting dataset",
+   "year": 2020,
+   "doi": "10.17632/g2vxy237h5",
+   "venue": "Data Archiving and Networked Services (DANS)",
+   "cited_by_count": 0,
+   "has_itmo_author": false
+  },
+  {
+   "label": "Repository",
+   "id": "ITMO-NSS-team/osa-tool-action",
+   "name": "osa-tool-action",
+   "url": "https://github.com/ITMO-NSS-team/osa-tool-action",
+   "stars": 1,
+   "license": "BSD-3-Clause",
+   "created_at": "2026-03-06T19:10:59Z",
+   "pushed_at": "2026-03-06T19:10:59Z"
+  },
+  {
+   "label": "Repository",
+   "id": "ITMO-NSS-team/pytsbe",
+   "name": "pytsbe",
+   "url": "https://github.com/ITMO-NSS-team/pytsbe",
+   "description": "Tool for benchmarking automated time series forecasting algorithms",
+   "stars": 36,
+   "language": "Python",
+   "license": "BSD-3-Clause",
+   "created_at": "2022-04-21T09:41:49Z",
+   "pushed_at": "2025-02-06T01:09:23Z"
+  },
+  {
+   "label": "GitHubProfile",
+   "id": "valer1435",
+   "login": "valer1435",
+   "name": "Valerii Pokrovskii",
+   "type": "User",
+   "url": "https://github.com/valer1435"
+  },
+  {
+   "label": "Publication",
+   "id": "W3177395556",
+   "title": "Automated evolutionary approach for the design of composite machine learning pipelines",
+   "year": 2021,
+   "doi": "10.1016/j.future.2021.08.022",
+   "venue": "Future Generation Computer Systems",
+   "cited_by_count": 83,
+   "has_itmo_author": true
+  },
+  {
+   "label": "Person",
+   "id": "A5004681734",
+   "name": "Pavel Vychuzhanin",
+   "is_itmo": true
+  },
+  {
+   "label": "Person",
+   "id": "A5036734364",
+   "name": "Iana S. Polonskaia",
+   "is_itmo": true
+  },
+  {
+   "label": "Person",
+   "id": "A5039954582",
+   "name": "Irina V. Barabanova",
+   "orcid": "https://orcid.org/0000-0001-5741-2573",
+   "is_itmo": true
+  },
+  {
+   "label": "Person",
+   "id": "A5056189231",
+   "name": "Anna V. Kalyuzhnaya",
+   "orcid": "https://orcid.org/0000-0002-9612-8601",
+   "is_itmo": true
+  },
+  {
+   "label": "Person",
+   "id": "A5035754267",
+   "name": "Alexander V. Boukhanovsky",
+   "orcid": "https://orcid.org/0000-0003-1588-8164",
+   "is_itmo": true
+  },
+  {
+   "label": "Repository",
+   "id": "ITMO-NSS-team/rbc-traps-generative-design",
+   "name": "rbc-traps-generative-design",
+   "url": "https://github.com/ITMO-NSS-team/rbc-traps-generative-design",
+   "description": "The generative design for single red clood cell hydrodynamic traps using GEFEST framework",
+   "stars": 3,
+   "language": "Python",
+   "license": "BSD-3-Clause",
+   "created_at": "2022-01-18T21:33:22Z",
+   "pushed_at": "2022-09-17T16:05:40Z"
+  },
+  {
+   "label": "Repository",
+   "id": "ITMO-NSS-team/scientific-seminars",
+   "name": "scientific-seminars",
+   "url": "https://github.com/ITMO-NSS-team/scientific-seminars",
+   "description": "The matherials for research seminars of NSS Lab",
+   "stars": 5,
+   "created_at": "2023-11-09T22:01:23Z",
+   "pushed_at": "2025-05-05T19:42:13Z"
+  },
+  {
+   "label": "Repository",
+   "id": "ITMO-NSS-team/sea_ice_transformers",
+   "name": "sea_ice_transformers",
+   "url": "https://github.com/ITMO-NSS-team/sea_ice_transformers",
+   "description": "This repository contains code for the research of transformer effectiveness for spatio-temporal forecasting task in comparison with 3d and 2d CNN models. The experiments was set up for sea ice concentration long-term prediction in Arctic seas.",
+   "stars": 5,
+   "language": "Python",
+   "created_at": "2025-01-29T15:37:10Z",
+   "pushed_at": "2026-06-04T09:59:04Z"
+  },
+  {
+   "label": "GitHubProfile",
+   "id": "borinya",
+   "login": "borinya",
+   "name": "Mikhail Borisov ",
+   "type": "User",
+   "url": "https://github.com/borinya"
+  },
+  {
+   "label": "Publication",
+   "id": "W7163145844",
+   "title": "Exploring the limitations of transformer models for metocean forecasting",
+   "year": 2026,
+   "doi": "10.1016/j.jocs.2026.102917",
+   "venue": "Journal of Computational Science",
+   "cited_by_count": 1,
+   "has_itmo_author": true
+  },
+  {
+   "label": "Person",
+   "id": "A5039785399",
+   "name": "Mikhail Borisov",
+   "orcid": "https://orcid.org/0000-0002-4749-5448",
+   "is_itmo": true
+  },
+  {
+   "label": "Person",
+   "id": "A5135258852",
+   "name": "S. A. Vostrikova"
+  },
+  {
+   "label": "Person",
+   "id": "A5025840227",
+   "name": "Viktor Golikov",
+   "orcid": "https://orcid.org/0000-0001-5306-978X"
+  },
+  {
+   "label": "Person",
+   "id": "A5114320572",
+   "name": "Gleb Solovev",
+   "orcid": "https://orcid.org/0009-0004-1116-7743",
+   "is_itmo": true
+  },
+  {
+   "label": "Person",
+   "id": "A5137694574",
+   "name": "Alexander A. Stepanets",
+   "is_itmo": true
+  },
+  {
+   "label": "Person",
+   "id": "A5015033130",
+   "name": "Mikhail Krinitskiy",
+   "orcid": "https://orcid.org/0000-0001-5943-0695"
+  },
+  {
+   "label": "Repository",
+   "id": "ITMO-NSS-team/senne",
+   "name": "senne",
+   "url": "https://github.com/ITMO-NSS-team/senne",
+   "description": "Algorithm for spatial segmentation neural networks ensembling",
+   "stars": 3,
+   "language": "Python",
+   "created_at": "2021-12-07T08:04:20Z",
+   "pushed_at": "2022-02-08T21:12:00Z"
+  },
+  {
+   "label": "Repository",
+   "id": "ITMO-NSS-team/syn-tune-fm",
+   "name": "syn-tune-fm",
+   "url": "https://github.com/ITMO-NSS-team/syn-tune-fm",
+   "description": "Research Framework: Synthetic Data for TabPFN Fine-Tuning",
+   "stars": 3,
+   "language": "Python",
+   "created_at": "2026-02-02T16:39:38Z",
+   "pushed_at": "2026-06-17T21:04:02Z"
+  },
+  {
+   "label": "Repository",
+   "id": "ITMO-NSS-team/tensor-decompositions",
+   "name": "tensor-decompositions",
+   "url": "https://github.com/ITMO-NSS-team/tensor-decompositions",
+   "stars": 0,
+   "language": "Jupyter Notebook",
+   "created_at": "2025-07-28T13:58:53Z",
+   "pushed_at": "2026-10-05T17:00:38Z"
+  },
+  {
+   "label": "Repository",
+   "id": "ITMO-NSS-team/torch_DE_solver",
+   "name": "torch_DE_solver",
+   "url": "https://github.com/ITMO-NSS-team/torch_DE_solver",
+   "description": "Combines power of torch, numerical methods to conquer and solve ALL {O,P}DEs",
+   "stars": 63,
+   "language": "Python",
+   "license": "BSD-3-Clause",
+   "created_at": "2021-07-28T14:21:19Z",
+   "pushed_at": "2026-02-13T14:00:15Z"
+  },
+  {
+   "label": "GitHubProfile",
+   "id": "aminevdom",
+   "login": "aminevdom",
+   "name": "Damir Aminev",
+   "type": "User",
+   "url": "https://github.com/aminevdom"
+  },
+  {
+   "label": "GitHubProfile",
+   "id": "tatikhonova",
+   "login": "tatikhonova",
+   "type": "User",
+   "url": "https://github.com/tatikhonova"
+  },
+  {
+   "label": "Publication",
+   "id": "W4363650868",
+   "title": "Automated Differential Equation Solver Based on the Parametric Approximation Optimization",
+   "year": 2023,
+   "doi": "10.3390/math11081787",
+   "venue": "Mathematics",
+   "cited_by_count": 7,
+   "has_itmo_author": true
+  },
+  {
+   "label": "Repository",
+   "id": "aimclub/.github",
+   "name": ".github",
+   "url": "https://github.com/aimclub/.github",
+   "stars": 0,
+   "created_at": "2023-09-25T13:37:07Z",
+   "pushed_at": "2026-08-19T13:45:17Z"
+  },
+  {
+   "label": "GitHubProfile",
+   "id": "aimclub",
+   "login": "aimclub",
+   "type": "Organization"
+  },
+  {
+   "label": "Repository",
+   "id": "aimclub/AutoTM",
+   "name": "AutoTM",
+   "url": "https://github.com/aimclub/AutoTM",
+   "description": "Automatic hyperparameters tuning for topic models (ARTM approach) using evolutionary algorithms",
+   "stars": 25,
+   "language": "Python",
+   "license": "BSD-3-Clause",
+   "created_at": "2021-01-19T12:14:28Z",
+   "pushed_at": "2026-01-14T17:46:33Z"
+  },
+  {
+   "label": "GitHubProfile",
+   "id": "ngc436",
+   "login": "ngc436",
+   "name": "Maria Khodorchenko",
+   "type": "User",
+   "url": "https://github.com/ngc436"
+  },
+  {
+   "label": "GitHubProfile",
+   "id": "fonhorst",
+   "login": "fonhorst",
+   "name": "Nikolay",
+   "type": "User",
+   "url": "https://github.com/fonhorst"
+  },
+  {
+   "label": "GitHubProfile",
+   "id": "netang",
+   "login": "netang",
+   "type": "User",
+   "url": "https://github.com/netang"
+  },
+  {
+   "label": "Publication",
+   "id": "W4210358484",
+   "title": "Surrogate-based optimization of learning strategies for additively regularized topic models",
+   "year": 2022,
+   "doi": "10.1093/jigpal/jzac019",
+   "venue": "Logic Journal of IGPL",
+   "cited_by_count": 5,
+   "has_itmo_author": true
+  },
+  {
+   "label": "Person",
+   "id": "A5049619472",
+   "name": "Maria Khodorchenko",
+   "orcid": "https://orcid.org/0000-0001-5446-5311",
+   "is_itmo": true
+  },
+  {
+   "label": "Person",
+   "id": "A5061336784",
+   "name": "Nikolay Alekseevich Butakov",
+   "orcid": "https://orcid.org/0000-0002-2705-1313",
+   "is_itmo": true
+  },
+  {
+   "label": "Person",
+   "id": "A5031976339",
+   "name": "Timur Sokhin",
+   "orcid": "https://orcid.org/0000-0001-8288-8178",
+   "is_itmo": true
+  },
+  {
+   "label": "Person",
+   "id": "A5015077486",
+   "name": "Sergey Teryoshkin",
+   "is_itmo": true
+  },
+  {
+   "label": "Repository",
+   "id": "aimclub/BAMT",
+   "name": "BAMT",
+   "url": "https://github.com/aimclub/BAMT",
+   "description": "Repository of a data modeling and analysis tool based on Bayesian networks",
+   "stars": 133,
+   "language": "Python",
+   "license": "BSD-3-Clause",
+   "created_at": "2020-06-08T16:52:09Z",
+   "pushed_at": "2025-11-10T11:51:56Z"
+  },
+  {
+   "label": "GitHubProfile",
+   "id": "jrzkaminski",
+   "login": "jrzkaminski",
+   "name": "Jerzy Kamiński",
+   "type": "User",
+   "url": "https://github.com/jrzkaminski"
+  },
+  {
+   "label": "GitHubProfile",
+   "id": "Roman223",
+   "login": "Roman223",
+   "name": "Roman Netrogolov",
+   "type": "User",
+   "url": "https://github.com/Roman223"
+  },
+  {
+   "label": "GitHubProfile",
+   "id": "Anaxagor",
+   "login": "Anaxagor",
+   "name": "Irina Deeva",
+   "type": "User",
+   "url": "https://github.com/Anaxagor"
+  },
+  {
+   "label": "Publication",
+   "id": "W3135906580",
+   "title": "Oil and Gas Reservoirs Parameters Analysis Using Mixed Learning of Bayesian Networks",
+   "year": 2021,
+   "doi": "10.1007/978-3-030-77961-0_33",
+   "venue": "Lecture notes in computer science",
+   "cited_by_count": 3,
+   "has_itmo_author": true
+  },
+  {
+   "label": "Person",
+   "id": "A5110953720",
+   "name": "Ирина Юрьевна Деева",
+   "orcid": "https://orcid.org/0000-0001-8679-5868",
+   "is_itmo": true
+  },
+  {
+   "label": "Person",
+   "id": "A5084744585",
+   "name": "Anna Bubnova",
+   "orcid": "https://orcid.org/0000-0002-8542-3402",
+   "is_itmo": true
+  },
+  {
+   "label": "Person",
+   "id": "A5055057605",
+   "name": "Petr Dmitrievich Andriushchenko",
+   "orcid": "https://orcid.org/0000-0002-4518-6588",
+   "is_itmo": true
+  },
+  {
+   "label": "Person",
+   "id": "A5112723106",
+   "name": "Anton Voskresenskiy",
+   "is_itmo": true
+  },
+  {
+   "label": "Person",
+   "id": "A5015301734",
+   "name": "N. Bukhanov",
+   "is_itmo": true
+  },
+  {
+   "label": "Publication",
+   "id": "W3083053899",
+   "title": "Bayesian Networks-based personal data synthesis",
+   "year": 2020,
+   "doi": "10.1145/3411170.3411243",
+   "venue": "EAI International Conference on Smart Objects and Technologies for Social Good (GOODTECHS)",
+   "cited_by_count": 8,
+   "has_itmo_author": true
+  },
+  {
+   "label": "Repository",
+   "id": "aimclub/CoResearchGraph",
+   "name": "CoResearchGraph",
+   "url": "https://github.com/aimclub/CoResearchGraph",
+   "description": "Framework for scientific llm-based multi-agent systems",
+   "stars": 42,
+   "language": "Python",
+   "license": "MIT",
+   "created_at": "2025-03-07T10:47:58Z",
+   "pushed_at": "2026-10-08T15:44:57Z"
+  },
+  {
+   "label": "Repository",
+   "id": "aimclub/ECG",
+   "name": "ECG",
+   "url": "https://github.com/aimclub/ECG",
+   "description": "A library for assisting in diagnostics of heart conditions from ECG",
+   "stars": 11,
+   "language": "Python",
+   "license": "BSD-3-Clause",
+   "created_at": "2022-04-18T10:50:15Z",
+   "pushed_at": "2025-01-15T10:45:04Z"
+  },
+  {
+   "label": "GitHubProfile",
+   "id": "tanyapole",
+   "login": "tanyapole",
+   "type": "User",
+   "url": "https://github.com/tanyapole"
+  },
+  {
+   "label": "GitHubProfile",
+   "id": "Ogurecher",
+   "login": "Ogurecher",
+   "name": "Dmitrii Peredreev",
+   "type": "User",
+   "url": "https://github.com/Ogurecher"
+  },
+  {
+   "label": "GitHubProfile",
+   "id": "DanilZmievskiy",
+   "login": "DanilZmievskiy",
+   "name": "Danil Zmievskiy",
+   "type": "User",
+   "url": "https://github.com/DanilZmievskiy"
+  },
+  {
+   "label": "Publication",
+   "id": "W4281686120",
+   "title": "Cross-Platform Development Based on Web Technologies to Support Solutions in Problem-Oriented Management Systems",
+   "year": 2022,
+   "doi": "10.17586/2713-1874-2022-1-41-47",
+   "venue": "Economics Law Innovaion",
+   "cited_by_count": 0,
+   "has_itmo_author": true
+  },
+  {
+   "label": "Person",
+   "id": "A5075981202",
+   "name": "A.Yu. Pchelkin",
+   "is_itmo": true
+  },
+  {
+   "label": "Person",
+   "id": "A5003292247",
+   "name": "Гусарова Наталия Федоровна",
+   "is_itmo": true
+  },
+  {
+   "label": "Repository",
+   "id": "aimclub/Edulytica",
+   "name": "Edulytica",
+   "url": "https://github.com/aimclub/Edulytica",
+   "description": "The purpose of the study is to automate the analysis of scientific and educational documents in the context of research works using LLM",
+   "stars": 52,
+   "language": "Jupyter Notebook",
+   "license": "BSD-3-Clause",
+   "created_at": "2024-01-11T20:41:20Z",
+   "pushed_at": "2026-07-06T14:25:54Z"
+  },
+  {
+   "label": "Repository",
+   "id": "aimclub/FEDOT.LLM",
+   "name": "FEDOT.LLM",
+   "url": "https://github.com/aimclub/FEDOT.LLM",
+   "description": "LLM-based prototype for nexgen AutoML",
+   "stars": 36,
+   "language": "Python",
+   "license": "BSD-3-Clause",
+   "created_at": "2024-07-16T11:59:49Z",
+   "pushed_at": "2026-03-03T20:50:53Z"
+  },
+  {
+   "label": "Repository",
+   "id": "aimclub/FEDOT.Web",
+   "name": "FEDOT.Web",
+   "url": "https://github.com/aimclub/FEDOT.Web",
+   "description": "Graphic tool for the automated evolutionary design of composite models",
+   "stars": 40,
+   "language": "Python",
+   "license": "BSD-3-Clause",
+   "created_at": "2020-12-24T10:48:59Z",
+   "pushed_at": "2026-08-19T19:13:08Z"
+  },
+  {
+   "label": "GitHubProfile",
+   "id": "Sash0check",
+   "login": "Sash0check",
+   "type": "User",
+   "url": "https://github.com/Sash0check"
+  },
+  {
+   "label": "GitHubProfile",
+   "id": "MorrisNein",
+   "login": "MorrisNein",
+   "name": "Peter Shevcnenko",
+   "type": "User",
+   "url": "https://github.com/MorrisNein"
+  },
+  {
+   "label": "Repository",
+   "id": "aimclub/FEDOT",
+   "name": "FEDOT",
+   "url": "https://github.com/aimclub/FEDOT",
+   "description": "Automated modeling and machine learning framework FEDOT",
+   "stars": 712,
+   "language": "Python",
+   "license": "BSD-3-Clause",
+   "created_at": "2020-01-13T12:48:37Z",
+   "pushed_at": "2026-10-21T16:25:56Z"
+  },
+  {
+   "label": "GitHubProfile",
+   "id": "YanaPolonskaya",
+   "login": "YanaPolonskaya",
+   "type": "User",
+   "url": "https://github.com/YanaPolonskaya"
+  },
+  {
+   "label": "GitHubProfile",
+   "id": "BarabanovaIrina",
+   "login": "BarabanovaIrina",
+   "name": "Irina Barabanova",
+   "type": "User",
+   "url": "https://github.com/BarabanovaIrina"
+  },
+  {
+   "label": "Publication",
+   "id": "W3134621132",
+   "title": "Multi-Objective Evolutionary Design of Composite Data-Driven Models",
+   "year": 2021,
+   "doi": "10.1109/cec45853.2021.9504773",
+   "venue": "IEEE Congress on Evolutionary Computation (CEC)",
+   "cited_by_count": 10,
+   "has_itmo_author": true
+  },
+  {
+   "label": "Repository",
+   "id": "aimclub/Fedot.Industrial",
+   "name": "Fedot.Industrial",
+   "url": "https://github.com/aimclub/Fedot.Industrial",
+   "description": "Python framework for automated time series classification, regression and forecasting",
+   "stars": 88,
+   "language": "Python",
+   "license": "BSD-3-Clause",
+   "created_at": "2022-01-14T13:08:19Z",
+   "pushed_at": "2026-10-16T15:20:46Z"
+  },
+  {
+   "label": "GitHubProfile",
+   "id": "technocreep",
+   "login": "technocreep",
+   "name": "Vadim A. Potemkin",
+   "type": "User",
+   "url": "https://github.com/technocreep"
+  },
+  {
+   "label": "GitHubProfile",
+   "id": "N-31V",
+   "login": "N-31V",
+   "name": "N-31.V",
+   "type": "User",
+   "url": "https://github.com/N-31V"
+  },
+  {
+   "label": "GitHubProfile",
+   "id": "leostre",
+   "login": "leostre",
+   "name": "Leon_Strelkov",
+   "type": "User",
+   "url": "https://github.com/leostre"
+  },
+  {
+   "label": "Publication",
+   "id": "W2103659910",
+   "title": "Functional Principal Component Regression and Functional Partial Least‐squares Regression: An Overview and a Comparative Study",
+   "year": 2015,
+   "doi": "10.1111/insr.12116",
+   "venue": "International Statistical Review",
+   "cited_by_count": 95,
+   "has_itmo_author": false
+  },
+  {
+   "label": "Person",
+   "id": "A5072820255",
+   "name": "Manuel Febrero–Bande",
+   "orcid": "https://orcid.org/0000-0002-9536-2973"
+  },
+  {
+   "label": "Person",
+   "id": "A5076552173",
+   "name": "Pedro Galeano",
+   "orcid": "https://orcid.org/0000-0003-2577-2747"
+  },
+  {
+   "label": "Person",
+   "id": "A5071756565",
+   "name": "Wenceslao González–Manteiga",
+   "orcid": "https://orcid.org/0000-0002-3555-4623"
+  },
+  {
+   "label": "Publication",
+   "id": "W2283896980",
+   "title": "Generalizing DTW to the multi-dimensional case requires an adaptive approach",
+   "year": 2016,
+   "doi": "10.1007/s10618-016-0455-0",
+   "venue": "Data Mining and Knowledge Discovery",
+   "cited_by_count": 322,
+   "has_itmo_author": false
+  },
+  {
+   "label": "Person",
+   "id": "A5080811266",
+   "name": "Mohammad Shokoohi-Yekta"
+  },
+  {
+   "label": "Person",
+   "id": "A5010428044",
+   "name": "Bing Hu",
+   "orcid": "https://orcid.org/0000-0001-8411-9428"
+  },
+  {
+   "label": "Person",
+   "id": "A5044205212",
+   "name": "Hongxia Jin",
+   "orcid": "https://orcid.org/0009-0000-0222-4217"
+  },
+  {
+   "label": "Person",
+   "id": "A5078245746",
+   "name": "Eamonn Keogh",
+   "orcid": "https://orcid.org/0000-0002-4188-3968"
+  },
+  {
+   "label": "Publication",
+   "id": "W2911964244",
+   "title": "Random Forests",
+   "year": 2001,
+   "doi": "10.1023/a:1010933404324",
+   "venue": "Machine Learning",
+   "cited_by_count": 132218,
+   "has_itmo_author": false
+  },
+  {
+   "label": "Person",
+   "id": "A5039125390",
+   "name": "Leo Breiman"
+  },
+  {
+   "label": "Publication",
+   "id": "W4283022822",
+   "title": "Random Dilated Shapelet Transform: A New Approach for Time Series Shapelets",
+   "year": 2022,
+   "doi": "10.1007/978-3-031-09037-0_53",
+   "venue": "Lecture notes in computer science",
+   "cited_by_count": 37,
+   "has_itmo_author": false
+  },
+  {
+   "label": "Person",
+   "id": "A5050516915",
+   "name": "Christel Vrain",
+   "orcid": "https://orcid.org/0000-0003-3307-0753"
+  },
+  {
+   "label": "Person",
+   "id": "A5074769024",
+   "name": "Wael Elloumi",
+   "orcid": "https://orcid.org/0000-0002-5886-2450"
+  },
+  {
+   "label": "Publication",
+   "id": "W4397293304",
+   "title": "Unsupervised feature based algorithms for time series extrinsic regression",
+   "year": 2024,
+   "doi": "10.1007/s10618-024-01027-w",
+   "venue": "Data Mining and Knowledge Discovery",
+   "cited_by_count": 26,
+   "has_itmo_author": false
+  },
+  {
+   "label": "Person",
+   "id": "A5039083315",
+   "name": "David Guijo-Rubio",
+   "orcid": "https://orcid.org/0000-0002-8035-4057"
+  },
+  {
+   "label": "Person",
+   "id": "A5077659042",
+   "name": "Matthew Middlehurst",
+   "orcid": "https://orcid.org/0000-0002-3293-8779"
+  },
+  {
+   "label": "Person",
+   "id": "A5025356704",
+   "name": "Guilherme Arcencio"
+  },
+  {
+   "label": "Person",
+   "id": "A5063761460",
+   "name": "Diego Furtado Silva",
+   "orcid": "https://orcid.org/0000-0002-5184-9413"
+  },
+  {
+   "label": "Person",
+   "id": "A5052586692",
+   "name": "Anthony J. Bagnall",
+   "orcid": "https://orcid.org/0000-0003-2360-8994"
+  },
+  {
+   "label": "Publication",
+   "id": "W2166547175",
+   "title": "A time series forest for classification and feature extraction",
+   "year": 2013,
+   "doi": "10.1016/j.ins.2013.02.030",
+   "venue": "Information Sciences",
+   "cited_by_count": 636,
+   "has_itmo_author": false
+  },
+  {
+   "label": "Person",
+   "id": "A5007259870",
+   "name": "Houtao Deng",
+   "orcid": "https://orcid.org/0000-0003-3194-4592"
+  },
+  {
+   "label": "Person",
+   "id": "A5002544391",
+   "name": "George C. Runger",
+   "orcid": "https://orcid.org/0000-0001-9460-6983"
+  },
+  {
+   "label": "Person",
+   "id": "A5057019721",
+   "name": "Eugene Tuv"
+  },
+  {
+   "label": "Person",
+   "id": "A5112447937",
+   "name": "Martyanov Vladimir"
+  },
+  {
+   "label": "Publication",
+   "id": "W4328107256",
+   "title": "Automated machine learning approach for time series classification pipelines using evolutionary optimization",
+   "year": 2023,
+   "doi": "10.1016/j.knosys.2023.110483",
+   "venue": "Knowledge-Based Systems",
+   "cited_by_count": 33,
+   "has_itmo_author": true
+  },
+  {
+   "label": "Person",
+   "id": "A5083165377",
+   "name": "Nikita R. Balabanov",
+   "is_itmo": true
+  },
+  {
+   "label": "Repository",
+   "id": "aimclub/GEFEST",
+   "name": "GEFEST",
+   "url": "https://github.com/aimclub/GEFEST",
+   "description": "Toolbox for the generative design of geometrically-encoded physical objects using numerical modelling and evolutionary optimization",
+   "stars": 64,
+   "language": "Python",
+   "license": "BSD-3-Clause",
+   "created_at": "2021-11-03T14:39:42Z",
+   "pushed_at": "2025-06-24T16:43:08Z"
+  },
+  {
+   "label": "Repository",
+   "id": "aimclub/GOLEM",
+   "name": "GOLEM",
+   "url": "https://github.com/aimclub/GOLEM",
+   "description": "Graph Optimiser for Learning and Evolution of Models",
+   "stars": 74,
+   "language": "Python",
+   "license": "BSD-3-Clause",
+   "created_at": "2022-10-24T16:11:47Z",
+   "pushed_at": "2026-09-30T09:16:03Z"
+  },
+  {
+   "label": "Repository",
+   "id": "aimclub/OCEANAI",
+   "name": "OCEANAI",
+   "url": "https://github.com/aimclub/OCEANAI",
+   "description": "Algorithms for Intelligent Assessment of Human Personality Traits  based on His Multimodal Data for ranking potential candidates to perform professional responsibilities",
+   "stars": 67,
+   "language": "Python",
+   "license": "BSD-3-Clause",
+   "created_at": "2022-11-30T17:28:53Z",
+   "pushed_at": "2025-12-05T10:07:38Z"
+  },
+  {
+   "label": "GitHubProfile",
+   "id": "DmitryRyumin",
+   "login": "DmitryRyumin",
+   "name": "Dmitry Ryumin",
+   "type": "User",
+   "url": "https://github.com/DmitryRyumin"
+  },
+  {
+   "label": "GitHubProfile",
+   "id": "ElenaRyumina",
+   "login": "ElenaRyumina",
+   "name": "Elena Ryumina",
+   "type": "User",
+   "url": "https://github.com/ElenaRyumina"
+  },
+  {
+   "label": "GitHubProfile",
+   "id": "MangaBoba",
+   "login": "MangaBoba",
+   "name": "MangaBoba",
+   "type": "User",
+   "url": "https://github.com/MangaBoba"
+  },
+  {
+   "label": "Publication",
+   "id": "W4400412873",
+   "title": "Gated Siamese Fusion Network based on multimodal deep and hand-crafted features for personality traits assessment",
+   "year": 2024,
+   "doi": "10.1016/j.patrec.2024.07.004",
+   "venue": "Pattern Recognition Letters",
+   "cited_by_count": 9,
+   "has_itmo_author": true
+  },
+  {
+   "label": "Person",
+   "id": "A5052465844",
+   "name": "Елена Витальевна Рюмина",
+   "orcid": "https://orcid.org/0000-0002-4135-6949"
+  },
+  {
+   "label": "Person",
+   "id": "A5050029665",
+   "name": "Maxim Markitantov",
+   "orcid": "https://orcid.org/0000-0001-7987-1025"
+  },
+  {
+   "label": "Person",
+   "id": "A5008249311",
+   "name": "Dmitry Ryumin",
+   "orcid": "https://orcid.org/0000-0002-7935-0569"
+  },
+  {
+   "label": "Person",
+   "id": "A5032870944",
+   "name": "Alexey Anatolievich Karpov",
+   "orcid": "https://orcid.org/0000-0003-3424-652X",
+   "is_itmo": true
+  },
+  {
+   "label": "Publication",
+   "id": "W4388439747",
+   "title": "OCEAN-AI framework with EmoFormer cross-hemiface attention approach for personality traits assessment",
+   "year": 2023,
+   "doi": "10.1016/j.eswa.2023.122441",
+   "venue": "Expert Systems with Applications",
+   "cited_by_count": 22,
+   "has_itmo_author": true
+  },
+  {
+   "label": "Publication",
+   "id": "W4303437686",
+   "title": "In search of a robust facial expressions recognition model: A large-scale visual cross-corpus study",
+   "year": 2022,
+   "doi": "10.1016/j.neucom.2022.10.013",
+   "venue": "Neurocomputing",
+   "cited_by_count": 80,
+   "has_itmo_author": true
+  },
+  {
+   "label": "Person",
+   "id": "A5031192722",
+   "name": "Denis Dresvyanskiy",
+   "orcid": "https://orcid.org/0000-0002-5141-2561",
+   "is_itmo": true
+  },
+  {
+   "label": "Publication",
+   "id": "W4385822343",
+   "title": "Multimodal Personality Traits Assessment (MuPTA) Corpus: The Impact of Spontaneous and Read Speech",
+   "year": 2023,
+   "doi": "10.21437/interspeech.2023-1686",
+   "venue": "Interspeech (USB)",
+   "cited_by_count": 10,
+   "has_itmo_author": false
+  },
+  {
+   "label": "Person",
+   "id": "A5050585145",
+   "name": "Heysem Kaya",
+   "orcid": "https://orcid.org/0000-0001-7947-5508"
+  },
+  {
+   "label": "Repository",
+   "id": "aimclub/ODRS",
+   "name": "ODRS",
+   "url": "https://github.com/aimclub/ODRS",
+   "description": "Recomendation System",
+   "stars": 31,
+   "language": "Python",
+   "license": "BSD-3-Clause",
+   "created_at": "2023-03-06T21:27:35Z",
+   "pushed_at": "2024-12-23T12:39:33Z"
+  },
+  {
+   "label": "Repository",
+   "id": "aimclub/OSA",
+   "name": "OSA",
+   "url": "https://github.com/aimclub/OSA",
+   "description": "Tool that just makes your open source project better using LLM agents",
+   "stars": 148,
+   "language": "Python",
+   "license": "BSD-3-Clause",
+   "created_at": "2024-10-22T13:04:48Z",
+   "pushed_at": "2026-10-18T14:18:39Z"
+  },
+  {
+   "label": "Repository",
+   "id": "aimclub/Polygon.Web",
+   "name": "Polygon.Web",
+   "url": "https://github.com/aimclub/Polygon.Web",
+   "description": "Online tools for automated model evaluation  ",
+   "stars": 1,
+   "language": "HTML",
+   "license": "BSD-3-Clause",
+   "created_at": "2023-11-05T15:44:15Z",
+   "pushed_at": "2023-12-14T15:34:11Z"
+  },
+  {
+   "label": "Repository",
+   "id": "aimclub/ProtoLLM",
+   "name": "ProtoLLM",
+   "url": "https://github.com/aimclub/ProtoLLM",
+   "description": "Framework for prototyping of LLM-based applications",
+   "stars": 25,
+   "language": "Python",
+   "license": "BSD-3-Clause",
+   "created_at": "2024-08-06T14:21:13Z",
+   "pushed_at": "2026-06-29T22:58:20Z"
+  },
+  {
+   "label": "Repository",
+   "id": "aimclub/ReDKG",
+   "name": "ReDKG",
+   "url": "https://github.com/aimclub/ReDKG",
+   "description": "Reinforcement learning on dynamic knowledge graphs",
+   "stars": 31,
+   "language": "Python",
+   "license": "BSD-3-Clause",
+   "created_at": "2022-12-01T12:20:54Z",
+   "pushed_at": "2025-01-15T16:39:19Z"
+  },
+  {
+   "label": "Publication",
+   "id": "W4312976994",
+   "title": "Customer transactional behaviour analysis through embedding interpretation",
+   "year": 2022,
+   "doi": "10.1016/j.procs.2022.11.012",
+   "venue": "Procedia Computer Science",
+   "cited_by_count": 7,
+   "has_itmo_author": true
+  },
+  {
+   "label": "Person",
+   "id": "A5084117359",
+   "name": "Elena Egorova",
+   "orcid": "https://orcid.org/0000-0002-1461-0673",
+   "is_itmo": true
+  },
+  {
+   "label": "Person",
+   "id": "A5011903206",
+   "name": "Gleb Glukhov",
+   "is_itmo": true
+  },
+  {
+   "label": "Person",
+   "id": "A5039016248",
+   "name": "Egor Shikov",
+   "orcid": "https://orcid.org/0000-0001-5749-4222",
+   "is_itmo": true
+  },
+  {
+   "label": "Repository",
+   "id": "aimclub/SAMPO",
+   "name": "SAMPO",
+   "url": "https://github.com/aimclub/SAMPO",
+   "description": "Open-source framework for adaptive manufacturing processes scheduling",
+   "stars": 33,
+   "language": "Jupyter Notebook",
+   "license": "BSD-3-Clause",
+   "created_at": "2022-10-05T12:28:55Z",
+   "pushed_at": "2026-04-11T09:58:02Z"
+  },
+  {
+   "label": "Repository",
+   "id": "aimclub/StableGNN",
+   "name": "StableGNN",
+   "url": "https://github.com/aimclub/StableGNN",
+   "description": "Framework for autonomous learning of explainable graph neural networks",
+   "stars": 33,
+   "language": "Jupyter Notebook",
+   "license": "BSD-3-Clause",
+   "created_at": "2022-08-09T13:29:40Z",
+   "pushed_at": "2025-02-03T17:49:10Z"
+  },
+  {
+   "label": "Repository",
+   "id": "aimclub/Web-BAMT",
+   "name": "Web-BAMT",
+   "url": "https://github.com/aimclub/Web-BAMT",
+   "description": "Online tool for Bayesian Networks",
+   "stars": 35,
+   "language": "TypeScript",
+   "license": "BSD-3-Clause",
+   "created_at": "2022-04-06T12:03:51Z",
+   "pushed_at": "2024-02-28T09:54:32Z"
+  },
+  {
+   "label": "Repository",
+   "id": "aimclub/ai-competency-model",
+   "name": "ai-competency-model",
+   "url": "https://github.com/aimclub/ai-competency-model",
+   "description": "Модель профессиональных компетенций в области ИИ",
+   "stars": 30,
+   "license": "BSD-3-Clause",
+   "created_at": "2024-03-08T17:41:53Z",
+   "pushed_at": "2025-01-15T10:52:35Z"
+  },
+  {
+   "label": "Repository",
+   "id": "aimclub/asid",
+   "name": "asid",
+   "url": "https://github.com/aimclub/asid",
+   "description": "AutoML tool for imbalanced and small tabular datasets",
+   "stars": 5,
+   "language": "Python",
+   "license": "BSD-3-Clause",
+   "created_at": "2022-12-15T10:08:42Z",
+   "pushed_at": "2025-01-15T16:25:20Z"
+  },
+  {
+   "label": "Repository",
+   "id": "aimclub/blocksnet",
+   "name": "blocksnet",
+   "url": "https://github.com/aimclub/blocksnet",
+   "description": "Open library with tools for generation the city model and optimal requirements for future development with specified target parameters ",
+   "stars": 45,
+   "language": "Python",
+   "license": "BSD-3-Clause",
+   "created_at": "2022-12-22T12:18:58Z",
+   "pushed_at": "2026-05-04T08:36:20Z"
+  },
+  {
+   "label": "Publication",
+   "id": "W4390505709",
+   "title": "Digital Master Plan as a Tool for Generating Territory Development Requirements",
+   "year": 2024,
+   "doi": "10.1007/978-3-031-48855-9_4",
+   "venue": "Communications in computer and information science",
+   "cited_by_count": 2,
+   "has_itmo_author": true
+  },
+  {
+   "label": "Person",
+   "id": "A5064680612",
+   "name": "Tatiana Churiakova",
+   "orcid": "https://orcid.org/0000-0001-7945-8150",
+   "is_itmo": true
+  },
+  {
+   "label": "Person",
+   "id": "A5012451904",
+   "name": "Vasilii Starikov",
+   "orcid": "https://orcid.org/0009-0002-8206-7753",
+   "is_itmo": true
+  },
+  {
+   "label": "Person",
+   "id": "A5093638273",
+   "name": "Vladislava Sudakova",
+   "is_itmo": true
+  },
+  {
+   "label": "Person",
+   "id": "A5054424823",
+   "name": "Aleksandr S. Morozov",
+   "is_itmo": true
+  },
+  {
+   "label": "Person",
+   "id": "A5038590181",
+   "name": "Sergey A. Mityagin",
+   "orcid": "https://orcid.org/0000-0001-9877-1687",
+   "is_itmo": true
+  },
+  {
+   "label": "Repository",
+   "id": "aimclub/documentor",
+   "name": "documentor",
+   "url": "https://github.com/aimclub/documentor",
+   "description": "Document parsing library that extracts structured content",
+   "stars": 51,
+   "language": "Python",
+   "license": "BSD-3-Clause",
+   "created_at": "2023-10-27T07:33:35Z",
+   "pushed_at": "2026-03-04T13:38:36Z"
+  },
+  {
+   "label": "Repository",
+   "id": "aimclub/eXplain-NNs",
+   "name": "eXplain-NNs",
+   "url": "https://github.com/aimclub/eXplain-NNs",
+   "description": "Library with XAI methods for NNs",
+   "stars": 45,
+   "language": "Python",
+   "license": "BSD-3-Clause",
+   "created_at": "2022-10-03T16:13:33Z",
+   "pushed_at": "2025-06-11T07:00:05Z"
+  },
+  {
+   "label": "Repository",
+   "id": "aimclub/evoguess-ai",
+   "name": "evoguess-ai",
+   "url": "https://github.com/aimclub/evoguess-ai",
+   "description": "Component for finding decomposition sets and estimating hardness of SAT instances.",
+   "stars": 10,
+   "language": "Python",
+   "license": "MIT",
+   "created_at": "2023-01-17T11:37:07Z",
+   "pushed_at": "2026-06-26T12:50:17Z"
+  },
+  {
+   "label": "Repository",
+   "id": "aimclub/expert-hr",
+   "name": "expert-hr",
+   "url": "https://github.com/aimclub/expert-hr",
+   "description": "Intelligent recruitment platform",
+   "stars": 3,
+   "language": "Python",
+   "license": "BSD-3-Clause",
+   "created_at": "2025-01-21T07:31:55Z",
+   "pushed_at": "2025-01-21T07:33:24Z"
+  },
+  {
+   "label": "Repository",
+   "id": "aimclub/foressment_lib",
+   "name": "foressment_lib",
+   "url": "https://github.com/aimclub/foressment_lib",
+   "description": "AI-based assessment and forecasting of the state of complex technical objects.",
+   "stars": 5,
+   "language": "Python",
+   "license": "BSD-3-Clause",
+   "created_at": "2022-10-04T20:15:05Z",
+   "pushed_at": "2025-01-14T09:36:03Z"
+  },
+  {
+   "label": "Publication",
+   "id": "W4313644131",
+   "title": "A survey on artificial intelligence techniques for security event correlation: models, challenges, and opportunities",
+   "year": 2023,
+   "doi": "10.1007/s10462-022-10381-4",
+   "venue": "Artificial Intelligence Review",
+   "cited_by_count": 55,
+   "has_itmo_author": true
+  },
+  {
+   "label": "Person",
+   "id": "A5014369213",
+   "name": "Diana Levshun",
+   "orcid": "https://orcid.org/0000-0002-5266-8649"
+  },
+  {
+   "label": "Person",
+   "id": "A5033986640",
+   "name": "Igor Vitalievich Kotenko",
+   "orcid": "https://orcid.org/0000-0001-6859-7120",
+   "is_itmo": true
+  },
+  {
+   "label": "Repository",
+   "id": "aimclub/iOpt",
+   "name": "iOpt",
+   "url": "https://github.com/aimclub/iOpt",
+   "description": "Framework of intelligent optimization methods iOpt",
+   "stars": 57,
+   "language": "Python",
+   "license": "BSD-3-Clause",
+   "created_at": "2022-10-05T13:51:59Z",
+   "pushed_at": "2026-08-10T07:15:24Z"
+  },
+  {
+   "label": "Repository",
+   "id": "aimclub/open-source-ops",
+   "name": "open-source-ops",
+   "url": "https://github.com/aimclub/open-source-ops",
+   "description": "Полезные советы для open-source разработок (в том числе в области AI/ML) от сообщества ITMO OpenSource",
+   "stars": 138,
+   "language": "HTML",
+   "license": "BSD-3-Clause",
+   "created_at": "2022-08-17T10:24:08Z",
+   "pushed_at": "2026-10-05T16:00:13Z"
+  },
+  {
+   "label": "Repository",
+   "id": "aimclub/protollm-api",
+   "name": "protollm-api",
+   "url": "https://github.com/aimclub/protollm-api",
+   "description": "A framework for creating a single entry point for LLM requests",
+   "stars": 0,
+   "language": "Python",
+   "license": "BSD-3-Clause",
+   "created_at": "2025-05-21T09:13:05Z",
+   "pushed_at": "2025-10-07T12:48:22Z"
+  },
+  {
+   "label": "Repository",
+   "id": "aimclub/protollm-sdk",
+   "name": "protollm-sdk",
+   "url": "https://github.com/aimclub/protollm-sdk",
+   "description": "Lib for prototyping of LLM-based applications, including for the protollm framework",
+   "stars": 0,
+   "language": "Python",
+   "license": "BSD-3-Clause",
+   "created_at": "2025-05-21T09:11:24Z",
+   "pushed_at": "2026-04-02T14:09:33Z"
+  },
+  {
+   "label": "Repository",
+   "id": "aimclub/rostok",
+   "name": "rostok",
+   "url": "https://github.com/aimclub/rostok",
+   "description": "Rostok is an open source library which provides the framework for generative co-design of mechatronic and robotic systems.",
+   "stars": 48,
+   "language": "Jupyter Notebook",
+   "license": "BSD-3-Clause",
+   "created_at": "2022-09-06T11:22:10Z",
+   "pushed_at": "2025-01-20T16:21:25Z"
+  },
+  {
+   "label": "Publication",
+   "id": "W4285102446",
+   "title": "Reconfigurable Underactuated Adaptive Gripper Designed by Morphological Computation",
+   "year": 2022,
+   "doi": "10.1109/icra46639.2022.9811738",
+   "venue": "Proceedings - IEEE International Conference on Robotics and Automation/Proceedings",
+   "cited_by_count": 17,
+   "has_itmo_author": true
+  },
+  {
+   "label": "Person",
+   "id": "A5103058126",
+   "name": "Ivan I. Borisov",
+   "orcid": "https://orcid.org/0000-0003-0168-6609",
+   "is_itmo": true
+  },
+  {
+   "label": "Person",
+   "id": "A5020683181",
+   "name": "Evgenii E. Khornutov",
+   "is_itmo": true
+  },
+  {
+   "label": "Person",
+   "id": "A5041404348",
+   "name": "Dmitriy V. Ivolga",
+   "is_itmo": true
+  },
+  {
+   "label": "Person",
+   "id": "A5009877881",
+   "name": "Nikita A. Molchanov"
+  },
+  {
+   "label": "Person",
+   "id": "A5069882694",
+   "name": "I.A. Maksimov"
+  },
+  {
+   "label": "Person",
+   "id": "A5001747199",
+   "name": "Sergey A. Kolyubin",
+   "orcid": "https://orcid.org/0000-0002-8057-1959",
+   "is_itmo": true
+  },
+  {
+   "label": "Repository",
+   "id": "aimclub/top-ai-dpo",
+   "name": "top-ai-dpo",
+   "url": "https://github.com/aimclub/top-ai-dpo",
+   "description": "Фонды оценочных средств для образовательных программ топ-уровня в области искусственного интеллекта",
+   "stars": 7,
+   "created_at": "2026-08-04T16:06:22Z",
+   "pushed_at": "2026-08-07T16:23:05Z"
+  }
+ ],
+ "edges": [
+  {
+   "from": [
+    "Repository",
+    "ITMO-NSS-team/.github"
+   ],
+   "type": "OWNED_BY",
+   "to": [
+    "GitHubProfile",
+    "ITMO-NSS-team"
+   ]
+  },
+  {
+   "from": [
+    "Repository",
+    "ITMO-NSS-team/AIRI-hack"
+   ],
+   "type": "OWNED_BY",
+   "to": [
+    "GitHubProfile",
+    "ITMO-NSS-team"
+   ]
+  },
+  {
+   "from": [
+    "Repository",
+    "ITMO-NSS-team/AgroCode-Hack-2022"
+   ],
+   "type": "OWNED_BY",
+   "to": [
+    "GitHubProfile",
+    "ITMO-NSS-team"
+   ]
+  },
+  {
+   "from": [
+    "Repository",
+    "ITMO-NSS-team/Aiice"
+   ],
+   "type": "OWNED_BY",
+   "to": [
+    "GitHubProfile",
+    "ITMO-NSS-team"
+   ]
+  },
+  {
+   "from": [
+    "Repository",
+    "ITMO-NSS-team/Air-quality-AutoMLs"
+   ],
+   "type": "OWNED_BY",
+   "to": [
+    "GitHubProfile",
+    "ITMO-NSS-team"
+   ]
+  },
+  {
+   "from": [
+    "Repository",
+    "ITMO-NSS-team/AutoJudge"
+   ],
+   "type": "OWNED_BY",
+   "to": [
+    "GitHubProfile",
+    "ITMO-NSS-team"
+   ]
+  },
+  {
+   "from": [
+    "Repository",
+    "ITMO-NSS-team/AutoSWAN"
+   ],
+   "type": "OWNED_BY",
+   "to": [
+    "GitHubProfile",
+    "ITMO-NSS-team"
+   ]
+  },
+  {
+   "from": [
+    "Repository",
+    "ITMO-NSS-team/CEC_2023_knowledge"
+   ],
+   "type": "OWNED_BY",
+   "to": [
+    "GitHubProfile",
+    "ITMO-NSS-team"
+   ]
+  },
+  {
+   "from": [
+    "Repository",
+    "ITMO-NSS-team/CatRepBench"
+   ],
+   "type": "OWNED_BY",
+   "to": [
+    "GitHubProfile",
+    "ITMO-NSS-team"
+   ]
+  },
+  {
+   "from": [
+    "Repository",
+    "ITMO-NSS-team/DAN_Mathematics2023_paper"
+   ],
+   "type": "OWNED_BY",
+   "to": [
+    "GitHubProfile",
+    "ITMO-NSS-team"
+   ]
+  },
+  {
+   "from": [
+    "Repository",
+    "ITMO-NSS-team/DS2024_Active_Matter"
+   ],
+   "type": "OWNED_BY",
+   "to": [
+    "GitHubProfile",
+    "ITMO-NSS-team"
+   ]
+  },
+  {
+   "from": [
+    "Repository",
+    "ITMO-NSS-team/DS2025_Ensembles"
+   ],
+   "type": "OWNED_BY",
+   "to": [
+    "GitHubProfile",
+    "ITMO-NSS-team"
+   ]
+  },
+  {
+   "from": [
+    "Repository",
+    "ITMO-NSS-team/DS2025_diff"
+   ],
+   "type": "OWNED_BY",
+   "to": [
+    "GitHubProfile",
+    "ITMO-NSS-team"
+   ]
+  },
+  {
+   "from": [
+    "Repository",
+    "ITMO-NSS-team/DynamicMCPBench"
+   ],
+   "type": "OWNED_BY",
+   "to": [
+    "GitHubProfile",
+    "ITMO-NSS-team"
+   ]
+  },
+  {
+   "from": [
+    "Repository",
+    "ITMO-NSS-team/DynamicModelDesign"
+   ],
+   "type": "OWNED_BY",
+   "to": [
+    "GitHubProfile",
+    "ITMO-NSS-team"
+   ]
+  },
+  {
+   "from": [
+    "Repository",
+    "ITMO-NSS-team/EPDE"
+   ],
+   "type": "OWNED_BY",
+   "to": [
+    "GitHubProfile",
+    "ITMO-NSS-team"
+   ]
+  },
+  {
+   "from": [
+    "Repository",
+    "ITMO-NSS-team/EPDE_CTRL"
+   ],
+   "type": "OWNED_BY",
+   "to": [
+    "GitHubProfile",
+    "ITMO-NSS-team"
+   ]
+  },
+  {
+   "from": [
+    "Repository",
+    "ITMO-NSS-team/EPDE_GECCO_experiments"
+   ],
+   "type": "OWNED_BY",
+   "to": [
+    "GitHubProfile",
+    "ITMO-NSS-team"
+   ]
+  },
+  {
+   "from": [
+    "GitHubProfile",
+    "Maslyaev"
+   ],
+   "type": "CONTRIBUTED_TO",
+   "to": [
+    "Repository",
+    "ITMO-NSS-team/EPDE_GECCO_experiments"
+   ],
+   "contributions": 3
+  },
+  {
+   "from": [
+    "Repository",
+    "ITMO-NSS-team/EPDE_GECCO_experiments"
+   ],
+   "type": "MENTIONS_PAPER",
+   "to": [
+    "Publication",
+    "W4385190075"
+   ],
+   "source": "readme",
+   "role": "mention",
+   "section": "EPDE_GECCO_experiments",
+   "resolved": true
+  },
+  {
+   "from": [
+    "Person",
+    "A5019841109"
+   ],
+   "type": "AUTHORED",
+   "to": [
+    "Publication",
+    "W4385190075"
+   ],
+   "position": 0,
+   "is_itmo": true
+  },
+  {
+   "from": [
+    "GitHubProfile",
+    "Maslyaev"
+   ],
+   "type": "POSSIBLY_SAME_AS",
+   "to": [
+    "Person",
+    "A5019841109"
+   ],
+   "score": 1.0,
+   "evidence": "name match via ITMO-NSS-team/composite-flood-forecast"
+  },
+  {
+   "from": [
+    "Person",
+    "A5004239401"
+   ],
+   "type": "AUTHORED",
+   "to": [
+    "Publication",
+    "W4385190075"
+   ],
+   "position": 1,
+   "is_itmo": true
+  },
+  {
+   "from": [
+    "Repository",
+    "ITMO-NSS-team/EPDE_LLM_NeurIPS2026"
+   ],
+   "type": "OWNED_BY",
+   "to": [
+    "GitHubProfile",
+    "ITMO-NSS-team"
+   ]
+  },
+  {
+   "from": [
+    "Repository",
+    "ITMO-NSS-team/EPDE_automated_knowledge"
+   ],
+   "type": "OWNED_BY",
+   "to": [
+    "GitHubProfile",
+    "ITMO-NSS-team"
+   ]
+  },
+  {
+   "from": [
+    "Repository",
+    "ITMO-NSS-team/EPDE_paper_experiments"
+   ],
+   "type": "OWNED_BY",
+   "to": [
+    "GitHubProfile",
+    "ITMO-NSS-team"
+   ]
+  },
+  {
+   "from": [
+    "Repository",
+    "ITMO-NSS-team/Epidemic_AutoML"
+   ],
+   "type": "OWNED_BY",
+   "to": [
+    "GitHubProfile",
+    "ITMO-NSS-team"
+   ]
+  },
+  {
+   "from": [
+    "Repository",
+    "ITMO-NSS-team/FEDOT-benchmarks"
+   ],
+   "type": "OWNED_BY",
+   "to": [
+    "GitHubProfile",
+    "ITMO-NSS-team"
+   ]
+  },
+  {
+   "from": [
+    "Repository",
+    "ITMO-NSS-team/FEDOT.Algs"
+   ],
+   "type": "OWNED_BY",
+   "to": [
+    "GitHubProfile",
+    "ITMO-NSS-team"
+   ]
+  },
+  {
+   "from": [
+    "Repository",
+    "ITMO-NSS-team/FEDOT.MAS-Demo"
+   ],
+   "type": "OWNED_BY",
+   "to": [
+    "GitHubProfile",
+    "ITMO-NSS-team"
+   ]
+  },
+  {
+   "from": [
+    "Repository",
+    "ITMO-NSS-team/FEDOT.MAS"
+   ],
+   "type": "OWNED_BY",
+   "to": [
+    "GitHubProfile",
+    "ITMO-NSS-team"
+   ]
+  },
+  {
+   "from": [
+    "GitHubProfile",
+    "dmitryglhf"
+   ],
+   "type": "CONTRIBUTED_TO",
+   "to": [
+    "Repository",
+    "ITMO-NSS-team/FEDOT.MAS"
+   ],
+   "contributions": 138
+  },
+  {
+   "from": [
+    "GitHubProfile",
+    "VadimsAhmers"
+   ],
+   "type": "CONTRIBUTED_TO",
+   "to": [
+    "Repository",
+    "ITMO-NSS-team/FEDOT.MAS"
+   ],
+   "contributions": 10
+  },
+  {
+   "from": [
+    "GitHubProfile",
+    "down-shift"
+   ],
+   "type": "CONTRIBUTED_TO",
+   "to": [
+    "Repository",
+    "ITMO-NSS-team/FEDOT.MAS"
+   ],
+   "contributions": 8
+  },
+  {
+   "from": [
+    "Repository",
+    "ITMO-NSS-team/FEDOT.MAS"
+   ],
+   "type": "MENTIONS_PAPER",
+   "to": [
+    "Publication",
+    "W4416411532"
+   ],
+   "source": "readme",
+   "role": "mention",
+   "section": "Optimizing a system",
+   "resolved": true
+  },
+  {
+   "from": [
+    "Person",
+    "A5088639037"
+   ],
+   "type": "AUTHORED",
+   "to": [
+    "Publication",
+    "W4416411532"
+   ],
+   "position": 2,
+   "is_itmo": false
+  },
+  {
+   "from": [
+    "Person",
+    "A5032058128"
+   ],
+   "type": "AUTHORED",
+   "to": [
+    "Publication",
+    "W4416411532"
+   ],
+   "position": 3,
+   "is_itmo": false
+  },
+  {
+   "from": [
+    "Person",
+    "A5099230650"
+   ],
+   "type": "AUTHORED",
+   "to": [
+    "Publication",
+    "W4416411532"
+   ],
+   "position": 5,
+   "is_itmo": false
+  },
+  {
+   "from": [
+    "Person",
+    "A5104180027"
+   ],
+   "type": "AUTHORED",
+   "to": [
+    "Publication",
+    "W4416411532"
+   ],
+   "position": 6,
+   "is_itmo": false
+  },
+  {
+   "from": [
+    "Person",
+    "A5090912879"
+   ],
+   "type": "AUTHORED",
+   "to": [
+    "Publication",
+    "W4416411532"
+   ],
+   "position": 7,
+   "is_itmo": false
+  },
+  {
+   "from": [
+    "Person",
+    "A5058109700"
+   ],
+   "type": "AUTHORED",
+   "to": [
+    "Publication",
+    "W4416411532"
+   ],
+   "position": 8,
+   "is_itmo": false
+  },
+  {
+   "from": [
+    "Person",
+    "A5074821819"
+   ],
+   "type": "AUTHORED",
+   "to": [
+    "Publication",
+    "W4416411532"
+   ],
+   "position": 9,
+   "is_itmo": false
+  },
+  {
+   "from": [
+    "Person",
+    "A5042601761"
+   ],
+   "type": "AUTHORED",
+   "to": [
+    "Publication",
+    "W4416411532"
+   ],
+   "position": 10,
+   "is_itmo": false
+  },
+  {
+   "from": [
+    "Person",
+    "A5014141359"
+   ],
+   "type": "AUTHORED",
+   "to": [
+    "Publication",
+    "W4416411532"
+   ],
+   "position": 12,
+   "is_itmo": false
+  },
+  {
+   "from": [
+    "Person",
+    "A5041920173"
+   ],
+   "type": "AUTHORED",
+   "to": [
+    "Publication",
+    "W4416411532"
+   ],
+   "position": 13,
+   "is_itmo": false
+  },
+  {
+   "from": [
+    "Person",
+    "A5004921249"
+   ],
+   "type": "AUTHORED",
+   "to": [
+    "Publication",
+    "W4416411532"
+   ],
+   "position": 14,
+   "is_itmo": false
+  },
+  {
+   "from": [
+    "Person",
+    "A5005554337"
+   ],
+   "type": "AUTHORED",
+   "to": [
+    "Publication",
+    "W4416411532"
+   ],
+   "position": 15,
+   "is_itmo": false
+  },
+  {
+   "from": [
+    "Person",
+    "A5015201177"
+   ],
+   "type": "AUTHORED",
+   "to": [
+    "Publication",
+    "W4416411532"
+   ],
+   "position": 16,
+   "is_itmo": false
+  },
+  {
+   "from": [
+    "Repository",
+    "ITMO-NSS-team/FEDOT.MAS"
+   ],
+   "type": "MENTIONS_PAPER",
+   "to": [
+    "Publication",
+    "W7162247012"
+   ],
+   "source": "readme",
+   "role": "own",
+   "section": "Citation",
+   "resolved": true
+  },
+  {
+   "from": [
+    "Person",
+    "A5120308655"
+   ],
+   "type": "AUTHORED",
+   "to": [
+    "Publication",
+    "W7162247012"
+   ],
+   "position": 0,
+   "is_itmo": true
+  },
+  {
+   "from": [
+    "GitHubProfile",
+    "dmitryglhf"
+   ],
+   "type": "POSSIBLY_SAME_AS",
+   "to": [
+    "Person",
+    "A5120308655"
+   ],
+   "score": 1.0,
+   "evidence": "name match via ITMO-NSS-team/FEDOT.MAS"
+  },
+  {
+   "from": [
+    "Person",
+    "A5136864787"
+   ],
+   "type": "AUTHORED",
+   "to": [
+    "Publication",
+    "W7162247012"
+   ],
+   "position": 2,
+   "is_itmo": true
+  },
+  {
+   "from": [
+    "Person",
+    "A5063535629"
+   ],
+   "type": "AUTHORED",
+   "to": [
+    "Publication",
+    "W7162247012"
+   ],
+   "position": 3,
+   "is_itmo": true
+  },
+  {
+   "from": [
+    "Person",
+    "A5136887584"
+   ],
+   "type": "AUTHORED",
+   "to": [
+    "Publication",
+    "W7162247012"
+   ],
+   "position": 4,
+   "is_itmo": true
+  },
+  {
+   "from": [
+    "Person",
+    "A5014299140"
+   ],
+   "type": "AUTHORED",
+   "to": [
+    "Publication",
+    "W7162247012"
+   ],
+   "position": 5,
+   "is_itmo": true
+  },
+  {
+   "from": [
+    "Repository",
+    "ITMO-NSS-team/FEDOT.MAS"
+   ],
+   "type": "IMPLEMENTS",
+   "to": [
+    "Publication",
+    "W7162247012"
+   ],
+   "evidence": [
+    "itmo_author",
+    "contributor_is_author"
+   ],
+   "source": "readme"
+  },
+  {
+   "from": [
+    "Repository",
+    "ITMO-NSS-team/FEDOT.Miscellaneous"
+   ],
+   "type": "OWNED_BY",
+   "to": [
+    "GitHubProfile",
+    "ITMO-NSS-team"
+   ]
+  },
+  {
+   "from": [
+    "Repository",
+    "ITMO-NSS-team/FEDOT.Swarm"
+   ],
+   "type": "OWNED_BY",
+   "to": [
+    "GitHubProfile",
+    "ITMO-NSS-team"
+   ]
+  },
+  {
+   "from": [
+    "Repository",
+    "ITMO-NSS-team/Fedot-TS-Benchmark"
+   ],
+   "type": "OWNED_BY",
+   "to": [
+    "GitHubProfile",
+    "ITMO-NSS-team"
+   ]
+  },
+  {
+   "from": [
+    "Repository",
+    "ITMO-NSS-team/FoundNO"
+   ],
+   "type": "OWNED_BY",
+   "to": [
+    "GitHubProfile",
+    "ITMO-NSS-team"
+   ]
+  },
+  {
+   "from": [
+    "Repository",
+    "ITMO-NSS-team/GAMLET"
+   ],
+   "type": "OWNED_BY",
+   "to": [
+    "GitHubProfile",
+    "ITMO-NSS-team"
+   ]
+  },
+  {
+   "from": [
+    "Repository",
+    "ITMO-NSS-team/GEFEST-paper-experiments"
+   ],
+   "type": "OWNED_BY",
+   "to": [
+    "GitHubProfile",
+    "ITMO-NSS-team"
+   ]
+  },
+  {
+   "from": [
+    "Repository",
+    "ITMO-NSS-team/GEFEST_sound_detection_paper_experiments"
+   ],
+   "type": "OWNED_BY",
+   "to": [
+    "GitHubProfile",
+    "ITMO-NSS-team"
+   ]
+  },
+  {
+   "from": [
+    "Repository",
+    "ITMO-NSS-team/GRSL_masam2_downscaling"
+   ],
+   "type": "OWNED_BY",
+   "to": [
+    "GitHubProfile",
+    "ITMO-NSS-team"
+   ]
+  },
+  {
+   "from": [
+    "Repository",
+    "ITMO-NSS-team/IJCNN2025_periodicity"
+   ],
+   "type": "OWNED_BY",
+   "to": [
+    "GitHubProfile",
+    "ITMO-NSS-team"
+   ]
+  },
+  {
+   "from": [
+    "GitHubProfile",
+    "ChrisLisbon"
+   ],
+   "type": "CONTRIBUTED_TO",
+   "to": [
+    "Repository",
+    "ITMO-NSS-team/IJCNN2025_periodicity"
+   ],
+   "contributions": 3
+  },
+  {
+   "from": [
+    "Repository",
+    "ITMO-NSS-team/IJCNN2025_periodicity"
+   ],
+   "type": "MENTIONS_PAPER",
+   "to": [
+    "Publication",
+    "W4318348481"
+   ],
+   "source": "readme",
+   "role": "mention",
+   "section": "Models",
+   "resolved": true
+  },
+  {
+   "from": [
+    "Person",
+    "A5100443173"
+   ],
+   "type": "AUTHORED",
+   "to": [
+    "Publication",
+    "W4318348481"
+   ],
+   "position": 0,
+   "is_itmo": false
+  },
+  {
+   "from": [
+    "Repository",
+    "ITMO-NSS-team/KLR2023_paper"
+   ],
+   "type": "OWNED_BY",
+   "to": [
+    "GitHubProfile",
+    "ITMO-NSS-team"
+   ]
+  },
+  {
+   "from": [
+    "Repository",
+    "ITMO-NSS-team/LANE-SI-AAAI23-workshop"
+   ],
+   "type": "OWNED_BY",
+   "to": [
+    "GitHubProfile",
+    "ITMO-NSS-team"
+   ]
+  },
+  {
+   "from": [
+    "Repository",
+    "ITMO-NSS-team/LM-Compression"
+   ],
+   "type": "OWNED_BY",
+   "to": [
+    "GitHubProfile",
+    "ITMO-NSS-team"
+   ]
+  },
+  {
+   "from": [
+    "Repository",
+    "ITMO-NSS-team/LightObjRecEnsembler"
+   ],
+   "type": "OWNED_BY",
+   "to": [
+    "GitHubProfile",
+    "ITMO-NSS-team"
+   ]
+  },
+  {
+   "from": [
+    "Repository",
+    "ITMO-NSS-team/MADD-CoScientist"
+   ],
+   "type": "OWNED_BY",
+   "to": [
+    "GitHubProfile",
+    "ITMO-NSS-team"
+   ]
+  },
+  {
+   "from": [
+    "Repository",
+    "ITMO-NSS-team/MAKE_robots"
+   ],
+   "type": "OWNED_BY",
+   "to": [
+    "GitHubProfile",
+    "ITMO-NSS-team"
+   ]
+  },
+  {
+   "from": [
+    "Repository",
+    "ITMO-NSS-team/MANUL"
+   ],
+   "type": "OWNED_BY",
+   "to": [
+    "GitHubProfile",
+    "ITMO-NSS-team"
+   ]
+  },
+  {
+   "from": [
+    "Repository",
+    "ITMO-NSS-team/MCPhub"
+   ],
+   "type": "OWNED_BY",
+   "to": [
+    "GitHubProfile",
+    "ITMO-NSS-team"
+   ]
+  },
+  {
+   "from": [
+    "Repository",
+    "ITMO-NSS-team/ML4RS_2026_arctic_downscale"
+   ],
+   "type": "OWNED_BY",
+   "to": [
+    "GitHubProfile",
+    "ITMO-NSS-team"
+   ]
+  },
+  {
+   "from": [
+    "Repository",
+    "ITMO-NSS-team/MetaSelect"
+   ],
+   "type": "OWNED_BY",
+   "to": [
+    "GitHubProfile",
+    "ITMO-NSS-team"
+   ]
+  },
+  {
+   "from": [
+    "Repository",
+    "ITMO-NSS-team/Mosaic_develop"
+   ],
+   "type": "OWNED_BY",
+   "to": [
+    "GitHubProfile",
+    "ITMO-NSS-team"
+   ]
+  },
+  {
+   "from": [
+    "Repository",
+    "ITMO-NSS-team/NEGEL2025_manifolds"
+   ],
+   "type": "OWNED_BY",
+   "to": [
+    "GitHubProfile",
+    "ITMO-NSS-team"
+   ]
+  },
+  {
+   "from": [
+    "Repository",
+    "ITMO-NSS-team/NH3Bench"
+   ],
+   "type": "OWNED_BY",
+   "to": [
+    "GitHubProfile",
+    "ITMO-NSS-team"
+   ]
+  },
+  {
+   "from": [
+    "Repository",
+    "ITMO-NSS-team/OL2A_2023_gd_with_sa_paper"
+   ],
+   "type": "OWNED_BY",
+   "to": [
+    "GitHubProfile",
+    "ITMO-NSS-team"
+   ]
+  },
+  {
+   "from": [
+    "Repository",
+    "ITMO-NSS-team/OOD_Tab_Evaluation"
+   ],
+   "type": "OWNED_BY",
+   "to": [
+    "GitHubProfile",
+    "ITMO-NSS-team"
+   ]
+  },
+  {
+   "from": [
+    "Repository",
+    "ITMO-NSS-team/OSA.Edu"
+   ],
+   "type": "OWNED_BY",
+   "to": [
+    "GitHubProfile",
+    "ITMO-NSS-team"
+   ]
+  },
+  {
+   "from": [
+    "Repository",
+    "ITMO-NSS-team/OSA.Web"
+   ],
+   "type": "OWNED_BY",
+   "to": [
+    "GitHubProfile",
+    "ITMO-NSS-team"
+   ]
+  },
+  {
+   "from": [
+    "Repository",
+    "ITMO-NSS-team/PAUK"
+   ],
+   "type": "OWNED_BY",
+   "to": [
+    "GitHubProfile",
+    "ITMO-NSS-team"
+   ]
+  },
+  {
+   "from": [
+    "Repository",
+    "ITMO-NSS-team/RECMAN_recsys2025"
+   ],
+   "type": "OWNED_BY",
+   "to": [
+    "GitHubProfile",
+    "ITMO-NSS-team"
+   ]
+  },
+  {
+   "from": [
+    "GitHubProfile",
+    "ChrisLisbon"
+   ],
+   "type": "CONTRIBUTED_TO",
+   "to": [
+    "Repository",
+    "ITMO-NSS-team/RECMAN_recsys2025"
+   ],
+   "contributions": 4
+  },
+  {
+   "from": [
+    "GitHubProfile",
+    "SuperSashka"
+   ],
+   "type": "CONTRIBUTED_TO",
+   "to": [
+    "Repository",
+    "ITMO-NSS-team/RECMAN_recsys2025"
+   ],
+   "contributions": 2
+  },
+  {
+   "from": [
+    "Repository",
+    "ITMO-NSS-team/RECMAN_recsys2025"
+   ],
+   "type": "MENTIONS_PAPER",
+   "to": [
+    "Publication",
+    "W4414035098"
+   ],
+   "source": "readme",
+   "role": "own",
+   "section": "Citation",
+   "resolved": true
+  },
+  {
+   "from": [
+    "Person",
+    "A5119556812"
+   ],
+   "type": "AUTHORED",
+   "to": [
+    "Publication",
+    "W4414035098"
+   ],
+   "position": 0,
+   "is_itmo": true
+  },
+  {
+   "from": [
+    "Person",
+    "A5118827566"
+   ],
+   "type": "AUTHORED",
+   "to": [
+    "Publication",
+    "W4414035098"
+   ],
+   "position": 1,
+   "is_itmo": true
+  },
+  {
+   "from": [
+    "GitHubProfile",
+    "ChrisLisbon"
+   ],
+   "type": "POSSIBLY_SAME_AS",
+   "to": [
+    "Person",
+    "A5118827566"
+   ],
+   "score": 1.0,
+   "evidence": "name match via ITMO-NSS-team/sea_ice_transformers"
+  },
+  {
+   "from": [
+    "Person",
+    "A5004239401"
+   ],
+   "type": "AUTHORED",
+   "to": [
+    "Publication",
+    "W4414035098"
+   ],
+   "position": 2,
+   "is_itmo": true
+  },
+  {
+   "from": [
+    "GitHubProfile",
+    "SuperSashka"
+   ],
+   "type": "POSSIBLY_SAME_AS",
+   "to": [
+    "Person",
+    "A5004239401"
+   ],
+   "score": 1.0,
+   "evidence": "name match via ITMO-NSS-team/torch_DE_solver"
+  },
+  {
+   "from": [
+    "Repository",
+    "ITMO-NSS-team/RECMAN_recsys2025"
+   ],
+   "type": "IMPLEMENTS",
+   "to": [
+    "Publication",
+    "W4414035098"
+   ],
+   "evidence": [
+    "itmo_author",
+    "contributor_is_author"
+   ],
+   "source": "readme"
+  },
+  {
+   "from": [
+    "Repository",
+    "ITMO-NSS-team/ROBUST_EPDE"
+   ],
+   "type": "OWNED_BY",
+   "to": [
+    "GitHubProfile",
+    "ITMO-NSS-team"
+   ]
+  },
+  {
+   "from": [
+    "Repository",
+    "ITMO-NSS-team/RockBurst.AI"
+   ],
+   "type": "OWNED_BY",
+   "to": [
+    "GitHubProfile",
+    "ITMO-NSS-team"
+   ]
+  },
+  {
+   "from": [
+    "Repository",
+    "ITMO-NSS-team/Routing"
+   ],
+   "type": "OWNED_BY",
+   "to": [
+    "GitHubProfile",
+    "ITMO-NSS-team"
+   ]
+  },
+  {
+   "from": [
+    "Repository",
+    "ITMO-NSS-team/Solver-paper-for-AI4S"
+   ],
+   "type": "OWNED_BY",
+   "to": [
+    "GitHubProfile",
+    "ITMO-NSS-team"
+   ]
+  },
+  {
+   "from": [
+    "Repository",
+    "ITMO-NSS-team/SynthBenchmark"
+   ],
+   "type": "OWNED_BY",
+   "to": [
+    "GitHubProfile",
+    "ITMO-NSS-team"
+   ]
+  },
+  {
+   "from": [
+    "Repository",
+    "ITMO-NSS-team/SynthGenerator"
+   ],
+   "type": "OWNED_BY",
+   "to": [
+    "GitHubProfile",
+    "ITMO-NSS-team"
+   ]
+  },
+  {
+   "from": [
+    "Repository",
+    "ITMO-NSS-team/TSC-paper_experiments"
+   ],
+   "type": "OWNED_BY",
+   "to": [
+    "GitHubProfile",
+    "ITMO-NSS-team"
+   ]
+  },
+  {
+   "from": [
+    "Repository",
+    "ITMO-NSS-team/TabDomain_Extractor"
+   ],
+   "type": "OWNED_BY",
+   "to": [
+    "GitHubProfile",
+    "ITMO-NSS-team"
+   ]
+  },
+  {
+   "from": [
+    "Repository",
+    "ITMO-NSS-team/aaai24_auto_topo"
+   ],
+   "type": "OWNED_BY",
+   "to": [
+    "GitHubProfile",
+    "ITMO-NSS-team"
+   ]
+  },
+  {
+   "from": [
+    "Repository",
+    "ITMO-NSS-team/algebrfun"
+   ],
+   "type": "OWNED_BY",
+   "to": [
+    "GitHubProfile",
+    "ITMO-NSS-team"
+   ]
+  },
+  {
+   "from": [
+    "Repository",
+    "ITMO-NSS-team/automl-crash-test"
+   ],
+   "type": "OWNED_BY",
+   "to": [
+    "GitHubProfile",
+    "ITMO-NSS-team"
+   ]
+  },
+  {
+   "from": [
+    "Repository",
+    "ITMO-NSS-team/breakwaters-evolutionary-optimisation"
+   ],
+   "type": "OWNED_BY",
+   "to": [
+    "GitHubProfile",
+    "ITMO-NSS-team"
+   ]
+  },
+  {
+   "from": [
+    "Repository",
+    "ITMO-NSS-team/cell-trap-design"
+   ],
+   "type": "OWNED_BY",
+   "to": [
+    "GitHubProfile",
+    "ITMO-NSS-team"
+   ]
+  },
+  {
+   "from": [
+    "Repository",
+    "ITMO-NSS-team/chempaperbench"
+   ],
+   "type": "OWNED_BY",
+   "to": [
+    "GitHubProfile",
+    "ITMO-NSS-team"
+   ]
+  },
+  {
+   "from": [
+    "Repository",
+    "ITMO-NSS-team/chronorepo_icdm26"
+   ],
+   "type": "OWNED_BY",
+   "to": [
+    "GitHubProfile",
+    "ITMO-NSS-team"
+   ]
+  },
+  {
+   "from": [
+    "Repository",
+    "ITMO-NSS-team/composite-flood-forecast"
+   ],
+   "type": "OWNED_BY",
+   "to": [
+    "GitHubProfile",
+    "ITMO-NSS-team"
+   ]
+  },
+  {
+   "from": [
+    "GitHubProfile",
+    "Dreamlone"
+   ],
+   "type": "CONTRIBUTED_TO",
+   "to": [
+    "Repository",
+    "ITMO-NSS-team/composite-flood-forecast"
+   ],
+   "contributions": 28
+  },
+  {
+   "from": [
+    "GitHubProfile",
+    "ChrisLisbon"
+   ],
+   "type": "CONTRIBUTED_TO",
+   "to": [
+    "Repository",
+    "ITMO-NSS-team/composite-flood-forecast"
+   ],
+   "contributions": 1
+  },
+  {
+   "from": [
+    "GitHubProfile",
+    "Maslyaev"
+   ],
+   "type": "CONTRIBUTED_TO",
+   "to": [
+    "Repository",
+    "ITMO-NSS-team/composite-flood-forecast"
+   ],
+   "contributions": 1
+  },
+  {
+   "from": [
+    "Repository",
+    "ITMO-NSS-team/composite-flood-forecast"
+   ],
+   "type": "MENTIONS_PAPER",
+   "to": [
+    "Publication",
+    "W4200328540"
+   ],
+   "source": "readme",
+   "role": "own",
+   "section": "Citation",
+   "resolved": true
+  },
+  {
+   "from": [
+    "Person",
+    "A5073069796"
+   ],
+   "type": "AUTHORED",
+   "to": [
+    "Publication",
+    "W4200328540"
+   ],
+   "position": 0,
+   "is_itmo": true
+  },
+  {
+   "from": [
+    "GitHubProfile",
+    "Dreamlone"
+   ],
+   "type": "POSSIBLY_SAME_AS",
+   "to": [
+    "Person",
+    "A5073069796"
+   ],
+   "score": 1.0,
+   "evidence": "name match via ITMO-NSS-team/pytsbe"
+  },
+  {
+   "from": [
+    "Person",
+    "A5007355583"
+   ],
+   "type": "AUTHORED",
+   "to": [
+    "Publication",
+    "W4200328540"
+   ],
+   "position": 1,
+   "is_itmo": true
+  },
+  {
+   "from": [
+    "GitHubProfile",
+    "ChrisLisbon"
+   ],
+   "type": "POSSIBLY_SAME_AS",
+   "to": [
+    "Person",
+    "A5007355583"
+   ],
+   "score": 1.0,
+   "evidence": "name match via ITMO-NSS-team/composite-flood-forecast"
+  },
+  {
+   "from": [
+    "Person",
+    "A5019841109"
+   ],
+   "type": "AUTHORED",
+   "to": [
+    "Publication",
+    "W4200328540"
+   ],
+   "position": 2,
+   "is_itmo": true
+  },
+  {
+   "from": [
+    "Person",
+    "A5063535629"
+   ],
+   "type": "AUTHORED",
+   "to": [
+    "Publication",
+    "W4200328540"
+   ],
+   "position": 3,
+   "is_itmo": true
+  },
+  {
+   "from": [
+    "Person",
+    "A5009230585"
+   ],
+   "type": "AUTHORED",
+   "to": [
+    "Publication",
+    "W4200328540"
+   ],
+   "position": 4,
+   "is_itmo": true
+  },
+  {
+   "from": [
+    "Person",
+    "A5014299140"
+   ],
+   "type": "AUTHORED",
+   "to": [
+    "Publication",
+    "W4200328540"
+   ],
+   "position": 5,
+   "is_itmo": true
+  },
+  {
+   "from": [
+    "Repository",
+    "ITMO-NSS-team/composite-flood-forecast"
+   ],
+   "type": "IMPLEMENTS",
+   "to": [
+    "Publication",
+    "W4200328540"
+   ],
+   "evidence": [
+    "itmo_author",
+    "contributor_is_author"
+   ],
+   "source": "readme"
+  },
+  {
+   "from": [
+    "Repository",
+    "ITMO-NSS-team/data-driven-Floquet"
+   ],
+   "type": "OWNED_BY",
+   "to": [
+    "GitHubProfile",
+    "ITMO-NSS-team"
+   ]
+  },
+  {
+   "from": [
+    "Repository",
+    "ITMO-NSS-team/emergency_datahack_nss"
+   ],
+   "type": "OWNED_BY",
+   "to": [
+    "GitHubProfile",
+    "ITMO-NSS-team"
+   ]
+  },
+  {
+   "from": [
+    "Repository",
+    "ITMO-NSS-team/fedot-examples"
+   ],
+   "type": "OWNED_BY",
+   "to": [
+    "GitHubProfile",
+    "ITMO-NSS-team"
+   ]
+  },
+  {
+   "from": [
+    "Repository",
+    "ITMO-NSS-team/fedot-multi-modal-paper"
+   ],
+   "type": "OWNED_BY",
+   "to": [
+    "GitHubProfile",
+    "ITMO-NSS-team"
+   ]
+  },
+  {
+   "from": [
+    "Repository",
+    "ITMO-NSS-team/fedot-operations-integration"
+   ],
+   "type": "OWNED_BY",
+   "to": [
+    "GitHubProfile",
+    "ITMO-NSS-team"
+   ]
+  },
+  {
+   "from": [
+    "Repository",
+    "ITMO-NSS-team/fedot-performance-improvement-benchmark"
+   ],
+   "type": "OWNED_BY",
+   "to": [
+    "GitHubProfile",
+    "ITMO-NSS-team"
+   ]
+  },
+  {
+   "from": [
+    "Repository",
+    "ITMO-NSS-team/fedot_electro_ts_case"
+   ],
+   "type": "OWNED_BY",
+   "to": [
+    "GitHubProfile",
+    "ITMO-NSS-team"
+   ]
+  },
+  {
+   "from": [
+    "Repository",
+    "ITMO-NSS-team/gendesign-small-sample-research"
+   ],
+   "type": "OWNED_BY",
+   "to": [
+    "GitHubProfile",
+    "ITMO-NSS-team"
+   ]
+  },
+  {
+   "from": [
+    "Repository",
+    "ITMO-NSS-team/golem-examples"
+   ],
+   "type": "OWNED_BY",
+   "to": [
+    "GitHubProfile",
+    "ITMO-NSS-team"
+   ]
+  },
+  {
+   "from": [
+    "Repository",
+    "ITMO-NSS-team/harness-research"
+   ],
+   "type": "OWNED_BY",
+   "to": [
+    "GitHubProfile",
+    "ITMO-NSS-team"
+   ]
+  },
+  {
+   "from": [
+    "Repository",
+    "ITMO-NSS-team/hybrid-modelling-paper"
+   ],
+   "type": "OWNED_BY",
+   "to": [
+    "GitHubProfile",
+    "ITMO-NSS-team"
+   ]
+  },
+  {
+   "from": [
+    "Repository",
+    "ITMO-NSS-team/ice-concentration-prediction-paper"
+   ],
+   "type": "OWNED_BY",
+   "to": [
+    "GitHubProfile",
+    "ITMO-NSS-team"
+   ]
+  },
+  {
+   "from": [
+    "Repository",
+    "ITMO-NSS-team/itmo-nss-team.github.io"
+   ],
+   "type": "OWNED_BY",
+   "to": [
+    "GitHubProfile",
+    "ITMO-NSS-team"
+   ]
+  },
+  {
+   "from": [
+    "Repository",
+    "ITMO-NSS-team/kan-o-nas"
+   ],
+   "type": "OWNED_BY",
+   "to": [
+    "GitHubProfile",
+    "ITMO-NSS-team"
+   ]
+  },
+  {
+   "from": [
+    "Repository",
+    "ITMO-NSS-team/latent-tabular-lens"
+   ],
+   "type": "OWNED_BY",
+   "to": [
+    "GitHubProfile",
+    "ITMO-NSS-team"
+   ]
+  },
+  {
+   "from": [
+    "Repository",
+    "ITMO-NSS-team/ligands-ml-paper"
+   ],
+   "type": "OWNED_BY",
+   "to": [
+    "GitHubProfile",
+    "ITMO-NSS-team"
+   ]
+  },
+  {
+   "from": [
+    "Repository",
+    "ITMO-NSS-team/llm-agents-for-smartcities-paper"
+   ],
+   "type": "OWNED_BY",
+   "to": [
+    "GitHubProfile",
+    "ITMO-NSS-team"
+   ]
+  },
+  {
+   "from": [
+    "Repository",
+    "ITMO-NSS-team/llm-automl-architecture-study"
+   ],
+   "type": "OWNED_BY",
+   "to": [
+    "GitHubProfile",
+    "ITMO-NSS-team"
+   ]
+  },
+  {
+   "from": [
+    "GitHubProfile",
+    "stas1f1"
+   ],
+   "type": "CONTRIBUTED_TO",
+   "to": [
+    "Repository",
+    "ITMO-NSS-team/llm-automl-architecture-study"
+   ],
+   "contributions": 4
+  },
+  {
+   "from": [
+    "Repository",
+    "ITMO-NSS-team/llm-automl-architecture-study"
+   ],
+   "type": "MENTIONS_PAPER",
+   "to": [
+    "Publication",
+    "W4315436689"
+   ],
+   "source": "readme",
+   "role": "mention",
+   "section": "External resources",
+   "resolved": true
+  },
+  {
+   "from": [
+    "Person",
+    "A5088533708"
+   ],
+   "type": "AUTHORED",
+   "to": [
+    "Publication",
+    "W4315436689"
+   ],
+   "position": 0,
+   "is_itmo": false
+  },
+  {
+   "from": [
+    "Person",
+    "A5049049099"
+   ],
+   "type": "AUTHORED",
+   "to": [
+    "Publication",
+    "W4315436689"
+   ],
+   "position": 1,
+   "is_itmo": false
+  },
+  {
+   "from": [
+    "Person",
+    "A5048302859"
+   ],
+   "type": "AUTHORED",
+   "to": [
+    "Publication",
+    "W4315436689"
+   ],
+   "position": 2,
+   "is_itmo": false
+  },
+  {
+   "from": [
+    "Person",
+    "A5085726102"
+   ],
+   "type": "AUTHORED",
+   "to": [
+    "Publication",
+    "W4315436689"
+   ],
+   "position": 3,
+   "is_itmo": false
+  },
+  {
+   "from": [
+    "Person",
+    "A5061173410"
+   ],
+   "type": "AUTHORED",
+   "to": [
+    "Publication",
+    "W4315436689"
+   ],
+   "position": 4,
+   "is_itmo": false
+  },
+  {
+   "from": [
+    "Person",
+    "A5082487928"
+   ],
+   "type": "AUTHORED",
+   "to": [
+    "Publication",
+    "W4315436689"
+   ],
+   "position": 5,
+   "is_itmo": false
+  },
+  {
+   "from": [
+    "Person",
+    "A5063591928"
+   ],
+   "type": "AUTHORED",
+   "to": [
+    "Publication",
+    "W4315436689"
+   ],
+   "position": 6,
+   "is_itmo": false
+  },
+  {
+   "from": [
+    "Person",
+    "A5004660378"
+   ],
+   "type": "AUTHORED",
+   "to": [
+    "Publication",
+    "W4315436689"
+   ],
+   "position": 7,
+   "is_itmo": false
+  },
+  {
+   "from": [
+    "Person",
+    "A5061885595"
+   ],
+   "type": "AUTHORED",
+   "to": [
+    "Publication",
+    "W4315436689"
+   ],
+   "position": 8,
+   "is_itmo": false
+  },
+  {
+   "from": [
+    "Person",
+    "A5065127576"
+   ],
+   "type": "AUTHORED",
+   "to": [
+    "Publication",
+    "W4315436689"
+   ],
+   "position": 9,
+   "is_itmo": false
+  },
+  {
+   "from": [
+    "Person",
+    "A5063917020"
+   ],
+   "type": "AUTHORED",
+   "to": [
+    "Publication",
+    "W4315436689"
+   ],
+   "position": 10,
+   "is_itmo": false
+  },
+  {
+   "from": [
+    "Person",
+    "A5078079012"
+   ],
+   "type": "AUTHORED",
+   "to": [
+    "Publication",
+    "W4315436689"
+   ],
+   "position": 11,
+   "is_itmo": false
+  },
+  {
+   "from": [
+    "Person",
+    "A5055080030"
+   ],
+   "type": "AUTHORED",
+   "to": [
+    "Publication",
+    "W4315436689"
+   ],
+   "position": 12,
+   "is_itmo": false
+  },
+  {
+   "from": [
+    "Person",
+    "A5061354161"
+   ],
+   "type": "AUTHORED",
+   "to": [
+    "Publication",
+    "W4315436689"
+   ],
+   "position": 13,
+   "is_itmo": false
+  },
+  {
+   "from": [
+    "Person",
+    "A5086532592"
+   ],
+   "type": "AUTHORED",
+   "to": [
+    "Publication",
+    "W4315436689"
+   ],
+   "position": 14,
+   "is_itmo": false
+  },
+  {
+   "from": [
+    "Person",
+    "A5102884409"
+   ],
+   "type": "AUTHORED",
+   "to": [
+    "Publication",
+    "W4315436689"
+   ],
+   "position": 15,
+   "is_itmo": false
+  },
+  {
+   "from": [
+    "Person",
+    "A5034724625"
+   ],
+   "type": "AUTHORED",
+   "to": [
+    "Publication",
+    "W4315436689"
+   ],
+   "position": 16,
+   "is_itmo": false
+  },
+  {
+   "from": [
+    "Person",
+    "A5006809724"
+   ],
+   "type": "AUTHORED",
+   "to": [
+    "Publication",
+    "W4315436689"
+   ],
+   "position": 17,
+   "is_itmo": false
+  },
+  {
+   "from": [
+    "Person",
+    "A5079185796"
+   ],
+   "type": "AUTHORED",
+   "to": [
+    "Publication",
+    "W4315436689"
+   ],
+   "position": 18,
+   "is_itmo": false
+  },
+  {
+   "from": [
+    "Repository",
+    "ITMO-NSS-team/llm-automl-architecture-study"
+   ],
+   "type": "MENTIONS_PAPER",
+   "to": [
+    "Publication",
+    "W4412763482"
+   ],
+   "source": "readme",
+   "role": "mention",
+   "section": "External resources",
+   "resolved": true
+  },
+  {
+   "from": [
+    "Person",
+    "A5030560727"
+   ],
+   "type": "AUTHORED",
+   "to": [
+    "Publication",
+    "W4412763482"
+   ],
+   "position": 0,
+   "is_itmo": false
+  },
+  {
+   "from": [
+    "Person",
+    "A5047906923"
+   ],
+   "type": "AUTHORED",
+   "to": [
+    "Publication",
+    "W4412763482"
+   ],
+   "position": 1,
+   "is_itmo": false
+  },
+  {
+   "from": [
+    "Person",
+    "A5039069961"
+   ],
+   "type": "AUTHORED",
+   "to": [
+    "Publication",
+    "W4412763482"
+   ],
+   "position": 2,
+   "is_itmo": false
+  },
+  {
+   "from": [
+    "Person",
+    "A5033859818"
+   ],
+   "type": "AUTHORED",
+   "to": [
+    "Publication",
+    "W4412763482"
+   ],
+   "position": 3,
+   "is_itmo": false
+  },
+  {
+   "from": [
+    "Repository",
+    "ITMO-NSS-team/llm-automl-architecture-study"
+   ],
+   "type": "MENTIONS_PAPER",
+   "to": [
+    "Publication",
+    "W7081991899"
+   ],
+   "source": "readme",
+   "role": "mention",
+   "section": "External resources",
+   "resolved": true
+  },
+  {
+   "from": [
+    "Person",
+    "A5140385063"
+   ],
+   "type": "AUTHORED",
+   "to": [
+    "Publication",
+    "W7081991899"
+   ],
+   "position": 3,
+   "is_itmo": false
+  },
+  {
+   "from": [
+    "Person",
+    "A5136378439"
+   ],
+   "type": "AUTHORED",
+   "to": [
+    "Publication",
+    "W7081991899"
+   ],
+   "position": 4,
+   "is_itmo": false
+  },
+  {
+   "from": [
+    "Person",
+    "A5140444718"
+   ],
+   "type": "AUTHORED",
+   "to": [
+    "Publication",
+    "W7081991899"
+   ],
+   "position": 5,
+   "is_itmo": false
+  },
+  {
+   "from": [
+    "Repository",
+    "ITMO-NSS-team/llm-automl-architecture-study"
+   ],
+   "type": "MENTIONS_PAPER",
+   "to": [
+    "Publication",
+    "W4400142077"
+   ],
+   "source": "readme",
+   "role": "mention",
+   "section": "External resources",
+   "resolved": true
+  },
+  {
+   "from": [
+    "Person",
+    "A5017890776"
+   ],
+   "type": "AUTHORED",
+   "to": [
+    "Publication",
+    "W4400142077"
+   ],
+   "position": 0,
+   "is_itmo": false
+  },
+  {
+   "from": [
+    "Person",
+    "A5015222933"
+   ],
+   "type": "AUTHORED",
+   "to": [
+    "Publication",
+    "W4400142077"
+   ],
+   "position": 1,
+   "is_itmo": false
+  },
+  {
+   "from": [
+    "Person",
+    "A5029250164"
+   ],
+   "type": "AUTHORED",
+   "to": [
+    "Publication",
+    "W4400142077"
+   ],
+   "position": 2,
+   "is_itmo": false
+  },
+  {
+   "from": [
+    "Person",
+    "A5003272002"
+   ],
+   "type": "AUTHORED",
+   "to": [
+    "Publication",
+    "W4400142077"
+   ],
+   "position": 3,
+   "is_itmo": false
+  },
+  {
+   "from": [
+    "Repository",
+    "ITMO-NSS-team/llm-automl-architecture-study"
+   ],
+   "type": "MENTIONS_PAPER",
+   "to": [
+    "Publication",
+    "W4387432648"
+   ],
+   "source": "readme",
+   "role": "mention",
+   "section": "External resources",
+   "resolved": true
+  },
+  {
+   "from": [
+    "Person",
+    "A5101856573"
+   ],
+   "type": "AUTHORED",
+   "to": [
+    "Publication",
+    "W4387432648"
+   ],
+   "position": 0,
+   "is_itmo": false
+  },
+  {
+   "from": [
+    "Person",
+    "A5051017353"
+   ],
+   "type": "AUTHORED",
+   "to": [
+    "Publication",
+    "W4387432648"
+   ],
+   "position": 1,
+   "is_itmo": false
+  },
+  {
+   "from": [
+    "Person",
+    "A5025255782"
+   ],
+   "type": "AUTHORED",
+   "to": [
+    "Publication",
+    "W4387432648"
+   ],
+   "position": 2,
+   "is_itmo": false
+  },
+  {
+   "from": [
+    "Person",
+    "A5091272738"
+   ],
+   "type": "AUTHORED",
+   "to": [
+    "Publication",
+    "W4387432648"
+   ],
+   "position": 3,
+   "is_itmo": false
+  },
+  {
+   "from": [
+    "Repository",
+    "ITMO-NSS-team/llm-automl-architecture-study"
+   ],
+   "type": "MENTIONS_PAPER",
+   "to": [
+    "Publication",
+    "W7125193990"
+   ],
+   "source": "readme",
+   "role": "mention",
+   "section": "External resources",
+   "resolved": true
+  },
+  {
+   "from": [
+    "Person",
+    "A5123487775"
+   ],
+   "type": "AUTHORED",
+   "to": [
+    "Publication",
+    "W7125193990"
+   ],
+   "position": 0,
+   "is_itmo": false
+  },
+  {
+   "from": [
+    "Person",
+    "A5091221765"
+   ],
+   "type": "AUTHORED",
+   "to": [
+    "Publication",
+    "W7125193990"
+   ],
+   "position": 1,
+   "is_itmo": false
+  },
+  {
+   "from": [
+    "Person",
+    "A5034257647"
+   ],
+   "type": "AUTHORED",
+   "to": [
+    "Publication",
+    "W7125193990"
+   ],
+   "position": 2,
+   "is_itmo": false
+  },
+  {
+   "from": [
+    "Person",
+    "A5123492528"
+   ],
+   "type": "AUTHORED",
+   "to": [
+    "Publication",
+    "W7125193990"
+   ],
+   "position": 3,
+   "is_itmo": false
+  },
+  {
+   "from": [
+    "Person",
+    "A5123538338"
+   ],
+   "type": "AUTHORED",
+   "to": [
+    "Publication",
+    "W7125193990"
+   ],
+   "position": 4,
+   "is_itmo": false
+  },
+  {
+   "from": [
+    "Person",
+    "A5123523608"
+   ],
+   "type": "AUTHORED",
+   "to": [
+    "Publication",
+    "W7125193990"
+   ],
+   "position": 5,
+   "is_itmo": false
+  },
+  {
+   "from": [
+    "Person",
+    "A5123464570"
+   ],
+   "type": "AUTHORED",
+   "to": [
+    "Publication",
+    "W7125193990"
+   ],
+   "position": 6,
+   "is_itmo": false
+  },
+  {
+   "from": [
+    "Person",
+    "A5123495920"
+   ],
+   "type": "AUTHORED",
+   "to": [
+    "Publication",
+    "W7125193990"
+   ],
+   "position": 7,
+   "is_itmo": false
+  },
+  {
+   "from": [
+    "Person",
+    "A5123488498"
+   ],
+   "type": "AUTHORED",
+   "to": [
+    "Publication",
+    "W7125193990"
+   ],
+   "position": 8,
+   "is_itmo": false
+  },
+  {
+   "from": [
+    "Person",
+    "A5088549773"
+   ],
+   "type": "AUTHORED",
+   "to": [
+    "Publication",
+    "W7125193990"
+   ],
+   "position": 9,
+   "is_itmo": false
+  },
+  {
+   "from": [
+    "Person",
+    "A5036843433"
+   ],
+   "type": "AUTHORED",
+   "to": [
+    "Publication",
+    "W7125193990"
+   ],
+   "position": 10,
+   "is_itmo": false
+  },
+  {
+   "from": [
+    "Person",
+    "A5089626644"
+   ],
+   "type": "AUTHORED",
+   "to": [
+    "Publication",
+    "W7125193990"
+   ],
+   "position": 11,
+   "is_itmo": false
+  },
+  {
+   "from": [
+    "Person",
+    "A5123488013"
+   ],
+   "type": "AUTHORED",
+   "to": [
+    "Publication",
+    "W7125193990"
+   ],
+   "position": 12,
+   "is_itmo": false
+  },
+  {
+   "from": [
+    "Person",
+    "A5123488817"
+   ],
+   "type": "AUTHORED",
+   "to": [
+    "Publication",
+    "W7125193990"
+   ],
+   "position": 13,
+   "is_itmo": false
+  },
+  {
+   "from": [
+    "Person",
+    "A5123518231"
+   ],
+   "type": "AUTHORED",
+   "to": [
+    "Publication",
+    "W7125193990"
+   ],
+   "position": 14,
+   "is_itmo": false
+  },
+  {
+   "from": [
+    "Person",
+    "A5042252873"
+   ],
+   "type": "AUTHORED",
+   "to": [
+    "Publication",
+    "W7125193990"
+   ],
+   "position": 15,
+   "is_itmo": false
+  },
+  {
+   "from": [
+    "Person",
+    "A5085870953"
+   ],
+   "type": "AUTHORED",
+   "to": [
+    "Publication",
+    "W7125193990"
+   ],
+   "position": 16,
+   "is_itmo": false
+  },
+  {
+   "from": [
+    "Person",
+    "A5123458226"
+   ],
+   "type": "AUTHORED",
+   "to": [
+    "Publication",
+    "W7125193990"
+   ],
+   "position": 17,
+   "is_itmo": false
+  },
+  {
+   "from": [
+    "Person",
+    "A5032386720"
+   ],
+   "type": "AUTHORED",
+   "to": [
+    "Publication",
+    "W7125193990"
+   ],
+   "position": 18,
+   "is_itmo": false
+  },
+  {
+   "from": [
+    "Person",
+    "A5123461324"
+   ],
+   "type": "AUTHORED",
+   "to": [
+    "Publication",
+    "W7125193990"
+   ],
+   "position": 19,
+   "is_itmo": false
+  },
+  {
+   "from": [
+    "Person",
+    "A5044974889"
+   ],
+   "type": "AUTHORED",
+   "to": [
+    "Publication",
+    "W7125193990"
+   ],
+   "position": 20,
+   "is_itmo": false
+  },
+  {
+   "from": [
+    "Person",
+    "A5123475998"
+   ],
+   "type": "AUTHORED",
+   "to": [
+    "Publication",
+    "W7125193990"
+   ],
+   "position": 21,
+   "is_itmo": false
+  },
+  {
+   "from": [
+    "Person",
+    "A5123535756"
+   ],
+   "type": "AUTHORED",
+   "to": [
+    "Publication",
+    "W7125193990"
+   ],
+   "position": 22,
+   "is_itmo": false
+  },
+  {
+   "from": [
+    "Person",
+    "A5123479695"
+   ],
+   "type": "AUTHORED",
+   "to": [
+    "Publication",
+    "W7125193990"
+   ],
+   "position": 23,
+   "is_itmo": false
+  },
+  {
+   "from": [
+    "Person",
+    "A5123536520"
+   ],
+   "type": "AUTHORED",
+   "to": [
+    "Publication",
+    "W7125193990"
+   ],
+   "position": 24,
+   "is_itmo": false
+  },
+  {
+   "from": [
+    "Person",
+    "A5092346602"
+   ],
+   "type": "AUTHORED",
+   "to": [
+    "Publication",
+    "W7125193990"
+   ],
+   "position": 25,
+   "is_itmo": false
+  },
+  {
+   "from": [
+    "Person",
+    "A5123488008"
+   ],
+   "type": "AUTHORED",
+   "to": [
+    "Publication",
+    "W7125193990"
+   ],
+   "position": 26,
+   "is_itmo": false
+  },
+  {
+   "from": [
+    "Person",
+    "A5123462639"
+   ],
+   "type": "AUTHORED",
+   "to": [
+    "Publication",
+    "W7125193990"
+   ],
+   "position": 27,
+   "is_itmo": false
+  },
+  {
+   "from": [
+    "Person",
+    "A5123243094"
+   ],
+   "type": "AUTHORED",
+   "to": [
+    "Publication",
+    "W7125193990"
+   ],
+   "position": 28,
+   "is_itmo": false
+  },
+  {
+   "from": [
+    "Person",
+    "A5059053886"
+   ],
+   "type": "AUTHORED",
+   "to": [
+    "Publication",
+    "W7125193990"
+   ],
+   "position": 29,
+   "is_itmo": false
+  },
+  {
+   "from": [
+    "Person",
+    "A5028660971"
+   ],
+   "type": "AUTHORED",
+   "to": [
+    "Publication",
+    "W7125193990"
+   ],
+   "position": 30,
+   "is_itmo": false
+  },
+  {
+   "from": [
+    "Person",
+    "A5123457513"
+   ],
+   "type": "AUTHORED",
+   "to": [
+    "Publication",
+    "W7125193990"
+   ],
+   "position": 31,
+   "is_itmo": false
+  },
+  {
+   "from": [
+    "Person",
+    "A5123537401"
+   ],
+   "type": "AUTHORED",
+   "to": [
+    "Publication",
+    "W7125193990"
+   ],
+   "position": 32,
+   "is_itmo": false
+  },
+  {
+   "from": [
+    "Person",
+    "A5123492856"
+   ],
+   "type": "AUTHORED",
+   "to": [
+    "Publication",
+    "W7125193990"
+   ],
+   "position": 33,
+   "is_itmo": false
+  },
+  {
+   "from": [
+    "Person",
+    "A5107619491"
+   ],
+   "type": "AUTHORED",
+   "to": [
+    "Publication",
+    "W7125193990"
+   ],
+   "position": 34,
+   "is_itmo": false
+  },
+  {
+   "from": [
+    "Person",
+    "A5123462376"
+   ],
+   "type": "AUTHORED",
+   "to": [
+    "Publication",
+    "W7125193990"
+   ],
+   "position": 35,
+   "is_itmo": false
+  },
+  {
+   "from": [
+    "Person",
+    "A5123512740"
+   ],
+   "type": "AUTHORED",
+   "to": [
+    "Publication",
+    "W7125193990"
+   ],
+   "position": 36,
+   "is_itmo": false
+  },
+  {
+   "from": [
+    "Person",
+    "A5042004933"
+   ],
+   "type": "AUTHORED",
+   "to": [
+    "Publication",
+    "W7125193990"
+   ],
+   "position": 37,
+   "is_itmo": false
+  },
+  {
+   "from": [
+    "Person",
+    "A5123475155"
+   ],
+   "type": "AUTHORED",
+   "to": [
+    "Publication",
+    "W7125193990"
+   ],
+   "position": 38,
+   "is_itmo": false
+  },
+  {
+   "from": [
+    "Person",
+    "A5123528515"
+   ],
+   "type": "AUTHORED",
+   "to": [
+    "Publication",
+    "W7125193990"
+   ],
+   "position": 39,
+   "is_itmo": false
+  },
+  {
+   "from": [
+    "Person",
+    "A5139489094"
+   ],
+   "type": "AUTHORED",
+   "to": [
+    "Publication",
+    "W7125193990"
+   ],
+   "position": 40,
+   "is_itmo": false
+  },
+  {
+   "from": [
+    "Person",
+    "A5123505577"
+   ],
+   "type": "AUTHORED",
+   "to": [
+    "Publication",
+    "W7125193990"
+   ],
+   "position": 41,
+   "is_itmo": false
+  },
+  {
+   "from": [
+    "Person",
+    "A5000043237"
+   ],
+   "type": "AUTHORED",
+   "to": [
+    "Publication",
+    "W7125193990"
+   ],
+   "position": 42,
+   "is_itmo": false
+  },
+  {
+   "from": [
+    "Person",
+    "A5084816439"
+   ],
+   "type": "AUTHORED",
+   "to": [
+    "Publication",
+    "W7125193990"
+   ],
+   "position": 43,
+   "is_itmo": false
+  },
+  {
+   "from": [
+    "Person",
+    "A5123480666"
+   ],
+   "type": "AUTHORED",
+   "to": [
+    "Publication",
+    "W7125193990"
+   ],
+   "position": 44,
+   "is_itmo": false
+  },
+  {
+   "from": [
+    "Person",
+    "A5123467205"
+   ],
+   "type": "AUTHORED",
+   "to": [
+    "Publication",
+    "W7125193990"
+   ],
+   "position": 45,
+   "is_itmo": false
+  },
+  {
+   "from": [
+    "Person",
+    "A5039712059"
+   ],
+   "type": "AUTHORED",
+   "to": [
+    "Publication",
+    "W7125193990"
+   ],
+   "position": 46,
+   "is_itmo": false
+  },
+  {
+   "from": [
+    "Person",
+    "A5123468622"
+   ],
+   "type": "AUTHORED",
+   "to": [
+    "Publication",
+    "W7125193990"
+   ],
+   "position": 47,
+   "is_itmo": false
+  },
+  {
+   "from": [
+    "Person",
+    "A5123498669"
+   ],
+   "type": "AUTHORED",
+   "to": [
+    "Publication",
+    "W7125193990"
+   ],
+   "position": 48,
+   "is_itmo": false
+  },
+  {
+   "from": [
+    "Person",
+    "A5123536157"
+   ],
+   "type": "AUTHORED",
+   "to": [
+    "Publication",
+    "W7125193990"
+   ],
+   "position": 49,
+   "is_itmo": false
+  },
+  {
+   "from": [
+    "Person",
+    "A5102861281"
+   ],
+   "type": "AUTHORED",
+   "to": [
+    "Publication",
+    "W7125193990"
+   ],
+   "position": 50,
+   "is_itmo": false
+  },
+  {
+   "from": [
+    "Person",
+    "A5123491782"
+   ],
+   "type": "AUTHORED",
+   "to": [
+    "Publication",
+    "W7125193990"
+   ],
+   "position": 51,
+   "is_itmo": false
+  },
+  {
+   "from": [
+    "Person",
+    "A5123509575"
+   ],
+   "type": "AUTHORED",
+   "to": [
+    "Publication",
+    "W7125193990"
+   ],
+   "position": 52,
+   "is_itmo": false
+  },
+  {
+   "from": [
+    "Person",
+    "A5123463119"
+   ],
+   "type": "AUTHORED",
+   "to": [
+    "Publication",
+    "W7125193990"
+   ],
+   "position": 53,
+   "is_itmo": false
+  },
+  {
+   "from": [
+    "Person",
+    "A5115024195"
+   ],
+   "type": "AUTHORED",
+   "to": [
+    "Publication",
+    "W7125193990"
+   ],
+   "position": 54,
+   "is_itmo": false
+  },
+  {
+   "from": [
+    "Person",
+    "A5123504726"
+   ],
+   "type": "AUTHORED",
+   "to": [
+    "Publication",
+    "W7125193990"
+   ],
+   "position": 55,
+   "is_itmo": false
+  },
+  {
+   "from": [
+    "Person",
+    "A5120026695"
+   ],
+   "type": "AUTHORED",
+   "to": [
+    "Publication",
+    "W7125193990"
+   ],
+   "position": 56,
+   "is_itmo": false
+  },
+  {
+   "from": [
+    "Person",
+    "A5123496837"
+   ],
+   "type": "AUTHORED",
+   "to": [
+    "Publication",
+    "W7125193990"
+   ],
+   "position": 57,
+   "is_itmo": false
+  },
+  {
+   "from": [
+    "Person",
+    "A5017897576"
+   ],
+   "type": "AUTHORED",
+   "to": [
+    "Publication",
+    "W7125193990"
+   ],
+   "position": 58,
+   "is_itmo": false
+  },
+  {
+   "from": [
+    "Person",
+    "A5123467651"
+   ],
+   "type": "AUTHORED",
+   "to": [
+    "Publication",
+    "W7125193990"
+   ],
+   "position": 59,
+   "is_itmo": false
+  },
+  {
+   "from": [
+    "Person",
+    "A5123463493"
+   ],
+   "type": "AUTHORED",
+   "to": [
+    "Publication",
+    "W7125193990"
+   ],
+   "position": 60,
+   "is_itmo": false
+  },
+  {
+   "from": [
+    "Person",
+    "A5134071613"
+   ],
+   "type": "AUTHORED",
+   "to": [
+    "Publication",
+    "W7125193990"
+   ],
+   "position": 61,
+   "is_itmo": false
+  },
+  {
+   "from": [
+    "Person",
+    "A5123510378"
+   ],
+   "type": "AUTHORED",
+   "to": [
+    "Publication",
+    "W7125193990"
+   ],
+   "position": 62,
+   "is_itmo": false
+  },
+  {
+   "from": [
+    "Person",
+    "A5074957793"
+   ],
+   "type": "AUTHORED",
+   "to": [
+    "Publication",
+    "W7125193990"
+   ],
+   "position": 63,
+   "is_itmo": false
+  },
+  {
+   "from": [
+    "Person",
+    "A5082624117"
+   ],
+   "type": "AUTHORED",
+   "to": [
+    "Publication",
+    "W7125193990"
+   ],
+   "position": 64,
+   "is_itmo": false
+  },
+  {
+   "from": [
+    "Person",
+    "A5076540989"
+   ],
+   "type": "AUTHORED",
+   "to": [
+    "Publication",
+    "W7125193990"
+   ],
+   "position": 65,
+   "is_itmo": false
+  },
+  {
+   "from": [
+    "Person",
+    "A5026565649"
+   ],
+   "type": "AUTHORED",
+   "to": [
+    "Publication",
+    "W7125193990"
+   ],
+   "position": 66,
+   "is_itmo": false
+  },
+  {
+   "from": [
+    "Person",
+    "A5134088037"
+   ],
+   "type": "AUTHORED",
+   "to": [
+    "Publication",
+    "W7125193990"
+   ],
+   "position": 67,
+   "is_itmo": false
+  },
+  {
+   "from": [
+    "Person",
+    "A5103021774"
+   ],
+   "type": "AUTHORED",
+   "to": [
+    "Publication",
+    "W7125193990"
+   ],
+   "position": 68,
+   "is_itmo": false
+  },
+  {
+   "from": [
+    "Person",
+    "A5121802796"
+   ],
+   "type": "AUTHORED",
+   "to": [
+    "Publication",
+    "W7125193990"
+   ],
+   "position": 69,
+   "is_itmo": false
+  },
+  {
+   "from": [
+    "Person",
+    "A5099136974"
+   ],
+   "type": "AUTHORED",
+   "to": [
+    "Publication",
+    "W7125193990"
+   ],
+   "position": 70,
+   "is_itmo": false
+  },
+  {
+   "from": [
+    "Person",
+    "A5123471952"
+   ],
+   "type": "AUTHORED",
+   "to": [
+    "Publication",
+    "W7125193990"
+   ],
+   "position": 71,
+   "is_itmo": false
+  },
+  {
+   "from": [
+    "Person",
+    "A5021492309"
+   ],
+   "type": "AUTHORED",
+   "to": [
+    "Publication",
+    "W7125193990"
+   ],
+   "position": 72,
+   "is_itmo": false
+  },
+  {
+   "from": [
+    "Person",
+    "A5009221862"
+   ],
+   "type": "AUTHORED",
+   "to": [
+    "Publication",
+    "W7125193990"
+   ],
+   "position": 73,
+   "is_itmo": false
+  },
+  {
+   "from": [
+    "Person",
+    "A5123459863"
+   ],
+   "type": "AUTHORED",
+   "to": [
+    "Publication",
+    "W7125193990"
+   ],
+   "position": 74,
+   "is_itmo": false
+  },
+  {
+   "from": [
+    "Person",
+    "A5123518486"
+   ],
+   "type": "AUTHORED",
+   "to": [
+    "Publication",
+    "W7125193990"
+   ],
+   "position": 75,
+   "is_itmo": false
+  },
+  {
+   "from": [
+    "Person",
+    "A5123534984"
+   ],
+   "type": "AUTHORED",
+   "to": [
+    "Publication",
+    "W7125193990"
+   ],
+   "position": 76,
+   "is_itmo": false
+  },
+  {
+   "from": [
+    "Person",
+    "A5028188229"
+   ],
+   "type": "AUTHORED",
+   "to": [
+    "Publication",
+    "W7125193990"
+   ],
+   "position": 77,
+   "is_itmo": false
+  },
+  {
+   "from": [
+    "Person",
+    "A5123465681"
+   ],
+   "type": "AUTHORED",
+   "to": [
+    "Publication",
+    "W7125193990"
+   ],
+   "position": 78,
+   "is_itmo": false
+  },
+  {
+   "from": [
+    "Person",
+    "A5054415680"
+   ],
+   "type": "AUTHORED",
+   "to": [
+    "Publication",
+    "W7125193990"
+   ],
+   "position": 79,
+   "is_itmo": false
+  },
+  {
+   "from": [
+    "Person",
+    "A5051599878"
+   ],
+   "type": "AUTHORED",
+   "to": [
+    "Publication",
+    "W7125193990"
+   ],
+   "position": 80,
+   "is_itmo": false
+  },
+  {
+   "from": [
+    "Person",
+    "A5123507705"
+   ],
+   "type": "AUTHORED",
+   "to": [
+    "Publication",
+    "W7125193990"
+   ],
+   "position": 81,
+   "is_itmo": false
+  },
+  {
+   "from": [
+    "Person",
+    "A5014141359"
+   ],
+   "type": "AUTHORED",
+   "to": [
+    "Publication",
+    "W7125193990"
+   ],
+   "position": 82,
+   "is_itmo": false
+  },
+  {
+   "from": [
+    "Person",
+    "A5080989652"
+   ],
+   "type": "AUTHORED",
+   "to": [
+    "Publication",
+    "W7125193990"
+   ],
+   "position": 83,
+   "is_itmo": false
+  },
+  {
+   "from": [
+    "Person",
+    "A5110578233"
+   ],
+   "type": "AUTHORED",
+   "to": [
+    "Publication",
+    "W7125193990"
+   ],
+   "position": 84,
+   "is_itmo": false
+  },
+  {
+   "from": [
+    "Repository",
+    "ITMO-NSS-team/llm-selective-perturbations"
+   ],
+   "type": "OWNED_BY",
+   "to": [
+    "GitHubProfile",
+    "ITMO-NSS-team"
+   ]
+  },
+  {
+   "from": [
+    "Repository",
+    "ITMO-NSS-team/mas-bench"
+   ],
+   "type": "OWNED_BY",
+   "to": [
+    "GitHubProfile",
+    "ITMO-NSS-team"
+   ]
+  },
+  {
+   "from": [
+    "Repository",
+    "ITMO-NSS-team/mas-retrieval"
+   ],
+   "type": "OWNED_BY",
+   "to": [
+    "GitHubProfile",
+    "ITMO-NSS-team"
+   ]
+  },
+  {
+   "from": [
+    "Repository",
+    "ITMO-NSS-team/metaopt-paper"
+   ],
+   "type": "OWNED_BY",
+   "to": [
+    "GitHubProfile",
+    "ITMO-NSS-team"
+   ]
+  },
+  {
+   "from": [
+    "Repository",
+    "ITMO-NSS-team/meteotik"
+   ],
+   "type": "OWNED_BY",
+   "to": [
+    "GitHubProfile",
+    "ITMO-NSS-team"
+   ]
+  },
+  {
+   "from": [
+    "Repository",
+    "ITMO-NSS-team/microalgae_conc"
+   ],
+   "type": "OWNED_BY",
+   "to": [
+    "GitHubProfile",
+    "ITMO-NSS-team"
+   ]
+  },
+  {
+   "from": [
+    "GitHubProfile",
+    "ChrisLisbon"
+   ],
+   "type": "CONTRIBUTED_TO",
+   "to": [
+    "Repository",
+    "ITMO-NSS-team/microalgae_conc"
+   ],
+   "contributions": 8
+  },
+  {
+   "from": [
+    "GitHubProfile",
+    "fl1pcoin"
+   ],
+   "type": "CONTRIBUTED_TO",
+   "to": [
+    "Repository",
+    "ITMO-NSS-team/microalgae_conc"
+   ],
+   "contributions": 1
+  },
+  {
+   "from": [
+    "Repository",
+    "ITMO-NSS-team/microalgae_conc"
+   ],
+   "type": "MENTIONS_PAPER",
+   "to": [
+    "Publication",
+    "W4412692676"
+   ],
+   "source": "readme",
+   "role": "mention",
+   "section": "Source",
+   "resolved": true
+  },
+  {
+   "from": [
+    "Person",
+    "A5118827566"
+   ],
+   "type": "AUTHORED",
+   "to": [
+    "Publication",
+    "W4412692676"
+   ],
+   "position": 0,
+   "is_itmo": true
+  },
+  {
+   "from": [
+    "Person",
+    "A5097476086"
+   ],
+   "type": "AUTHORED",
+   "to": [
+    "Publication",
+    "W4412692676"
+   ],
+   "position": 1,
+   "is_itmo": true
+  },
+  {
+   "from": [
+    "Person",
+    "A5119091962"
+   ],
+   "type": "AUTHORED",
+   "to": [
+    "Publication",
+    "W4412692676"
+   ],
+   "position": 2,
+   "is_itmo": true
+  },
+  {
+   "from": [
+    "Person",
+    "A5033955581"
+   ],
+   "type": "AUTHORED",
+   "to": [
+    "Publication",
+    "W4412692676"
+   ],
+   "position": 3,
+   "is_itmo": true
+  },
+  {
+   "from": [
+    "Person",
+    "A5014299140"
+   ],
+   "type": "AUTHORED",
+   "to": [
+    "Publication",
+    "W4412692676"
+   ],
+   "position": 4,
+   "is_itmo": true
+  },
+  {
+   "from": [
+    "Repository",
+    "ITMO-NSS-team/nas-fedot"
+   ],
+   "type": "OWNED_BY",
+   "to": [
+    "GitHubProfile",
+    "ITMO-NSS-team"
+   ]
+  },
+  {
+   "from": [
+    "Repository",
+    "ITMO-NSS-team/neural_ode_paper"
+   ],
+   "type": "OWNED_BY",
+   "to": [
+    "GitHubProfile",
+    "ITMO-NSS-team"
+   ]
+  },
+  {
+   "from": [
+    "Repository",
+    "ITMO-NSS-team/oil-field-modelling"
+   ],
+   "type": "OWNED_BY",
+   "to": [
+    "GitHubProfile",
+    "ITMO-NSS-team"
+   ]
+  },
+  {
+   "from": [
+    "GitHubProfile",
+    "nicl-nno"
+   ],
+   "type": "CONTRIBUTED_TO",
+   "to": [
+    "Repository",
+    "ITMO-NSS-team/oil-field-modelling"
+   ],
+   "contributions": 18
+  },
+  {
+   "from": [
+    "GitHubProfile",
+    "v1docq"
+   ],
+   "type": "CONTRIBUTED_TO",
+   "to": [
+    "Repository",
+    "ITMO-NSS-team/oil-field-modelling"
+   ],
+   "contributions": 1
+  },
+  {
+   "from": [
+    "Repository",
+    "ITMO-NSS-team/oil-field-modelling"
+   ],
+   "type": "MENTIONS_PAPER",
+   "to": [
+    "Publication",
+    "W6944375412"
+   ],
+   "source": "readme",
+   "role": "mention",
+   "section": "The toolbox for the oil fields modeling",
+   "resolved": true
+  },
+  {
+   "from": [
+    "Repository",
+    "ITMO-NSS-team/osa-tool-action"
+   ],
+   "type": "OWNED_BY",
+   "to": [
+    "GitHubProfile",
+    "ITMO-NSS-team"
+   ]
+  },
+  {
+   "from": [
+    "Repository",
+    "ITMO-NSS-team/pytsbe"
+   ],
+   "type": "OWNED_BY",
+   "to": [
+    "GitHubProfile",
+    "ITMO-NSS-team"
+   ]
+  },
+  {
+   "from": [
+    "GitHubProfile",
+    "Dreamlone"
+   ],
+   "type": "CONTRIBUTED_TO",
+   "to": [
+    "Repository",
+    "ITMO-NSS-team/pytsbe"
+   ],
+   "contributions": 52
+  },
+  {
+   "from": [
+    "GitHubProfile",
+    "valer1435"
+   ],
+   "type": "CONTRIBUTED_TO",
+   "to": [
+    "Repository",
+    "ITMO-NSS-team/pytsbe"
+   ],
+   "contributions": 6
+  },
+  {
+   "from": [
+    "Repository",
+    "ITMO-NSS-team/pytsbe"
+   ],
+   "type": "MENTIONS_PAPER",
+   "to": [
+    "Publication",
+    "W3177395556"
+   ],
+   "source": "readme",
+   "role": "own",
+   "section": "Citation",
+   "resolved": true
+  },
+  {
+   "from": [
+    "Person",
+    "A5014299140"
+   ],
+   "type": "AUTHORED",
+   "to": [
+    "Publication",
+    "W3177395556"
+   ],
+   "position": 0,
+   "is_itmo": true
+  },
+  {
+   "from": [
+    "Person",
+    "A5004681734"
+   ],
+   "type": "AUTHORED",
+   "to": [
+    "Publication",
+    "W3177395556"
+   ],
+   "position": 1,
+   "is_itmo": true
+  },
+  {
+   "from": [
+    "Person",
+    "A5073069796"
+   ],
+   "type": "AUTHORED",
+   "to": [
+    "Publication",
+    "W3177395556"
+   ],
+   "position": 2,
+   "is_itmo": true
+  },
+  {
+   "from": [
+    "Person",
+    "A5036734364"
+   ],
+   "type": "AUTHORED",
+   "to": [
+    "Publication",
+    "W3177395556"
+   ],
+   "position": 3,
+   "is_itmo": true
+  },
+  {
+   "from": [
+    "Person",
+    "A5063535629"
+   ],
+   "type": "AUTHORED",
+   "to": [
+    "Publication",
+    "W3177395556"
+   ],
+   "position": 4,
+   "is_itmo": true
+  },
+  {
+   "from": [
+    "Person",
+    "A5039954582"
+   ],
+   "type": "AUTHORED",
+   "to": [
+    "Publication",
+    "W3177395556"
+   ],
+   "position": 5,
+   "is_itmo": true
+  },
+  {
+   "from": [
+    "Person",
+    "A5009230585"
+   ],
+   "type": "AUTHORED",
+   "to": [
+    "Publication",
+    "W3177395556"
+   ],
+   "position": 6,
+   "is_itmo": true
+  },
+  {
+   "from": [
+    "Person",
+    "A5056189231"
+   ],
+   "type": "AUTHORED",
+   "to": [
+    "Publication",
+    "W3177395556"
+   ],
+   "position": 7,
+   "is_itmo": true
+  },
+  {
+   "from": [
+    "Person",
+    "A5035754267"
+   ],
+   "type": "AUTHORED",
+   "to": [
+    "Publication",
+    "W3177395556"
+   ],
+   "position": 8,
+   "is_itmo": true
+  },
+  {
+   "from": [
+    "Repository",
+    "ITMO-NSS-team/pytsbe"
+   ],
+   "type": "IMPLEMENTS",
+   "to": [
+    "Publication",
+    "W3177395556"
+   ],
+   "evidence": [
+    "itmo_author",
+    "contributor_is_author"
+   ],
+   "source": "readme"
+  },
+  {
+   "from": [
+    "Repository",
+    "ITMO-NSS-team/rbc-traps-generative-design"
+   ],
+   "type": "OWNED_BY",
+   "to": [
+    "GitHubProfile",
+    "ITMO-NSS-team"
+   ]
+  },
+  {
+   "from": [
+    "Repository",
+    "ITMO-NSS-team/scientific-seminars"
+   ],
+   "type": "OWNED_BY",
+   "to": [
+    "GitHubProfile",
+    "ITMO-NSS-team"
+   ]
+  },
+  {
+   "from": [
+    "Repository",
+    "ITMO-NSS-team/sea_ice_transformers"
+   ],
+   "type": "OWNED_BY",
+   "to": [
+    "GitHubProfile",
+    "ITMO-NSS-team"
+   ]
+  },
+  {
+   "from": [
+    "GitHubProfile",
+    "nicl-nno"
+   ],
+   "type": "CONTRIBUTED_TO",
+   "to": [
+    "Repository",
+    "ITMO-NSS-team/sea_ice_transformers"
+   ],
+   "contributions": 2
+  },
+  {
+   "from": [
+    "GitHubProfile",
+    "ChrisLisbon"
+   ],
+   "type": "CONTRIBUTED_TO",
+   "to": [
+    "Repository",
+    "ITMO-NSS-team/sea_ice_transformers"
+   ],
+   "contributions": 2
+  },
+  {
+   "from": [
+    "GitHubProfile",
+    "borinya"
+   ],
+   "type": "CONTRIBUTED_TO",
+   "to": [
+    "Repository",
+    "ITMO-NSS-team/sea_ice_transformers"
+   ],
+   "contributions": 1
+  },
+  {
+   "from": [
+    "Repository",
+    "ITMO-NSS-team/sea_ice_transformers"
+   ],
+   "type": "MENTIONS_PAPER",
+   "to": [
+    "Publication",
+    "W7163145844"
+   ],
+   "source": "readme",
+   "role": "own",
+   "section": "Citation",
+   "resolved": true
+  },
+  {
+   "from": [
+    "Person",
+    "A5118827566"
+   ],
+   "type": "AUTHORED",
+   "to": [
+    "Publication",
+    "W7163145844"
+   ],
+   "position": 0,
+   "is_itmo": true
+  },
+  {
+   "from": [
+    "Person",
+    "A5039785399"
+   ],
+   "type": "AUTHORED",
+   "to": [
+    "Publication",
+    "W7163145844"
+   ],
+   "position": 1,
+   "is_itmo": true
+  },
+  {
+   "from": [
+    "GitHubProfile",
+    "borinya"
+   ],
+   "type": "POSSIBLY_SAME_AS",
+   "to": [
+    "Person",
+    "A5039785399"
+   ],
+   "score": 1.0,
+   "evidence": "name match via ITMO-NSS-team/sea_ice_transformers"
+  },
+  {
+   "from": [
+    "Person",
+    "A5135258852"
+   ],
+   "type": "AUTHORED",
+   "to": [
+    "Publication",
+    "W7163145844"
+   ],
+   "position": 2,
+   "is_itmo": false
+  },
+  {
+   "from": [
+    "Person",
+    "A5025840227"
+   ],
+   "type": "AUTHORED",
+   "to": [
+    "Publication",
+    "W7163145844"
+   ],
+   "position": 3,
+   "is_itmo": false
+  },
+  {
+   "from": [
+    "Person",
+    "A5114320572"
+   ],
+   "type": "AUTHORED",
+   "to": [
+    "Publication",
+    "W7163145844"
+   ],
+   "position": 5,
+   "is_itmo": true
+  },
+  {
+   "from": [
+    "Person",
+    "A5137694574"
+   ],
+   "type": "AUTHORED",
+   "to": [
+    "Publication",
+    "W7163145844"
+   ],
+   "position": 6,
+   "is_itmo": true
+  },
+  {
+   "from": [
+    "Person",
+    "A5015033130"
+   ],
+   "type": "AUTHORED",
+   "to": [
+    "Publication",
+    "W7163145844"
+   ],
+   "position": 7,
+   "is_itmo": false
+  },
+  {
+   "from": [
+    "Person",
+    "A5014299140"
+   ],
+   "type": "AUTHORED",
+   "to": [
+    "Publication",
+    "W7163145844"
+   ],
+   "position": 8,
+   "is_itmo": true
+  },
+  {
+   "from": [
+    "GitHubProfile",
+    "nicl-nno"
+   ],
+   "type": "POSSIBLY_SAME_AS",
+   "to": [
+    "Person",
+    "A5014299140"
+   ],
+   "score": 1.0,
+   "evidence": "name match via aimclub/FEDOT"
+  },
+  {
+   "from": [
+    "Repository",
+    "ITMO-NSS-team/sea_ice_transformers"
+   ],
+   "type": "IMPLEMENTS",
+   "to": [
+    "Publication",
+    "W7163145844"
+   ],
+   "evidence": [
+    "itmo_author",
+    "contributor_is_author"
+   ],
+   "source": "readme"
+  },
+  {
+   "from": [
+    "Repository",
+    "ITMO-NSS-team/senne"
+   ],
+   "type": "OWNED_BY",
+   "to": [
+    "GitHubProfile",
+    "ITMO-NSS-team"
+   ]
+  },
+  {
+   "from": [
+    "Repository",
+    "ITMO-NSS-team/syn-tune-fm"
+   ],
+   "type": "OWNED_BY",
+   "to": [
+    "GitHubProfile",
+    "ITMO-NSS-team"
+   ]
+  },
+  {
+   "from": [
+    "Repository",
+    "ITMO-NSS-team/tensor-decompositions"
+   ],
+   "type": "OWNED_BY",
+   "to": [
+    "GitHubProfile",
+    "ITMO-NSS-team"
+   ]
+  },
+  {
+   "from": [
+    "Repository",
+    "ITMO-NSS-team/torch_DE_solver"
+   ],
+   "type": "OWNED_BY",
+   "to": [
+    "GitHubProfile",
+    "ITMO-NSS-team"
+   ]
+  },
+  {
+   "from": [
+    "GitHubProfile",
+    "SuperSashka"
+   ],
+   "type": "CONTRIBUTED_TO",
+   "to": [
+    "Repository",
+    "ITMO-NSS-team/torch_DE_solver"
+   ],
+   "contributions": 234
+  },
+  {
+   "from": [
+    "GitHubProfile",
+    "aminevdom"
+   ],
+   "type": "CONTRIBUTED_TO",
+   "to": [
+    "Repository",
+    "ITMO-NSS-team/torch_DE_solver"
+   ],
+   "contributions": 31
+  },
+  {
+   "from": [
+    "GitHubProfile",
+    "tatikhonova"
+   ],
+   "type": "CONTRIBUTED_TO",
+   "to": [
+    "Repository",
+    "ITMO-NSS-team/torch_DE_solver"
+   ],
+   "contributions": 10
+  },
+  {
+   "from": [
+    "Repository",
+    "ITMO-NSS-team/torch_DE_solver"
+   ],
+   "type": "MENTIONS_PAPER",
+   "to": [
+    "Publication",
+    "W4363650868"
+   ],
+   "source": "readme",
+   "role": "own",
+   "section": "Citation",
+   "resolved": true
+  },
+  {
+   "from": [
+    "Person",
+    "A5004239401"
+   ],
+   "type": "AUTHORED",
+   "to": [
+    "Publication",
+    "W4363650868"
+   ],
+   "position": 0,
+   "is_itmo": true
+  },
+  {
+   "from": [
+    "Repository",
+    "ITMO-NSS-team/torch_DE_solver"
+   ],
+   "type": "IMPLEMENTS",
+   "to": [
+    "Publication",
+    "W4363650868"
+   ],
+   "evidence": [
+    "itmo_author",
+    "contributor_is_author"
+   ],
+   "source": "readme"
+  },
+  {
+   "from": [
+    "Repository",
+    "aimclub/.github"
+   ],
+   "type": "OWNED_BY",
+   "to": [
+    "GitHubProfile",
+    "aimclub"
+   ]
+  },
+  {
+   "from": [
+    "Repository",
+    "aimclub/AutoTM"
+   ],
+   "type": "OWNED_BY",
+   "to": [
+    "GitHubProfile",
+    "aimclub"
+   ]
+  },
+  {
+   "from": [
+    "GitHubProfile",
+    "ngc436"
+   ],
+   "type": "CONTRIBUTED_TO",
+   "to": [
+    "Repository",
+    "aimclub/AutoTM"
+   ],
+   "contributions": 377
+  },
+  {
+   "from": [
+    "GitHubProfile",
+    "fonhorst"
+   ],
+   "type": "CONTRIBUTED_TO",
+   "to": [
+    "Repository",
+    "aimclub/AutoTM"
+   ],
+   "contributions": 11
+  },
+  {
+   "from": [
+    "GitHubProfile",
+    "netang"
+   ],
+   "type": "CONTRIBUTED_TO",
+   "to": [
+    "Repository",
+    "aimclub/AutoTM"
+   ],
+   "contributions": 6
+  },
+  {
+   "from": [
+    "Repository",
+    "aimclub/AutoTM"
+   ],
+   "type": "MENTIONS_PAPER",
+   "to": [
+    "Publication",
+    "W4210358484"
+   ],
+   "source": "readme",
+   "role": "own",
+   "section": "Citation",
+   "resolved": true
+  },
+  {
+   "from": [
+    "Person",
+    "A5049619472"
+   ],
+   "type": "AUTHORED",
+   "to": [
+    "Publication",
+    "W4210358484"
+   ],
+   "position": 0,
+   "is_itmo": true
+  },
+  {
+   "from": [
+    "GitHubProfile",
+    "ngc436"
+   ],
+   "type": "POSSIBLY_SAME_AS",
+   "to": [
+    "Person",
+    "A5049619472"
+   ],
+   "score": 1.0,
+   "evidence": "name match via aimclub/AutoTM"
+  },
+  {
+   "from": [
+    "Person",
+    "A5061336784"
+   ],
+   "type": "AUTHORED",
+   "to": [
+    "Publication",
+    "W4210358484"
+   ],
+   "position": 1,
+   "is_itmo": true
+  },
+  {
+   "from": [
+    "Person",
+    "A5031976339"
+   ],
+   "type": "AUTHORED",
+   "to": [
+    "Publication",
+    "W4210358484"
+   ],
+   "position": 2,
+   "is_itmo": true
+  },
+  {
+   "from": [
+    "Person",
+    "A5015077486"
+   ],
+   "type": "AUTHORED",
+   "to": [
+    "Publication",
+    "W4210358484"
+   ],
+   "position": 3,
+   "is_itmo": true
+  },
+  {
+   "from": [
+    "Repository",
+    "aimclub/AutoTM"
+   ],
+   "type": "IMPLEMENTS",
+   "to": [
+    "Publication",
+    "W4210358484"
+   ],
+   "evidence": [
+    "itmo_author",
+    "contributor_is_author"
+   ],
+   "source": "readme"
+  },
+  {
+   "from": [
+    "Repository",
+    "aimclub/BAMT"
+   ],
+   "type": "OWNED_BY",
+   "to": [
+    "GitHubProfile",
+    "aimclub"
+   ]
+  },
+  {
+   "from": [
+    "GitHubProfile",
+    "jrzkaminski"
+   ],
+   "type": "CONTRIBUTED_TO",
+   "to": [
+    "Repository",
+    "aimclub/BAMT"
+   ],
+   "contributions": 224
+  },
+  {
+   "from": [
+    "GitHubProfile",
+    "Roman223"
+   ],
+   "type": "CONTRIBUTED_TO",
+   "to": [
+    "Repository",
+    "aimclub/BAMT"
+   ],
+   "contributions": 75
+  },
+  {
+   "from": [
+    "GitHubProfile",
+    "Anaxagor"
+   ],
+   "type": "CONTRIBUTED_TO",
+   "to": [
+    "Repository",
+    "aimclub/BAMT"
+   ],
+   "contributions": 38
+  },
+  {
+   "from": [
+    "Repository",
+    "aimclub/BAMT"
+   ],
+   "type": "MENTIONS_PAPER",
+   "to": [
+    "Publication",
+    "W3135906580"
+   ],
+   "source": "readme",
+   "role": "own",
+   "section": "Publications about BAMT",
+   "resolved": true
+  },
+  {
+   "from": [
+    "Person",
+    "A5110953720"
+   ],
+   "type": "AUTHORED",
+   "to": [
+    "Publication",
+    "W3135906580"
+   ],
+   "position": 0,
+   "is_itmo": true
+  },
+  {
+   "from": [
+    "GitHubProfile",
+    "Anaxagor"
+   ],
+   "type": "POSSIBLY_SAME_AS",
+   "to": [
+    "Person",
+    "A5110953720"
+   ],
+   "score": 1.0,
+   "evidence": "name match via aimclub/BAMT"
+  },
+  {
+   "from": [
+    "Person",
+    "A5084744585"
+   ],
+   "type": "AUTHORED",
+   "to": [
+    "Publication",
+    "W3135906580"
+   ],
+   "position": 1,
+   "is_itmo": true
+  },
+  {
+   "from": [
+    "Person",
+    "A5055057605"
+   ],
+   "type": "AUTHORED",
+   "to": [
+    "Publication",
+    "W3135906580"
+   ],
+   "position": 2,
+   "is_itmo": true
+  },
+  {
+   "from": [
+    "Person",
+    "A5112723106"
+   ],
+   "type": "AUTHORED",
+   "to": [
+    "Publication",
+    "W3135906580"
+   ],
+   "position": 3,
+   "is_itmo": true
+  },
+  {
+   "from": [
+    "Person",
+    "A5015301734"
+   ],
+   "type": "AUTHORED",
+   "to": [
+    "Publication",
+    "W3135906580"
+   ],
+   "position": 4,
+   "is_itmo": true
+  },
+  {
+   "from": [
+    "Person",
+    "A5014299140"
+   ],
+   "type": "AUTHORED",
+   "to": [
+    "Publication",
+    "W3135906580"
+   ],
+   "position": 5,
+   "is_itmo": true
+  },
+  {
+   "from": [
+    "Person",
+    "A5056189231"
+   ],
+   "type": "AUTHORED",
+   "to": [
+    "Publication",
+    "W3135906580"
+   ],
+   "position": 6,
+   "is_itmo": true
+  },
+  {
+   "from": [
+    "Repository",
+    "aimclub/BAMT"
+   ],
+   "type": "IMPLEMENTS",
+   "to": [
+    "Publication",
+    "W3135906580"
+   ],
+   "evidence": [
+    "itmo_author",
+    "contributor_is_author"
+   ],
+   "source": "readme"
+  },
+  {
+   "from": [
+    "Repository",
+    "aimclub/BAMT"
+   ],
+   "type": "MENTIONS_PAPER",
+   "to": [
+    "Publication",
+    "W3083053899"
+   ],
+   "source": "readme",
+   "role": "own",
+   "section": "Publications about BAMT",
+   "resolved": true
+  },
+  {
+   "from": [
+    "Person",
+    "A5110953720"
+   ],
+   "type": "AUTHORED",
+   "to": [
+    "Publication",
+    "W3083053899"
+   ],
+   "position": 0,
+   "is_itmo": true
+  },
+  {
+   "from": [
+    "Person",
+    "A5055057605"
+   ],
+   "type": "AUTHORED",
+   "to": [
+    "Publication",
+    "W3083053899"
+   ],
+   "position": 1,
+   "is_itmo": true
+  },
+  {
+   "from": [
+    "Person",
+    "A5056189231"
+   ],
+   "type": "AUTHORED",
+   "to": [
+    "Publication",
+    "W3083053899"
+   ],
+   "position": 2,
+   "is_itmo": true
+  },
+  {
+   "from": [
+    "Person",
+    "A5035754267"
+   ],
+   "type": "AUTHORED",
+   "to": [
+    "Publication",
+    "W3083053899"
+   ],
+   "position": 3,
+   "is_itmo": true
+  },
+  {
+   "from": [
+    "Repository",
+    "aimclub/BAMT"
+   ],
+   "type": "IMPLEMENTS",
+   "to": [
+    "Publication",
+    "W3083053899"
+   ],
+   "evidence": [
+    "itmo_author",
+    "contributor_is_author"
+   ],
+   "source": "readme"
+  },
+  {
+   "from": [
+    "Repository",
+    "aimclub/CoResearchGraph"
+   ],
+   "type": "OWNED_BY",
+   "to": [
+    "GitHubProfile",
+    "aimclub"
+   ]
+  },
+  {
+   "from": [
+    "Repository",
+    "aimclub/ECG"
+   ],
+   "type": "OWNED_BY",
+   "to": [
+    "GitHubProfile",
+    "aimclub"
+   ]
+  },
+  {
+   "from": [
+    "GitHubProfile",
+    "tanyapole"
+   ],
+   "type": "CONTRIBUTED_TO",
+   "to": [
+    "Repository",
+    "aimclub/ECG"
+   ],
+   "contributions": 99
+  },
+  {
+   "from": [
+    "GitHubProfile",
+    "Ogurecher"
+   ],
+   "type": "CONTRIBUTED_TO",
+   "to": [
+    "Repository",
+    "aimclub/ECG"
+   ],
+   "contributions": 40
+  },
+  {
+   "from": [
+    "GitHubProfile",
+    "DanilZmievskiy"
+   ],
+   "type": "CONTRIBUTED_TO",
+   "to": [
+    "Repository",
+    "aimclub/ECG"
+   ],
+   "contributions": 15
+  },
+  {
+   "from": [
+    "Repository",
+    "aimclub/ECG"
+   ],
+   "type": "MENTIONS_PAPER",
+   "to": [
+    "Publication",
+    "W4281686120"
+   ],
+   "source": "readme",
+   "role": "own",
+   "section": "Publications about ECG Recognition Library",
+   "resolved": true
+  },
+  {
+   "from": [
+    "Person",
+    "A5075981202"
+   ],
+   "type": "AUTHORED",
+   "to": [
+    "Publication",
+    "W4281686120"
+   ],
+   "position": 0,
+   "is_itmo": true
+  },
+  {
+   "from": [
+    "Person",
+    "A5003292247"
+   ],
+   "type": "AUTHORED",
+   "to": [
+    "Publication",
+    "W4281686120"
+   ],
+   "position": 1,
+   "is_itmo": true
+  },
+  {
+   "from": [
+    "Repository",
+    "aimclub/ECG"
+   ],
+   "type": "IMPLEMENTS",
+   "to": [
+    "Publication",
+    "W4281686120"
+   ],
+   "evidence": [
+    "itmo_author"
+   ],
+   "source": "readme"
+  },
+  {
+   "from": [
+    "Repository",
+    "aimclub/Edulytica"
+   ],
+   "type": "OWNED_BY",
+   "to": [
+    "GitHubProfile",
+    "aimclub"
+   ]
+  },
+  {
+   "from": [
+    "Repository",
+    "aimclub/FEDOT.LLM"
+   ],
+   "type": "OWNED_BY",
+   "to": [
+    "GitHubProfile",
+    "aimclub"
+   ]
+  },
+  {
+   "from": [
+    "Repository",
+    "aimclub/FEDOT.Web"
+   ],
+   "type": "OWNED_BY",
+   "to": [
+    "GitHubProfile",
+    "aimclub"
+   ]
+  },
+  {
+   "from": [
+    "GitHubProfile",
+    "nicl-nno"
+   ],
+   "type": "CONTRIBUTED_TO",
+   "to": [
+    "Repository",
+    "aimclub/FEDOT.Web"
+   ],
+   "contributions": 38
+  },
+  {
+   "from": [
+    "GitHubProfile",
+    "Sash0check"
+   ],
+   "type": "CONTRIBUTED_TO",
+   "to": [
+    "Repository",
+    "aimclub/FEDOT.Web"
+   ],
+   "contributions": 17
+  },
+  {
+   "from": [
+    "GitHubProfile",
+    "MorrisNein"
+   ],
+   "type": "CONTRIBUTED_TO",
+   "to": [
+    "Repository",
+    "aimclub/FEDOT.Web"
+   ],
+   "contributions": 7
+  },
+  {
+   "from": [
+    "Repository",
+    "aimclub/FEDOT.Web"
+   ],
+   "type": "MENTIONS_PAPER",
+   "to": [
+    "Publication",
+    "W3177395556"
+   ],
+   "source": "readme",
+   "role": "own",
+   "section": "Citation",
+   "resolved": true
+  },
+  {
+   "from": [
+    "Repository",
+    "aimclub/FEDOT.Web"
+   ],
+   "type": "IMPLEMENTS",
+   "to": [
+    "Publication",
+    "W3177395556"
+   ],
+   "evidence": [
+    "itmo_author",
+    "contributor_is_author"
+   ],
+   "source": "readme"
+  },
+  {
+   "from": [
+    "Repository",
+    "aimclub/FEDOT"
+   ],
+   "type": "OWNED_BY",
+   "to": [
+    "GitHubProfile",
+    "aimclub"
+   ]
+  },
+  {
+   "from": [
+    "GitHubProfile",
+    "nicl-nno"
+   ],
+   "type": "CONTRIBUTED_TO",
+   "to": [
+    "Repository",
+    "aimclub/FEDOT"
+   ],
+   "contributions": 224
+  },
+  {
+   "from": [
+    "GitHubProfile",
+    "YanaPolonskaya"
+   ],
+   "type": "CONTRIBUTED_TO",
+   "to": [
+    "Repository",
+    "aimclub/FEDOT"
+   ],
+   "contributions": 82
+  },
+  {
+   "from": [
+    "GitHubProfile",
+    "BarabanovaIrina"
+   ],
+   "type": "CONTRIBUTED_TO",
+   "to": [
+    "Repository",
+    "aimclub/FEDOT"
+   ],
+   "contributions": 69
+  },
+  {
+   "from": [
+    "Repository",
+    "aimclub/FEDOT"
+   ],
+   "type": "MENTIONS_PAPER",
+   "to": [
+    "Publication",
+    "W3177395556"
+   ],
+   "source": "readme",
+   "role": "own",
+   "section": "Цитирование",
+   "resolved": true
+  },
+  {
+   "from": [
+    "GitHubProfile",
+    "BarabanovaIrina"
+   ],
+   "type": "POSSIBLY_SAME_AS",
+   "to": [
+    "Person",
+    "A5039954582"
+   ],
+   "score": 1.0,
+   "evidence": "name match via aimclub/FEDOT"
+  },
+  {
+   "from": [
+    "Repository",
+    "aimclub/FEDOT"
+   ],
+   "type": "IMPLEMENTS",
+   "to": [
+    "Publication",
+    "W3177395556"
+   ],
+   "evidence": [
+    "itmo_author",
+    "contributor_is_author"
+   ],
+   "source": "readme"
+  },
+  {
+   "from": [
+    "Repository",
+    "aimclub/FEDOT"
+   ],
+   "type": "MENTIONS_PAPER",
+   "to": [
+    "Publication",
+    "W3134621132"
+   ],
+   "source": "readme",
+   "role": "own",
+   "section": "Цитирование",
+   "resolved": true
+  },
+  {
+   "from": [
+    "Person",
+    "A5036734364"
+   ],
+   "type": "AUTHORED",
+   "to": [
+    "Publication",
+    "W3134621132"
+   ],
+   "position": 0,
+   "is_itmo": true
+  },
+  {
+   "from": [
+    "Person",
+    "A5014299140"
+   ],
+   "type": "AUTHORED",
+   "to": [
+    "Publication",
+    "W3134621132"
+   ],
+   "position": 1,
+   "is_itmo": true
+  },
+  {
+   "from": [
+    "Person",
+    "A5063535629"
+   ],
+   "type": "AUTHORED",
+   "to": [
+    "Publication",
+    "W3134621132"
+   ],
+   "position": 2,
+   "is_itmo": true
+  },
+  {
+   "from": [
+    "Person",
+    "A5004681734"
+   ],
+   "type": "AUTHORED",
+   "to": [
+    "Publication",
+    "W3134621132"
+   ],
+   "position": 3,
+   "is_itmo": true
+  },
+  {
+   "from": [
+    "Person",
+    "A5056189231"
+   ],
+   "type": "AUTHORED",
+   "to": [
+    "Publication",
+    "W3134621132"
+   ],
+   "position": 4,
+   "is_itmo": true
+  },
+  {
+   "from": [
+    "Repository",
+    "aimclub/FEDOT"
+   ],
+   "type": "IMPLEMENTS",
+   "to": [
+    "Publication",
+    "W3134621132"
+   ],
+   "evidence": [
+    "itmo_author",
+    "contributor_is_author"
+   ],
+   "source": "readme"
+  },
+  {
+   "from": [
+    "Repository",
+    "aimclub/Fedot.Industrial"
+   ],
+   "type": "OWNED_BY",
+   "to": [
+    "GitHubProfile",
+    "aimclub"
+   ]
+  },
+  {
+   "from": [
+    "GitHubProfile",
+    "technocreep"
+   ],
+   "type": "CONTRIBUTED_TO",
+   "to": [
+    "Repository",
+    "aimclub/Fedot.Industrial"
+   ],
+   "contributions": 149
+  },
+  {
+   "from": [
+    "GitHubProfile",
+    "N-31V"
+   ],
+   "type": "CONTRIBUTED_TO",
+   "to": [
+    "Repository",
+    "aimclub/Fedot.Industrial"
+   ],
+   "contributions": 68
+  },
+  {
+   "from": [
+    "GitHubProfile",
+    "leostre"
+   ],
+   "type": "CONTRIBUTED_TO",
+   "to": [
+    "Repository",
+    "aimclub/Fedot.Industrial"
+   ],
+   "contributions": 38
+  },
+  {
+   "from": [
+    "Repository",
+    "aimclub/Fedot.Industrial"
+   ],
+   "type": "MENTIONS_PAPER",
+   "to": [
+    "Publication",
+    "W2103659910"
+   ],
+   "source": "readme",
+   "role": "mention",
+   "section": "Энергопотребление здания",
+   "resolved": true
+  },
+  {
+   "from": [
+    "Person",
+    "A5072820255"
+   ],
+   "type": "AUTHORED",
+   "to": [
+    "Publication",
+    "W2103659910"
+   ],
+   "position": 0,
+   "is_itmo": false
+  },
+  {
+   "from": [
+    "Person",
+    "A5076552173"
+   ],
+   "type": "AUTHORED",
+   "to": [
+    "Publication",
+    "W2103659910"
+   ],
+   "position": 1,
+   "is_itmo": false
+  },
+  {
+   "from": [
+    "Person",
+    "A5071756565"
+   ],
+   "type": "AUTHORED",
+   "to": [
+    "Publication",
+    "W2103659910"
+   ],
+   "position": 2,
+   "is_itmo": false
+  },
+  {
+   "from": [
+    "Repository",
+    "aimclub/Fedot.Industrial"
+   ],
+   "type": "MENTIONS_PAPER",
+   "to": [
+    "Publication",
+    "W2283896980"
+   ],
+   "source": "readme",
+   "role": "mention",
+   "section": "Энергопотребление здания",
+   "resolved": true
+  },
+  {
+   "from": [
+    "Person",
+    "A5080811266"
+   ],
+   "type": "AUTHORED",
+   "to": [
+    "Publication",
+    "W2283896980"
+   ],
+   "position": 0,
+   "is_itmo": false
+  },
+  {
+   "from": [
+    "Person",
+    "A5010428044"
+   ],
+   "type": "AUTHORED",
+   "to": [
+    "Publication",
+    "W2283896980"
+   ],
+   "position": 1,
+   "is_itmo": false
+  },
+  {
+   "from": [
+    "Person",
+    "A5044205212"
+   ],
+   "type": "AUTHORED",
+   "to": [
+    "Publication",
+    "W2283896980"
+   ],
+   "position": 2,
+   "is_itmo": false
+  },
+  {
+   "from": [
+    "Person",
+    "A5078245746"
+   ],
+   "type": "AUTHORED",
+   "to": [
+    "Publication",
+    "W2283896980"
+   ],
+   "position": 4,
+   "is_itmo": false
+  },
+  {
+   "from": [
+    "Repository",
+    "aimclub/Fedot.Industrial"
+   ],
+   "type": "MENTIONS_PAPER",
+   "to": [
+    "Publication",
+    "W2911964244"
+   ],
+   "source": "readme",
+   "role": "mention",
+   "section": "Энергопотребление здания",
+   "resolved": true
+  },
+  {
+   "from": [
+    "Person",
+    "A5039125390"
+   ],
+   "type": "AUTHORED",
+   "to": [
+    "Publication",
+    "W2911964244"
+   ],
+   "position": 0,
+   "is_itmo": false
+  },
+  {
+   "from": [
+    "Repository",
+    "aimclub/Fedot.Industrial"
+   ],
+   "type": "MENTIONS_PAPER",
+   "to": [
+    "Publication",
+    "W4283022822"
+   ],
+   "source": "readme",
+   "role": "mention",
+   "section": "Энергопотребление здания",
+   "resolved": true
+  },
+  {
+   "from": [
+    "Person",
+    "A5050516915"
+   ],
+   "type": "AUTHORED",
+   "to": [
+    "Publication",
+    "W4283022822"
+   ],
+   "position": 1,
+   "is_itmo": false
+  },
+  {
+   "from": [
+    "Person",
+    "A5074769024"
+   ],
+   "type": "AUTHORED",
+   "to": [
+    "Publication",
+    "W4283022822"
+   ],
+   "position": 2,
+   "is_itmo": false
+  },
+  {
+   "from": [
+    "Repository",
+    "aimclub/Fedot.Industrial"
+   ],
+   "type": "MENTIONS_PAPER",
+   "to": [
+    "Publication",
+    "W4397293304"
+   ],
+   "source": "readme",
+   "role": "mention",
+   "section": "Температура ротора синхронного двигателя с постоянными магнитами (СДПМ)",
+   "resolved": true
+  },
+  {
+   "from": [
+    "Person",
+    "A5039083315"
+   ],
+   "type": "AUTHORED",
+   "to": [
+    "Publication",
+    "W4397293304"
+   ],
+   "position": 0,
+   "is_itmo": false
+  },
+  {
+   "from": [
+    "Person",
+    "A5077659042"
+   ],
+   "type": "AUTHORED",
+   "to": [
+    "Publication",
+    "W4397293304"
+   ],
+   "position": 1,
+   "is_itmo": false
+  },
+  {
+   "from": [
+    "Person",
+    "A5025356704"
+   ],
+   "type": "AUTHORED",
+   "to": [
+    "Publication",
+    "W4397293304"
+   ],
+   "position": 2,
+   "is_itmo": false
+  },
+  {
+   "from": [
+    "Person",
+    "A5063761460"
+   ],
+   "type": "AUTHORED",
+   "to": [
+    "Publication",
+    "W4397293304"
+   ],
+   "position": 3,
+   "is_itmo": false
+  },
+  {
+   "from": [
+    "Person",
+    "A5052586692"
+   ],
+   "type": "AUTHORED",
+   "to": [
+    "Publication",
+    "W4397293304"
+   ],
+   "position": 4,
+   "is_itmo": false
+  },
+  {
+   "from": [
+    "Repository",
+    "aimclub/Fedot.Industrial"
+   ],
+   "type": "MENTIONS_PAPER",
+   "to": [
+    "Publication",
+    "W2166547175"
+   ],
+   "source": "readme",
+   "role": "mention",
+   "section": "Температура ротора синхронного двигателя с постоянными магнитами (СДПМ)",
+   "resolved": true
+  },
+  {
+   "from": [
+    "Person",
+    "A5007259870"
+   ],
+   "type": "AUTHORED",
+   "to": [
+    "Publication",
+    "W2166547175"
+   ],
+   "position": 0,
+   "is_itmo": false
+  },
+  {
+   "from": [
+    "Person",
+    "A5002544391"
+   ],
+   "type": "AUTHORED",
+   "to": [
+    "Publication",
+    "W2166547175"
+   ],
+   "position": 1,
+   "is_itmo": false
+  },
+  {
+   "from": [
+    "Person",
+    "A5057019721"
+   ],
+   "type": "AUTHORED",
+   "to": [
+    "Publication",
+    "W2166547175"
+   ],
+   "position": 2,
+   "is_itmo": false
+  },
+  {
+   "from": [
+    "Person",
+    "A5112447937"
+   ],
+   "type": "AUTHORED",
+   "to": [
+    "Publication",
+    "W2166547175"
+   ],
+   "position": 3,
+   "is_itmo": false
+  },
+  {
+   "from": [
+    "Repository",
+    "aimclub/Fedot.Industrial"
+   ],
+   "type": "MENTIONS_PAPER",
+   "to": [
+    "Publication",
+    "W4328107256"
+   ],
+   "source": "readme",
+   "role": "own",
+   "section": "Цитирование",
+   "resolved": true
+  },
+  {
+   "from": [
+    "Person",
+    "A5063535629"
+   ],
+   "type": "AUTHORED",
+   "to": [
+    "Publication",
+    "W4328107256"
+   ],
+   "position": 0,
+   "is_itmo": true
+  },
+  {
+   "from": [
+    "Person",
+    "A5083165377"
+   ],
+   "type": "AUTHORED",
+   "to": [
+    "Publication",
+    "W4328107256"
+   ],
+   "position": 2,
+   "is_itmo": true
+  },
+  {
+   "from": [
+    "Person",
+    "A5014299140"
+   ],
+   "type": "AUTHORED",
+   "to": [
+    "Publication",
+    "W4328107256"
+   ],
+   "position": 3,
+   "is_itmo": true
+  },
+  {
+   "from": [
+    "Repository",
+    "aimclub/Fedot.Industrial"
+   ],
+   "type": "IMPLEMENTS",
+   "to": [
+    "Publication",
+    "W4328107256"
+   ],
+   "evidence": [
+    "itmo_author"
+   ],
+   "source": "readme"
+  },
+  {
+   "from": [
+    "Repository",
+    "aimclub/GEFEST"
+   ],
+   "type": "OWNED_BY",
+   "to": [
+    "GitHubProfile",
+    "aimclub"
+   ]
+  },
+  {
+   "from": [
+    "Repository",
+    "aimclub/GOLEM"
+   ],
+   "type": "OWNED_BY",
+   "to": [
+    "GitHubProfile",
+    "aimclub"
+   ]
+  },
+  {
+   "from": [
+    "Repository",
+    "aimclub/OCEANAI"
+   ],
+   "type": "OWNED_BY",
+   "to": [
+    "GitHubProfile",
+    "aimclub"
+   ]
+  },
+  {
+   "from": [
+    "GitHubProfile",
+    "DmitryRyumin"
+   ],
+   "type": "CONTRIBUTED_TO",
+   "to": [
+    "Repository",
+    "aimclub/OCEANAI"
+   ],
+   "contributions": 272
+  },
+  {
+   "from": [
+    "GitHubProfile",
+    "ElenaRyumina"
+   ],
+   "type": "CONTRIBUTED_TO",
+   "to": [
+    "Repository",
+    "aimclub/OCEANAI"
+   ],
+   "contributions": 83
+  },
+  {
+   "from": [
+    "GitHubProfile",
+    "MangaBoba"
+   ],
+   "type": "CONTRIBUTED_TO",
+   "to": [
+    "Repository",
+    "aimclub/OCEANAI"
+   ],
+   "contributions": 2
+  },
+  {
+   "from": [
+    "Repository",
+    "aimclub/OCEANAI"
+   ],
+   "type": "MENTIONS_PAPER",
+   "to": [
+    "Publication",
+    "W4400412873"
+   ],
+   "source": "readme",
+   "role": "own",
+   "section": "Journals",
+   "resolved": true
+  },
+  {
+   "from": [
+    "Person",
+    "A5052465844"
+   ],
+   "type": "AUTHORED",
+   "to": [
+    "Publication",
+    "W4400412873"
+   ],
+   "position": 0,
+   "is_itmo": false
+  },
+  {
+   "from": [
+    "GitHubProfile",
+    "ElenaRyumina"
+   ],
+   "type": "POSSIBLY_SAME_AS",
+   "to": [
+    "Person",
+    "A5052465844"
+   ],
+   "score": 1.0,
+   "evidence": "name match via aimclub/OCEANAI"
+  },
+  {
+   "from": [
+    "Person",
+    "A5050029665"
+   ],
+   "type": "AUTHORED",
+   "to": [
+    "Publication",
+    "W4400412873"
+   ],
+   "position": 1,
+   "is_itmo": false
+  },
+  {
+   "from": [
+    "Person",
+    "A5008249311"
+   ],
+   "type": "AUTHORED",
+   "to": [
+    "Publication",
+    "W4400412873"
+   ],
+   "position": 2,
+   "is_itmo": false
+  },
+  {
+   "from": [
+    "GitHubProfile",
+    "DmitryRyumin"
+   ],
+   "type": "POSSIBLY_SAME_AS",
+   "to": [
+    "Person",
+    "A5008249311"
+   ],
+   "score": 1.0,
+   "evidence": "name match via aimclub/OCEANAI"
+  },
+  {
+   "from": [
+    "Person",
+    "A5032870944"
+   ],
+   "type": "AUTHORED",
+   "to": [
+    "Publication",
+    "W4400412873"
+   ],
+   "position": 3,
+   "is_itmo": true
+  },
+  {
+   "from": [
+    "Repository",
+    "aimclub/OCEANAI"
+   ],
+   "type": "IMPLEMENTS",
+   "to": [
+    "Publication",
+    "W4400412873"
+   ],
+   "evidence": [
+    "itmo_author",
+    "contributor_is_author"
+   ],
+   "source": "readme"
+  },
+  {
+   "from": [
+    "Repository",
+    "aimclub/OCEANAI"
+   ],
+   "type": "MENTIONS_PAPER",
+   "to": [
+    "Publication",
+    "W4388439747"
+   ],
+   "source": "readme",
+   "role": "own",
+   "section": "Journals",
+   "resolved": true
+  },
+  {
+   "from": [
+    "Person",
+    "A5052465844"
+   ],
+   "type": "AUTHORED",
+   "to": [
+    "Publication",
+    "W4388439747"
+   ],
+   "position": 0,
+   "is_itmo": false
+  },
+  {
+   "from": [
+    "Person",
+    "A5050029665"
+   ],
+   "type": "AUTHORED",
+   "to": [
+    "Publication",
+    "W4388439747"
+   ],
+   "position": 1,
+   "is_itmo": false
+  },
+  {
+   "from": [
+    "Person",
+    "A5008249311"
+   ],
+   "type": "AUTHORED",
+   "to": [
+    "Publication",
+    "W4388439747"
+   ],
+   "position": 2,
+   "is_itmo": false
+  },
+  {
+   "from": [
+    "Person",
+    "A5032870944"
+   ],
+   "type": "AUTHORED",
+   "to": [
+    "Publication",
+    "W4388439747"
+   ],
+   "position": 3,
+   "is_itmo": true
+  },
+  {
+   "from": [
+    "Repository",
+    "aimclub/OCEANAI"
+   ],
+   "type": "IMPLEMENTS",
+   "to": [
+    "Publication",
+    "W4388439747"
+   ],
+   "evidence": [
+    "itmo_author",
+    "contributor_is_author"
+   ],
+   "source": "readme"
+  },
+  {
+   "from": [
+    "Repository",
+    "aimclub/OCEANAI"
+   ],
+   "type": "MENTIONS_PAPER",
+   "to": [
+    "Publication",
+    "W4303437686"
+   ],
+   "source": "readme",
+   "role": "own",
+   "section": "Journals",
+   "resolved": true
+  },
+  {
+   "from": [
+    "Person",
+    "A5052465844"
+   ],
+   "type": "AUTHORED",
+   "to": [
+    "Publication",
+    "W4303437686"
+   ],
+   "position": 0,
+   "is_itmo": false
+  },
+  {
+   "from": [
+    "Person",
+    "A5031192722"
+   ],
+   "type": "AUTHORED",
+   "to": [
+    "Publication",
+    "W4303437686"
+   ],
+   "position": 1,
+   "is_itmo": true
+  },
+  {
+   "from": [
+    "Person",
+    "A5032870944"
+   ],
+   "type": "AUTHORED",
+   "to": [
+    "Publication",
+    "W4303437686"
+   ],
+   "position": 2,
+   "is_itmo": false
+  },
+  {
+   "from": [
+    "Repository",
+    "aimclub/OCEANAI"
+   ],
+   "type": "IMPLEMENTS",
+   "to": [
+    "Publication",
+    "W4303437686"
+   ],
+   "evidence": [
+    "itmo_author",
+    "contributor_is_author"
+   ],
+   "source": "readme"
+  },
+  {
+   "from": [
+    "Repository",
+    "aimclub/OCEANAI"
+   ],
+   "type": "MENTIONS_PAPER",
+   "to": [
+    "Publication",
+    "W4385822343"
+   ],
+   "source": "readme",
+   "role": "own",
+   "section": "Conferences",
+   "resolved": true
+  },
+  {
+   "from": [
+    "Person",
+    "A5052465844"
+   ],
+   "type": "AUTHORED",
+   "to": [
+    "Publication",
+    "W4385822343"
+   ],
+   "position": 0,
+   "is_itmo": false
+  },
+  {
+   "from": [
+    "Person",
+    "A5008249311"
+   ],
+   "type": "AUTHORED",
+   "to": [
+    "Publication",
+    "W4385822343"
+   ],
+   "position": 1,
+   "is_itmo": false
+  },
+  {
+   "from": [
+    "Person",
+    "A5050029665"
+   ],
+   "type": "AUTHORED",
+   "to": [
+    "Publication",
+    "W4385822343"
+   ],
+   "position": 2,
+   "is_itmo": false
+  },
+  {
+   "from": [
+    "Person",
+    "A5050585145"
+   ],
+   "type": "AUTHORED",
+   "to": [
+    "Publication",
+    "W4385822343"
+   ],
+   "position": 3,
+   "is_itmo": false
+  },
+  {
+   "from": [
+    "Person",
+    "A5032870944"
+   ],
+   "type": "AUTHORED",
+   "to": [
+    "Publication",
+    "W4385822343"
+   ],
+   "position": 4,
+   "is_itmo": false
+  },
+  {
+   "from": [
+    "Repository",
+    "aimclub/OCEANAI"
+   ],
+   "type": "IMPLEMENTS",
+   "to": [
+    "Publication",
+    "W4385822343"
+   ],
+   "evidence": [
+    "contributor_is_author"
+   ],
+   "source": "readme"
+  },
+  {
+   "from": [
+    "Repository",
+    "aimclub/ODRS"
+   ],
+   "type": "OWNED_BY",
+   "to": [
+    "GitHubProfile",
+    "aimclub"
+   ]
+  },
+  {
+   "from": [
+    "Repository",
+    "aimclub/OSA"
+   ],
+   "type": "OWNED_BY",
+   "to": [
+    "GitHubProfile",
+    "aimclub"
+   ]
+  },
+  {
+   "from": [
+    "Repository",
+    "aimclub/Polygon.Web"
+   ],
+   "type": "OWNED_BY",
+   "to": [
+    "GitHubProfile",
+    "aimclub"
+   ]
+  },
+  {
+   "from": [
+    "Repository",
+    "aimclub/ProtoLLM"
+   ],
+   "type": "OWNED_BY",
+   "to": [
+    "GitHubProfile",
+    "aimclub"
+   ]
+  },
+  {
+   "from": [
+    "Repository",
+    "aimclub/ReDKG"
+   ],
+   "type": "OWNED_BY",
+   "to": [
+    "GitHubProfile",
+    "aimclub"
+   ]
+  },
+  {
+   "from": [
+    "Repository",
+    "aimclub/ReDKG"
+   ],
+   "type": "MENTIONS_PAPER",
+   "to": [
+    "Publication",
+    "W4312976994"
+   ],
+   "source": "readme",
+   "role": "own",
+   "section": "Цитирование",
+   "resolved": true
+  },
+  {
+   "from": [
+    "Person",
+    "A5084117359"
+   ],
+   "type": "AUTHORED",
+   "to": [
+    "Publication",
+    "W4312976994"
+   ],
+   "position": 0,
+   "is_itmo": true
+  },
+  {
+   "from": [
+    "Person",
+    "A5011903206"
+   ],
+   "type": "AUTHORED",
+   "to": [
+    "Publication",
+    "W4312976994"
+   ],
+   "position": 1,
+   "is_itmo": true
+  },
+  {
+   "from": [
+    "Person",
+    "A5039016248"
+   ],
+   "type": "AUTHORED",
+   "to": [
+    "Publication",
+    "W4312976994"
+   ],
+   "position": 2,
+   "is_itmo": true
+  },
+  {
+   "from": [
+    "Repository",
+    "aimclub/ReDKG"
+   ],
+   "type": "IMPLEMENTS",
+   "to": [
+    "Publication",
+    "W4312976994"
+   ],
+   "evidence": [
+    "itmo_author"
+   ],
+   "source": "readme"
+  },
+  {
+   "from": [
+    "Repository",
+    "aimclub/SAMPO"
+   ],
+   "type": "OWNED_BY",
+   "to": [
+    "GitHubProfile",
+    "aimclub"
+   ]
+  },
+  {
+   "from": [
+    "Repository",
+    "aimclub/StableGNN"
+   ],
+   "type": "OWNED_BY",
+   "to": [
+    "GitHubProfile",
+    "aimclub"
+   ]
+  },
+  {
+   "from": [
+    "Repository",
+    "aimclub/Web-BAMT"
+   ],
+   "type": "OWNED_BY",
+   "to": [
+    "GitHubProfile",
+    "aimclub"
+   ]
+  },
+  {
+   "from": [
+    "Repository",
+    "aimclub/ai-competency-model"
+   ],
+   "type": "OWNED_BY",
+   "to": [
+    "GitHubProfile",
+    "aimclub"
+   ]
+  },
+  {
+   "from": [
+    "Repository",
+    "aimclub/asid"
+   ],
+   "type": "OWNED_BY",
+   "to": [
+    "GitHubProfile",
+    "aimclub"
+   ]
+  },
+  {
+   "from": [
+    "Repository",
+    "aimclub/blocksnet"
+   ],
+   "type": "OWNED_BY",
+   "to": [
+    "GitHubProfile",
+    "aimclub"
+   ]
+  },
+  {
+   "from": [
+    "Repository",
+    "aimclub/blocksnet"
+   ],
+   "type": "MENTIONS_PAPER",
+   "to": [
+    "Publication",
+    "W4390505709"
+   ],
+   "source": "readme",
+   "role": "own",
+   "section": "Publications",
+   "resolved": true
+  },
+  {
+   "from": [
+    "Person",
+    "A5064680612"
+   ],
+   "type": "AUTHORED",
+   "to": [
+    "Publication",
+    "W4390505709"
+   ],
+   "position": 0,
+   "is_itmo": true
+  },
+  {
+   "from": [
+    "Person",
+    "A5012451904"
+   ],
+   "type": "AUTHORED",
+   "to": [
+    "Publication",
+    "W4390505709"
+   ],
+   "position": 1,
+   "is_itmo": true
+  },
+  {
+   "from": [
+    "Person",
+    "A5093638273"
+   ],
+   "type": "AUTHORED",
+   "to": [
+    "Publication",
+    "W4390505709"
+   ],
+   "position": 2,
+   "is_itmo": true
+  },
+  {
+   "from": [
+    "Person",
+    "A5054424823"
+   ],
+   "type": "AUTHORED",
+   "to": [
+    "Publication",
+    "W4390505709"
+   ],
+   "position": 3,
+   "is_itmo": true
+  },
+  {
+   "from": [
+    "Person",
+    "A5038590181"
+   ],
+   "type": "AUTHORED",
+   "to": [
+    "Publication",
+    "W4390505709"
+   ],
+   "position": 4,
+   "is_itmo": true
+  },
+  {
+   "from": [
+    "Repository",
+    "aimclub/blocksnet"
+   ],
+   "type": "IMPLEMENTS",
+   "to": [
+    "Publication",
+    "W4390505709"
+   ],
+   "evidence": [
+    "itmo_author"
+   ],
+   "source": "readme"
+  },
+  {
+   "from": [
+    "Repository",
+    "aimclub/documentor"
+   ],
+   "type": "OWNED_BY",
+   "to": [
+    "GitHubProfile",
+    "aimclub"
+   ]
+  },
+  {
+   "from": [
+    "Repository",
+    "aimclub/eXplain-NNs"
+   ],
+   "type": "OWNED_BY",
+   "to": [
+    "GitHubProfile",
+    "aimclub"
+   ]
+  },
+  {
+   "from": [
+    "Repository",
+    "aimclub/evoguess-ai"
+   ],
+   "type": "OWNED_BY",
+   "to": [
+    "GitHubProfile",
+    "aimclub"
+   ]
+  },
+  {
+   "from": [
+    "Repository",
+    "aimclub/expert-hr"
+   ],
+   "type": "OWNED_BY",
+   "to": [
+    "GitHubProfile",
+    "aimclub"
+   ]
+  },
+  {
+   "from": [
+    "Repository",
+    "aimclub/foressment_lib"
+   ],
+   "type": "OWNED_BY",
+   "to": [
+    "GitHubProfile",
+    "aimclub"
+   ]
+  },
+  {
+   "from": [
+    "Repository",
+    "aimclub/foressment_lib"
+   ],
+   "type": "MENTIONS_PAPER",
+   "to": [
+    "Publication",
+    "W4313644131"
+   ],
+   "source": "readme",
+   "role": "mention",
+   "section": "",
+   "resolved": true
+  },
+  {
+   "from": [
+    "Person",
+    "A5014369213"
+   ],
+   "type": "AUTHORED",
+   "to": [
+    "Publication",
+    "W4313644131"
+   ],
+   "position": 0,
+   "is_itmo": false
+  },
+  {
+   "from": [
+    "Person",
+    "A5033986640"
+   ],
+   "type": "AUTHORED",
+   "to": [
+    "Publication",
+    "W4313644131"
+   ],
+   "position": 1,
+   "is_itmo": true
+  },
+  {
+   "from": [
+    "Repository",
+    "aimclub/iOpt"
+   ],
+   "type": "OWNED_BY",
+   "to": [
+    "GitHubProfile",
+    "aimclub"
+   ]
+  },
+  {
+   "from": [
+    "Repository",
+    "aimclub/open-source-ops"
+   ],
+   "type": "OWNED_BY",
+   "to": [
+    "GitHubProfile",
+    "aimclub"
+   ]
+  },
+  {
+   "from": [
+    "Repository",
+    "aimclub/protollm-api"
+   ],
+   "type": "OWNED_BY",
+   "to": [
+    "GitHubProfile",
+    "aimclub"
+   ]
+  },
+  {
+   "from": [
+    "Repository",
+    "aimclub/protollm-sdk"
+   ],
+   "type": "OWNED_BY",
+   "to": [
+    "GitHubProfile",
+    "aimclub"
+   ]
+  },
+  {
+   "from": [
+    "Repository",
+    "aimclub/rostok"
+   ],
+   "type": "OWNED_BY",
+   "to": [
+    "GitHubProfile",
+    "aimclub"
+   ]
+  },
+  {
+   "from": [
+    "Repository",
+    "aimclub/rostok"
+   ],
+   "type": "MENTIONS_PAPER",
+   "to": [
+    "Publication",
+    "W4285102446"
+   ],
+   "source": "readme",
+   "role": "own",
+   "section": "Цитирование",
+   "resolved": true
+  },
+  {
+   "from": [
+    "Person",
+    "A5103058126"
+   ],
+   "type": "AUTHORED",
+   "to": [
+    "Publication",
+    "W4285102446"
+   ],
+   "position": 0,
+   "is_itmo": true
+  },
+  {
+   "from": [
+    "Person",
+    "A5020683181"
+   ],
+   "type": "AUTHORED",
+   "to": [
+    "Publication",
+    "W4285102446"
+   ],
+   "position": 1,
+   "is_itmo": true
+  },
+  {
+   "from": [
+    "Person",
+    "A5041404348"
+   ],
+   "type": "AUTHORED",
+   "to": [
+    "Publication",
+    "W4285102446"
+   ],
+   "position": 2,
+   "is_itmo": true
+  },
+  {
+   "from": [
+    "Person",
+    "A5009877881"
+   ],
+   "type": "AUTHORED",
+   "to": [
+    "Publication",
+    "W4285102446"
+   ],
+   "position": 3,
+   "is_itmo": false
+  },
+  {
+   "from": [
+    "Person",
+    "A5069882694"
+   ],
+   "type": "AUTHORED",
+   "to": [
+    "Publication",
+    "W4285102446"
+   ],
+   "position": 4,
+   "is_itmo": false
+  },
+  {
+   "from": [
+    "Person",
+    "A5001747199"
+   ],
+   "type": "AUTHORED",
+   "to": [
+    "Publication",
+    "W4285102446"
+   ],
+   "position": 5,
+   "is_itmo": true
+  },
+  {
+   "from": [
+    "Repository",
+    "aimclub/rostok"
+   ],
+   "type": "IMPLEMENTS",
+   "to": [
+    "Publication",
+    "W4285102446"
+   ],
+   "evidence": [
+    "itmo_author"
+   ],
+   "source": "readme"
+  },
+  {
+   "from": [
+    "Repository",
+    "aimclub/top-ai-dpo"
+   ],
+   "type": "OWNED_BY",
+   "to": [
+    "GitHubProfile",
+    "aimclub"
+   ]
+  }
+ ]
+}
